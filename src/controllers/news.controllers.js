@@ -14,7 +14,7 @@ export const checkApiAvailability = async () => {
     const response = await axios.get(`${NEWS_API_URL}/test`, { timeout: 5000 });
     return response.status === 200;
   } catch (error) {
-    console.error('News API not available:', error.message);
+    console.error('News API not available::', error.message);
     return false;
   }
 };
@@ -141,68 +141,74 @@ export const getSupportedLanguages = asyncHandler(async (req, res) => {
   return res.status(200).json(new ApiResponse(200, response.data, "Supported languages retrieved successfully"));
 });
 
-// export const extractNews = asyncHandler(async (req, res) => {
-//   try {
-//     // First check if the API is available
-//     const testResponse = await axios.get('http://localhost:5000/test', { 
-//       timeout: 5000,
-//       headers: { 'Accept': 'application/json' }
-//     }).catch(err => {
-//       console.error("Error checking API availability:", err.message);
-//       return null;
-//     });
-    
-//     if (!testResponse) {
-//       throw new ApiError(503, "News API service is currently unavailable");
-//     }
-    
-//     // If API is available, proceed with the actual request
-//     const response = await axios.get('http://localhost:5000/news', { 
-//       timeout: 30000, // Increased timeout for larger responses
-//       headers: { 'Accept': 'application/json' }
-//     });
-
-//     const data = response.data;
-//     console.log('DATA extracted successfully');
-    
-//     if (!data) {
-//       throw new ApiError(500, "Invalid news data format from external source");
-//     }
-
-//     const dir = './extracted-news';
-//     if (!fs.existsSync(dir)) {
-//       fs.mkdirSync(dir, { recursive: true });
-//     }
-    
-//     fs.writeFileSync('./extracted-news/news.json', JSON.stringify(data, null, 2), 'utf-8');
-
-//     return res.status(200).json(new ApiResponse(200, data, "News fetched successfully from external source"));
-//   } catch (error) {
-//     console.error('Error extracting news:', error);
-//     throw new ApiError(500, error.message || "Failed to extract news");
-//   }
-// });
-
 export const addNewsToDatabase = asyncHandler(async (req, res) => {
   // if(req.user.role !== 'admin')
   //   throw new ApiError(403,'you are not authorized to perform this !')
 
-  const newsArray = JSON.parse(fs.readFileSync('./extracted-news/news.json', 'utf-8'))
+  const apiAvailable = await checkApiAvailability();
+  if (!apiAvailable) {
+    throw new ApiError(503, "News API service is currently unavailable");
+  }
 
-  if (!newsArray || !Array.isArray(newsArray)) {
+  const processingResponse = await axios.get(`${NEWS_API_URL}/status`, { timeout: 5000 });
+ 
+  const newsData = JSON.parse(fs.readFileSync('./extracted-news/news.json', 'utf-8'));
+
+  if (!newsData || !newsData.articles || !Array.isArray(newsData.articles)) {
     throw new ApiError(500, "Invalid news data format from external source");
   }
 
-  // console.log('NEWSDATA',newsArray)
-  const news = await News.insertMany(newsArray);
+  if (newsData.articles.length === 0 && processingResponse.data.processing === true) {
+    throw new ApiError(500, "Extracting news is still in progress, please try again later"); 
+  }
 
-  // console.log('NEWSDATA',news)
-  if (!news) {
+  if (newsData.articles.length === 0) {
+    throw new ApiError(404, "No news found in the extracted file");
+  }
+
+  const newsArticles = newsData.articles.map(article => ({
+    appwrite_audio_url: article.appwrite_audio_url || null,
+    article_id: article.article_id,
+    author: article.author || "Unknown Author",
+    category: article.category,
+    content: article.content,
+    date: article.date,
+    headline: article.headline,
+    images: article.images || [],
+    language: article.language,
+    main_image: article.main_image || null,
+    source: article.source,
+    summary: article.summary,
+    tags: article.tags || [],
+    time: article.time,
+    translations: article.translations || {},
+    tts_file_path: article.tts_file_path || null,
+    url: article.url,
+  }));
+
+  const insertResult = await News.insertMany(newsArticles, { ordered: false })
+    .catch(error => {
+      if (error.code === 11000) {
+        console.log("Some articles already exist in database - skipping duplicates");
+        return error.insertedDocs; // Return the documents that were successfully inserted
+      }
+      throw error;
+    });
+
+  if (!insertResult || insertResult.length === 0) {
     throw new ApiError(500, "Failed to insert news into the database");
   }
+
   return res
     .status(200)
-    .json(new ApiResponse(200, news, "News inserted successfully into the database"));
+    .json(new ApiResponse(
+      200, 
+      {
+        insertedCount: insertResult.length,
+        articles: insertResult
+      }, 
+      "News articles inserted successfully into the database"
+    ));
 });
 
 export const toggleStatus = asyncHandler(async (req, res) => {
@@ -247,6 +253,22 @@ export const getPublishedNews = asyncHandler(async (req, res) => {
     .json(new ApiResponse(200, news, "News fetched successfully"));
 });
 
+export const getNewsFromDatabase = asyncHandler(async (req, res) => {
+  // if(!req.user)
+  //   throw new ApiError(403,'Please login or verify to get the news')
+
+  const news = await News.find({});
+  if (!news) {
+    throw new ApiError(404, "No news found");
+  }
+  return res
+
+    .status(200)
+    .json(new ApiResponse(200, news, "News fetched successfully"));
+});
+
+
+
 export const updateNews = asyncHandler(async (req, res) => {
   // if(req.user.role !== "admin") {
   //   throw new ApiError(403, "You are not authorized to perform this action");
@@ -255,6 +277,13 @@ export const updateNews = asyncHandler(async (req, res) => {
   const {id} = req.params
 
   const allowedFields = ["headline", "summary", "tags", 'category']
+  const requestedFields = Object.keys(req.body)
+
+  // Check if any non-allowed field is being attempted to be updated
+  const nonAllowedFields = requestedFields.filter(field => !allowedFields.includes(field))
+  if (nonAllowedFields.length > 0) {
+    throw new ApiError(400, `Cannot update the field.`);
+  }
 
   const newsData = {};
 
@@ -265,8 +294,8 @@ export const updateNews = asyncHandler(async (req, res) => {
   }
 
   const updatedNews = await News.findByIdAndUpdate(id, newsData, {
-      new: true, // Return the updated document
-      runValidators: true, // Ensure validation rules are enforced
+      new: true,
+      runValidators: true,
   });
 
   if (!updatedNews) {
@@ -278,20 +307,6 @@ export const updateNews = asyncHandler(async (req, res) => {
       .json(new ApiResponse(200, updatedNews, "News item updated successfully"));
 });
 
-export const updateExtractedNews = asyncHandler(async (req, res) => {
-  // if(req.user.role !== 'admin')
-  //   throw new ApiError(403,'you are not authorized to perform this !')
-
-  const {news} = req.body
-
-  if (!news || !Array.isArray(news)) {
-    throw new ApiError(400, "Invalid news data format");
-  }
-
-  fs.writeFileSync('./extracted-news/news.json', JSON.stringify(news, null, 2), 'utf-8');
-
-  return res.status(200).json(new ApiResponse(200, news, "News updated successfully in the extracted file"));
-});
 
 export const deleteNews = asyncHandler(async (req, res) => {
   if(req.user.role !== "admin") {
@@ -313,4 +328,63 @@ export const deleteNews = asyncHandler(async (req, res) => {
   return res
     .status(200)
     .json(new ApiResponse(200, deletedNews, "News item deleted successfully"));
-});
+})
+
+
+// export const extractNews = asyncHandler(async (req, res) => {
+//   try {
+//     // First check if the API is available
+//     const testResponse = await axios.get('http://localhost:5000/test', { 
+//       timeout: 5000,
+//       headers: { 'Accept': 'application/json' }
+//     }).catch(err => {
+//       console.error("Error checking API availability:", err.message);
+//       return null;
+//     });
+    
+//     if (!testResponse) {
+//       throw new ApiError(503, "News API service is currently unavailable");
+//     }
+    
+//     // If API is available, proceed with the actual request
+//     const response = await axios.get('http://localhost:5000/news', { 
+//       timeout: 30000, // Increased timeout for larger responses
+//       headers: { 'Accept': 'application/json' }
+//     });
+
+//     const data = response.data;
+//     console.log('DATA extracted successfully');
+    
+//     if (!data) {
+//       throw new ApiError(500, "Invalid news data format from external source");
+//     }
+
+//     const dir = './extracted-news';
+//     if (!fs.existsSync(dir)) {
+//       fs.mkdirSync(dir, { recursive: true });
+//     }
+    
+//     fs.writeFileSync('./extracted-news/news.json', JSON.stringify(data, null, 2), 'utf-8');
+
+//     return res.status(200).json(new ApiResponse(200, data, "News fetched successfully from external source"));
+//   } catch (error) {
+//     console.error('Error extracting news:', error);
+//     throw new ApiError(500, error.message || "Failed to extract news");
+//   }
+// });
+
+
+// export const updateExtractedNews = asyncHandler(async (req, res) => {
+//   // if(req.user.role !== 'admin')
+//   //   throw new ApiError(403,'you are not authorized to perform this !')
+
+//   const {news} = req.body
+
+//   if (!news || !Array.isArray(news)) {
+//     throw new ApiError(400, "Invalid news data format");
+//   }
+
+//   fs.writeFileSync('./extracted-news/news.json', JSON.stringify(news, null, 2), 'utf-8');
+
+//   return res.status(200).json(new ApiResponse(200, news, "News updated successfully in the extracted file"));
+// });

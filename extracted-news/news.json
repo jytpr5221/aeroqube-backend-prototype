@@ -1,124 +1,424 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17f64002598670f7c/view?project=67efb54900393d4937bf",
+      "article_id": "7b477ee77bbc",
+      "author": "Unknown Author",
+      "category": "Kerala",
+      "content": "The Indian Institute of Management Kozhikode (IIMK ) launched its 18th batch of Executive Graduate Programme in Management (EPGP) on Saturday. Launching the programme brochure, IIMK Director Debashis Chatterjee said EPGP was a flagship two-year MBA programme designed for working professionals. It combines the flexibility of online interactive learning with on-campus modules. “This format allows learners to pursue rigorous academic advancement without interrupting their careers,” he told reporters. In the past, participants came from a broad spectrum of industries including IT, consulting, aerospace, banking, public sector, energy, automotive, healthcare, e-commerce, and manufacturing. They hailed from diverse educational backgrounds and with work experience ranging from three to 25 years. Later, answering queries, outgoing Dean (Programmes) Rajesh Srinivas Upadhyayula said that ‘Live’, the business incubator at IIMK had by now created lakhs of entrepreneurs. “There are around 100 startups that have been incubated at IIMK Live,” he said, adding that one of them, based in Thiruvananthapuram, had recently received ₹10-crore funding to develop microchips that could be of immense use in the defence sector. On the placement rate at IIMK, Mr. Chatterjee said the institute did not look at placements as an indicator of quality. “It is not their entry-level jobs that matter, but what our students do 15 years after graduating from IIMK,” he added. Dean (Outreach) Deepa Sethi, Dean (Programmes) Anandakuttan B. Unnithan, and Associate Dean of IIMK Kochi campus Venkataraman S. were present. Published - April 06, 2025 12:34 am IST",
+      "date": "2025-04-06",
+      "headline": "IIMK launches 18th batch of EPGP",
+      "images": [
+        {
+          "filename": "IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
+          "local_path": "output\\images\\IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
+          "position": 0,
+          "server_url": "http://localhost:5000/images/IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
+          "url": "https://th-i.thgim.com/public/incoming/bipz63/article69417244.ece/alternates/LANDSCAPE_1200/80692_5_4_2025_19_40_27_1_06TVKZCONVOCATION.JPG"
+        }
+      ],
+      "language": "en",
+      "main_image": {
+        "filename": "IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
+        "local_path": "output\\images\\IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
+        "position": 0,
+        "server_url": "http://localhost:5000/images/IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
+        "url": "https://th-i.thgim.com/public/incoming/bipz63/article69417244.ece/alternates/LANDSCAPE_1200/80692_5_4_2025_19_40_27_1_06TVKZCONVOCATION.JPG"
+      },
+      "source": "The Hindu",
+      "summary": "The Indian Institute of Management Kozhikode (IIMK ) launched its 18th batch of Executive Graduate Programme in Management (EPGP) on Saturday. Launching the programme brochure, IIMK Director Debashis Chatterjee said EPGP was a flagship two-year MBA programme designed for working professionals. It combines the flexibility of online interactive learning with on-campus modules. “This format allows learners to pursue rigorous academic advancement without interrupting their careers,” he told reporters. In the past, participants came from a broad spectrum of industries including IT, consulting, aerospace, banking, public sector, energy, automotive, healthcare, e-commerce, and manufacturing. They hailed from diverse educational backgrounds and with work experience ranging from three to 25 years. Later, answering queries, outgoing Dean (Programmes) Rajesh Srinivas Upadhyayula said that ‘Live’, the business incubator at IIMK had by now created lakhs of entrepreneurs. “There are around 100 start",
+      "tags": [],
+      "time": "00:34:09",
+      "translations": {
+        "as": {
+          "appwrite_audio_url": null,
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK-এ মুকলি কৰিলে ইপিজিপিৰ ১৮ নং বেটচ",
+          "source": "The Hindu",
+          "summary": "ইণ্ডিয়ান ইনষ্টিটিউট অৱ মেনেজমেণ্ট কোজিকোডে (আই আই এম কে )ৰ ১৮ সংখ্যক বেটচ এক্সিকিউটিভ গ্ৰেজুৱেট প্ৰগ্ৰেম ইন মেনেজমেণ্ট (ই পি জি পি) শনিবাৰে মুকলি কৰে। প্ৰগ্ৰেম ব্ৰ’চাৰখন মুকলি কৰি আই আই এম কেৰ সঞ্চালক দেৱাশীষ চেটাৰ্জীয়ে কয় যে ই পি জি পি হৈছে কৰ্মৰত পেছাদাৰীসকলৰ বাবে ডিজাইন কৰা দুবছৰীয়া এম বি এ প্ৰগ্ৰেম। ই অনলাইন ইন্টাৰেক্টিভ লাৰ্নিঙৰ নমনীয়তাক অন-কেম্পাছ মডিউলৰ সৈতে সংযুক্ত কৰে। সাংবাদিকৰ আগত তেওঁ কয় যে এই ফৰ্মেটে শিক্ষাৰ্থীসকলক তেওঁলোকৰ কেৰিয়াৰত বাধা নিদিয়াকৈ কঠোৰ শৈক্ষিক উন্নতি সাধন কৰিবলৈ অনুমতি দিয়ে। বিগত সময়ত অংশগ্ৰহণকাৰীসকল আই টি, পৰামৰ্শদাতা, মহাকাশ, বেংকিং, ৰাজহুৱা খণ্ড, শক্তি, অটোমোটিভ, স্বাস্থ্যসেৱা, ই-কমাৰ্চ, আৰু উৎপাদনকে ধৰি বিভিন্ন উদ্যোগৰ পৰা আহিছিল। বিভিন্ন শৈক্ষিক পটভূমিৰ পৰা অহা আৰু তিনি বছৰৰ পৰা ২৫ বছৰলৈকে কৰ্ম অভিজ্ঞতা থকা তেওঁলোক। পিছত প্ৰশ্নৰ উত্তৰ দি বিদায়ী ডীন (প্ৰগ্ৰেম) ৰাজেশ শ্ৰীনিবাস উপাধ্যায়ুলাই কয় যে আই আই এম কেৰ ব্যৱসায়িক ইনকিউবেটৰ ‘লাইভ’ই এতিয়ালৈকে লাখ লাখ উদ্যোগীৰ সৃষ্টি কৰিছে। “প্ৰায় ১০০ টা ষ্টাৰ্ট আছে",
+          "tags": [],
+          "title": "IIMK-এ মুকলি কৰিলে ইপিজিপিৰ ১৮ নং বেটচ",
+          "tts_file_path": null
+        },
+        "bho": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17f8f000f539dbe8e/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च कइलसि",
+          "source": "The Hindu",
+          "summary": "भारतीय प्रबंधन संस्थान कोझीकोड (आईआईएमके ) शनिचर का दिने प्रबंधन में कार्यकारी स्नातक कार्यक्रम (ईपीजीपी) के 18वां बैच शुरू कइलसि. कार्यक्रम ब्रोशर के शुरुआत करत आईआईएमके के निदेशक देबाशीस चटर्जी कहले कि ईपीजीपी एगो प्रमुख दू साल के एमबीए प्रोग्राम ह जवन कामकाजी पेशेवर लोग खातिर बनावल गईल बा। एह में ऑनलाइन इंटरैक्टिव लर्निंग के लचीलापन के ऑन कैंपस मॉड्यूल के संगे जोड़ल गईल बा। उ पत्रकारन से कहले कि, ए प्रारूप से सीखल जाए वाला लोग अपना कैरियर में बाधा ना डालले कठोर शैक्षणिक उन्नति के आगे बढ़ा सकतारे। पहिले आईटी, कंसल्टिंग, एयरोस्पेस, बैंकिंग, पब्लिक सेक्टर, ऊर्जा, ऑटोमोटिव, हेल्थकेयर, ई-कॉमर्स, आ मैन्युफैक्चरिंग समेत कई तरह के उद्योगन से प्रतिभागी आइल रहले. ई लोग विविध शैक्षिक पृष्ठभूमि के रहे वाला रहे आ तीन से 25 साल के काम के अनुभव वाला रहे. बाद में सवाल के जवाब देत निवर्तमान डीन (प्रोग्राम) राजेश श्रीनिवास उपाध्यायुला कहले कि आईआईएमके के बिजनेस इनक्यूबेटर &#39;लाइव&#39; अब तक लाखों उद्यमी पैदा क चुकल बा। उ कहले कि, लगभग 100 स्टार्ट बा",
+          "tags": [],
+          "title": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च कइलसि",
+          "tts_file_path": null
+        },
+        "bn": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17f7e001183bc7181/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK EPGP-এর ১৮তম ব্যাচ চালু করেছে",
+          "source": "The Hindu",
+          "summary": "শনিবার ইন্ডিয়ান ইনস্টিটিউট অফ ম্যানেজমেন্ট কোঝিকোড় (IIMK) তাদের এক্সিকিউটিভ গ্র্যাজুয়েট প্রোগ্রাম ইন ম্যানেজমেন্ট (EPGP) এর ১৮তম ব্যাচ চালু করেছে। প্রোগ্রাম ব্রোশারটি প্রকাশ করে, IIMK পরিচালক দেবাশিস চ্যাটার্জি বলেন, EPGP হল কর্মরত পেশাদারদের জন্য তৈরি একটি দুই বছরের MBA প্রোগ্রাম। এটি অনলাইন ইন্টারেক্টিভ লার্নিংয়ের নমনীয়তাকে ক্যাম্পাসে মডিউলের সাথে একত্রিত করে। &quot;এই ফর্ম্যাটটি শিক্ষার্থীদের তাদের ক্যারিয়ার ব্যাহত না করে কঠোর একাডেমিক অগ্রগতি অর্জন করতে সাহায্য করে,&quot; তিনি সাংবাদিকদের বলেন। অতীতে, অংশগ্রহণকারীরা IT, পরামর্শ, মহাকাশ, ব্যাংকিং, পাবলিক সেক্টর, শক্তি, মোটরগাড়ি, স্বাস্থ্যসেবা, ই-কমার্স এবং উৎপাদন সহ বিভিন্ন শিল্প থেকে এসেছিলেন। তারা বিভিন্ন শিক্ষাগত পটভূমি থেকে এসেছিলেন এবং তিন থেকে ২৫ বছরের কাজের অভিজ্ঞতা ছিল। পরে, প্রশ্নের উত্তর দিয়ে, বিদায়ী ডিন (প্রোগ্রাম) রাজেশ শ্রীনিবাস উপাধ্যায়ুলা বলেন যে &#39;লাইভ&#39;, IIMK-এর ব্যবসায়িক ইনকিউবেটর এখন লক্ষ লক্ষ উদ্যোক্তা তৈরি করেছে। &quot;প্রায় ১০০ জন নতুন উদ্যোক্তা তৈরি করেছেন&quot;।",
+          "tags": [],
+          "title": "IIMK EPGP-এর ১৮তম ব্যাচ চালু করেছে",
+          "tts_file_path": null
+        },
+        "en": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f180ae0001024ceafe/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK launches 18th batch of EPGP",
+          "source": "The Hindu",
+          "summary": "The Indian Institute of Management Kozhikode (IIMK ) launched its 18th batch of Executive Graduate Programme in Management (EPGP) on Saturday. Launching the programme brochure, IIMK Director Debashis Chatterjee said EPGP was a flagship two-year MBA programme designed for working professionals. It combines the flexibility of online interactive learning with on-campus modules. “This format allows learners to pursue rigorous academic advancement without interrupting their careers,” he told reporters. In the past, participants came from a broad spectrum of industries including IT, consulting, aerospace, banking, public sector, energy, automotive, healthcare, e-commerce, and manufacturing. They hailed from diverse educational backgrounds and with work experience ranging from three to 25 years. Later, answering queries, outgoing Dean (Programmes) Rajesh Srinivas Upadhyayula said that ‘Live’, the business incubator at IIMK had by now created lakhs of entrepreneurs. “There are around 100 start",
+          "tags": [],
+          "title": "IIMK launches 18th batch of EPGP",
+          "tts_file_path": null
+        },
+        "gu": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fa20010e5e2066c/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK એ EPGP ની 18મી બેચ લોન્ચ કરી",
+          "source": "The Hindu",
+          "summary": "ઇન્ડિયન ઇન્સ્ટિટ્યૂટ ઓફ મેનેજમેન્ટ કોઝિકોડ (IIMK) એ શનિવારે એક્ઝિક્યુટિવ ગ્રેજ્યુએટ પ્રોગ્રામ ઇન મેનેજમેન્ટ (EPGP) ની 18મી બેચ શરૂ કરી. પ્રોગ્રામ બ્રોશર લોન્ચ કરતા, IIMK ના ડિરેક્ટર દેબાશીસ ચેટર્જીએ જણાવ્યું હતું કે EPGP એ કાર્યકારી વ્યાવસાયિકો માટે રચાયેલ બે વર્ષનો મુખ્ય MBA પ્રોગ્રામ છે. તે ઓન-કેમ્પસ મોડ્યુલ્સ સાથે ઓન-કેમ્પસ મોડ્યુલ્સની સુગમતાને જોડે છે. &quot;આ ફોર્મેટ શીખનારાઓને તેમની કારકિર્દીમાં વિક્ષેપ પાડ્યા વિના સખત શૈક્ષણિક પ્રગતિ પ્રાપ્ત કરવાની મંજૂરી આપે છે,&quot; તેમણે પત્રકારોને જણાવ્યું. ભૂતકાળમાં, સહભાગીઓ IT, કન્સલ્ટિંગ, એરોસ્પેસ, બેંકિંગ, જાહેર ક્ષેત્ર, ઊર્જા, ઓટોમોટિવ, આરોગ્યસંભાળ, ઈ-કોમર્સ અને ઉત્પાદન સહિતના ઉદ્યોગોના વ્યાપક સ્પેક્ટ્રમમાંથી આવતા હતા. તેઓ વિવિધ શૈક્ષણિક પૃષ્ઠભૂમિમાંથી હતા અને ત્રણ થી 25 વર્ષનો કાર્ય અનુભવ ધરાવતા હતા. બાદમાં, પ્રશ્નોના જવાબ આપતા, આઉટગોઇંગ ડીન (પ્રોગ્રામ્સ) રાજેશ શ્રીનિવાસ ઉપાધ્યાયુલાએ જણાવ્યું હતું કે &#39;લાઈવ&#39;, IIMK ખાતે બિઝનેસ ઇન્ક્યુબેટરે અત્યાર સુધીમાં લાખો ઉદ્યોગસાહસિકો બનાવ્યા છે. &quot;લગભગ 100 શરૂઆત છે...&quot;",
+          "tags": [],
+          "title": "IIMK એ EPGP ની 18મી બેચ લોન્ચ કરી",
+          "tts_file_path": null
+        },
+        "hi": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fb2002342cd8317/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "आईआईएमके ने ईपीजीपी का 18वां बैच शुरू किया",
+          "source": "The Hindu",
+          "summary": "भारतीय प्रबंध संस्थान कोझीकोड (आईआईएमके) ने शनिवार को प्रबंधन में कार्यकारी स्नातक कार्यक्रम (ईपीजीपी) के अपने 18वें बैच का शुभारंभ किया। कार्यक्रम विवरणिका का शुभारंभ करते हुए आईआईएमके के निदेशक देबाशीष चटर्जी ने कहा कि ईपीजीपी कामकाजी पेशेवरों के लिए बनाया गया एक प्रमुख दो वर्षीय एमबीए कार्यक्रम है। यह ऑन-कैंपस मॉड्यूल के साथ ऑनलाइन इंटरैक्टिव सीखने के लचीलेपन को जोड़ता है। उन्होंने संवाददाताओं से कहा, &quot;यह प्रारूप शिक्षार्थियों को अपने करियर में बाधा डाले बिना कठोर शैक्षणिक उन्नति करने की अनुमति देता है।&quot; अतीत में, प्रतिभागी आईटी, परामर्श, एयरोस्पेस, बैंकिंग, सार्वजनिक क्षेत्र, ऊर्जा, मोटर वाहन, स्वास्थ्य सेवा, ई-कॉमर्स और विनिर्माण सहित उद्योगों की एक विस्तृत श्रृंखला से आए थे। वे विविध शैक्षिक पृष्ठभूमि से आए थे और उनके पास तीन से 25 साल का कार्य अनुभव था। बाद में, प्रश्नों का उत्तर देते हुए निवर्तमान डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला ने कहा कि आईआईएमके",
+          "tags": [],
+          "title": "आईआईएमके ने ईपीजीपी का 18वां बैच शुरू किया",
+          "tts_file_path": null
+        },
+        "kn": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fc6003e2a860c02/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "ಐಐಎಂಕೆ 18ನೇ ಬ್ಯಾಚ್ ಇಪಿಜಿಪಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ",
+          "source": "The Hindu",
+          "summary": "ಇಂಡಿಯನ್ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ ಕೋಝಿಕ್ಕೋಡ್ (IIMK) ತನ್ನ 18 ನೇ ಬ್ಯಾಚ್ ಎಕ್ಸಿಕ್ಯುಟಿವ್ ಗ್ರಾಜುಯೇಟ್ ಪ್ರೋಗ್ರಾಂ ಇನ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (EPGP) ಅನ್ನು ಶನಿವಾರ ಪ್ರಾರಂಭಿಸಿತು. ಕಾರ್ಯಕ್ರಮದ ಕರಪತ್ರವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದ IIMK ನಿರ್ದೇಶಕ ದೇಬಾಶಿಸ್ ಚಟರ್ಜಿ, EPGP ಕೆಲಸ ಮಾಡುವ ವೃತ್ತಿಪರರಿಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಎರಡು ವರ್ಷಗಳ ಪ್ರಮುಖ MBA ಕಾರ್ಯಕ್ರಮವಾಗಿದೆ ಎಂದು ಹೇಳಿದರು. ಇದು ಆನ್‌ಲೈನ್ ಸಂವಾದಾತ್ಮಕ ಕಲಿಕೆಯ ನಮ್ಯತೆಯನ್ನು ಆನ್-ಕ್ಯಾಂಪಸ್ ಮಾಡ್ಯೂಲ್‌ಗಳೊಂದಿಗೆ ಸಂಯೋಜಿಸುತ್ತದೆ. &quot;ಈ ಸ್ವರೂಪವು ಕಲಿಯುವವರು ತಮ್ಮ ವೃತ್ತಿಜೀವನವನ್ನು ಅಡ್ಡಿಪಡಿಸದೆ ಕಠಿಣ ಶೈಕ್ಷಣಿಕ ಪ್ರಗತಿಯನ್ನು ಅನುಸರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ&quot; ಎಂದು ಅವರು ವರದಿಗಾರರಿಗೆ ತಿಳಿಸಿದರು. ಹಿಂದೆ, ಭಾಗವಹಿಸುವವರು ಐಟಿ, ಸಲಹಾ, ಏರೋಸ್ಪೇಸ್, ಬ್ಯಾಂಕಿಂಗ್, ಸಾರ್ವಜನಿಕ ವಲಯ, ಇಂಧನ, ಆಟೋಮೋಟಿವ್, ಆರೋಗ್ಯ ರಕ್ಷಣೆ, ಇ-ಕಾಮರ್ಸ್ ಮತ್ತು ಉತ್ಪಾದನೆ ಸೇರಿದಂತೆ ವ್ಯಾಪಕ ಶ್ರೇಣಿಯ ಕೈಗಾರಿಕೆಗಳಿಂದ ಬಂದಿದ್ದರು. ಅವರು ವೈವಿಧ್ಯಮಯ ಶೈಕ್ಷಣಿಕ ಹಿನ್ನೆಲೆಯಿಂದ ಬಂದವರು ಮತ್ತು ಮೂರರಿಂದ 25 ವರ್ಷಗಳವರೆಗಿನ ಕೆಲಸದ ಅನುಭವವನ್ನು ಹೊಂದಿದ್ದಾರೆ. ನಂತರ, ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸುತ್ತಾ, ಹೊರಹೋಗುವ ಡೀನ್ (ಕಾರ್ಯಕ್ರಮಗಳು) ರಾಜೇಶ್ ಶ್ರೀನಿವಾಸ್ ಉಪಾಧ್ಯಾಯುಲಾ ಅವರು, IIMK ಯಲ್ಲಿನ ವ್ಯವಹಾರ ಇನ್ಕ್ಯುಬೇಟರ್ &#39;ಲೈವ್&#39; ಈಗ ಲಕ್ಷಾಂತರ ಉದ್ಯಮಿಗಳನ್ನು ಸೃಷ್ಟಿಸಿದೆ ಎಂದು ಹೇಳಿದರು. &quot;ಸುಮಾರು 100 ಆರಂಭಿಕರು ಇದ್ದಾರೆ",
+          "tags": [],
+          "title": "ಐಐಎಂಕೆ 18ನೇ ಬ್ಯಾಚ್ ಇಪಿಜಿಪಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ",
+          "tts_file_path": null
+        },
+        "kok": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fd9003bede2d6c8/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "आयआयएमकेन ईपीजीपीचो 18वो बॅच सुरू केलो",
+          "source": "The Hindu",
+          "summary": "इंडियन इन्स्टिट्यूट ऑफ मॅनेजमेंट कोझीकोड (आयआयएमके ) हांणी शेनवारा वेवस्थापनांत कार्यकारी पदवी कार्यक्रम (ईपीजीपी) चो 18वो गट सुरू केलो. कार्यक्रम ब्रोशर सुरू करतना आयआयएमकेचे संचालक देबाशीस चॅटर्जी हांणी सांगलें की ईपीजीपी हो काम करपी वेवसायिकां खातीर तयार केल्लो दोन वर्सांचो एमबीएचो मुखेल कार्यक्रम आसा. ऑनलायन परस्पर संवादात्मक शिकपाची लवचीकता ऑन-कॅम्पस मॉड्यूलां वांगडा जोडटा. ह्या स्वरूपाक लागून शिकपी लोकांक आपली कारकीर्द खंडीत करिनासतना खर शिक्षणीक उदरगत करपाक मेळटा अशें तांणी पत्रकारां कडेन उलयतना सांगलें. आदल्या काळांत आयटी, सल्लागार, एरोस्पेस, बँकिंग, भौशीक क्षेत्र, उर्जा, मोटारी, भलायकी, ई-कॉमर्स, आनी उत्पादन ह्या सारक्या उद्देगांच्या व्यापक वर्णपटांतल्यान भाग घेवपी येताले. ते विंगड विंगड शिक्षणीक फाटभूंय आशिल्ले आनी तीन ते 25 वर्सां मेरेन काम करपाचो अणभव आशिल्ले. उपरांत प्रस्नांक जाप दितना निवृत्त जावपी डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला हांणी सांगलें की आयआयएमकेंतल्या ‘लायव्ह’ ह्या बिझनेस इनक्युबेटरान आतां मेरेन लाखांनी उद्देजक तयार केल्यात. “सुमार 100 स्टार्ट आसात",
+          "tags": [],
+          "title": "आयआयएमकेन ईपीजीपीचो 18वो बॅच सुरू केलो",
+          "tts_file_path": null
+        },
+        "mai": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17feb000eb37d6c27/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च केलक",
+          "source": "The Hindu",
+          "summary": "भारतीय प्रबंधन संस्थान कोझीकोड (आईआईएमके ) न॑ शनिदिन प्रबंधन म॑ कार्यकारी स्नातक कार्यक्रम (ईपीजीपी) केरऽ १८वां बैच शुरू करलकै । कार्यक्रम ब्रोशर केरऽ शुभारंभ करतें हुअ॑ आईआईएमके केरऽ निदेशक देबाशीस चटर्जी न॑ कहलकै कि ईपीजीपी एगो प्रमुख दू साल केरऽ एमबीए प्रोग्राम छेकै जे कामकाजी पेशेवरऽ लेली डिजाइन करलऽ गेलऽ छै । इ ऑनलाइन इंटरैक्टिव लर्निंग कें लचीलापन कें ऑन कैंपस मॉड्यूल कें साथ जोड़यत छै. पत्रकार सब सं बातचीत मे ओ कहलनि जे, ई प्रारूप सीखय वाला के अपन कैरियर मे कोनो बाधा केने बिना कठोर शैक्षणिक उन्नति करय के मौका दैत अछि. पहिने प्रतिभागी आईटी, परामर्श, एयरोस्पेस, बैंकिंग, सार्वजनिक क्षेत्र, ऊर्जा, ऑटोमोटिव, स्वास्थ्य देखभाल, ई-कॉमर्स, आ मैन्युफैक्चरिंग सहित उद्योगक कें एकटा व्यापक स्पेक्ट्रम सं आबै छै. ई सब विविध शैक्षणिक पृष्ठभूमि के छेलै आरू तीन स॑ ल॑ क॑ 25 साल के काम के अनुभव वाला छेलै । बाद मे सवाल क जवाब दैत निवर्तमान डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला कहला जे आईआईएमके क बिजनेस इनक्यूबेटर ‘लाइव’ एखन धरि लाखों उद्यमी क निर्माण करि चुकल अछि। ओ कहला जे करीब 100टा स्टार्ट अछि",
+          "tags": [],
+          "title": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च केलक",
+          "tts_file_path": null
+        },
+        "ml": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17ffe0030ec6623d2/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "ഐഐഎംകെ ഇപിജിപിയുടെ 18-ാമത് ബാച്ച് പുറത്തിറക്കി",
+          "source": "The Hindu",
+          "summary": "ഇന്ത്യൻ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് മാനേജ്‌മെന്റ് കോഴിക്കോട് (ഐഐഎംകെ) എക്‌സിക്യൂട്ടീവ് ഗ്രാജുവേറ്റ് പ്രോഗ്രാം ഇൻ മാനേജ്‌മെന്റിന്റെ (ഇപിജിപി) 18-ാമത് ബാച്ച് ശനിയാഴ്ച ആരംഭിച്ചു. പ്രോഗ്രാം ബ്രോഷർ പ്രകാശനം ചെയ്തുകൊണ്ട് ഐഐഎംകെ ഡയറക്ടർ ദേബാഷിസ് ചാറ്റർജി പറഞ്ഞു, ജോലി ചെയ്യുന്ന പ്രൊഫഷണലുകൾക്കായി രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്ന ഒരു മുൻനിര രണ്ട് വർഷത്തെ എംബിഎ പ്രോഗ്രാമാണ് ഇപിജിപി. ഓൺലൈൻ ഇന്ററാക്ടീവ് ലേണിംഗിന്റെ വഴക്കവും ഓൺ-കാമ്പസ് മൊഡ്യൂളുകളും ഇത് സംയോജിപ്പിക്കുന്നു. &quot;ഈ ഫോർമാറ്റ് പഠിതാക്കൾക്ക് അവരുടെ കരിയറിനെ തടസ്സപ്പെടുത്താതെ കർശനമായ അക്കാദമിക് പുരോഗതി പിന്തുടരാൻ അനുവദിക്കുന്നു,&quot; അദ്ദേഹം മാധ്യമപ്രവർത്തകരോട് പറഞ്ഞു. മുൻകാലങ്ങളിൽ, ഐടി, കൺസൾട്ടിംഗ്, എയ്‌റോസ്‌പേസ്, ബാങ്കിംഗ്, പൊതുമേഖല, ഊർജ്ജം, ഓട്ടോമോട്ടീവ്, ഹെൽത്ത്‌കെയർ, ഇ-കൊമേഴ്‌സ്, നിർമ്മാണം എന്നിവയുൾപ്പെടെ വിവിധ വ്യവസായങ്ങളിൽ നിന്നാണ് പങ്കാളികൾ വന്നത്. വൈവിധ്യമാർന്ന വിദ്യാഭ്യാസ പശ്ചാത്തലങ്ങളിൽ നിന്നുള്ളവരും മൂന്ന് മുതൽ 25 വർഷം വരെയുള്ള പ്രവൃത്തി പരിചയവുമുള്ളവരുമാണ് അവർ. പിന്നീട്, ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകിക്കൊണ്ട്, ഔട്ട്‌ഗോയിംഗ് ഡീൻ (പ്രോഗ്രാമുകൾ) രാജേഷ് ശ്രീനിവാസ് ഉപാധ്യായുല പറഞ്ഞു, ഐഐഎംകെയിലെ ബിസിനസ് ഇൻകുബേറ്ററായ &#39;ലൈവ്&#39; ഇപ്പോൾ ലക്ഷക്കണക്കിന് സംരംഭകരെ സൃഷ്ടിച്ചിട്ടുണ്ട്. &quot;ഏകദേശം 100 തുടക്കക്കാരുണ്ട്",
+          "tags": [],
+          "title": "ഐഐഎംകെ ഇപിജിപിയുടെ 18-ാമത് ബാച്ച് പുറത്തിറക്കി",
+          "tts_file_path": null
+        },
+        "mni-Mtei": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1802200303ad75cdb/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯅꯥ ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.ꯒꯤ ꯱꯸ꯁꯨꯕꯥ ꯕꯦꯆ ꯍꯧꯗꯣꯀꯈ꯭ꯔꯦ꯫",
+          "source": "The Hindu",
+          "summary": "ꯏꯟꯗꯤꯌꯟ ꯏꯟꯁꯇꯤꯠꯌꯨꯠ ꯑꯣꯐ ꯃꯦꯅꯦꯖꯃꯦꯟꯇ ꯀꯣꯖꯤꯀꯣꯗꯦ (ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.)ꯅꯥ ꯁꯒꯣꯂꯁꯦꯜ ꯅꯨꯃꯤꯠꯇꯥ ꯑꯦꯀꯖꯤꯛꯌꯨꯇꯤꯕ ꯒ꯭ꯔꯦꯖꯨꯑꯦꯠ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝ ꯏꯟ ꯃꯦꯅꯦꯖꯃꯦꯟꯇ (ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.)ꯒꯤ ꯱꯸ꯁꯨꯕꯥ ꯕꯦꯆ ꯍꯧꯗꯣꯀꯈ꯭ꯔꯦ꯫ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝ ꯕ꯭ꯔꯣꯆꯔ ꯑꯁꯤ ꯍꯧꯗꯣꯛꯂꯗꯨꯅꯥ ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯒꯤ ꯗꯤꯔꯦꯛꯇꯔ ꯗꯦꯕꯥꯁꯤꯁ ꯆꯦꯇꯔꯖꯤꯅꯥ ꯍꯥꯌꯈꯤ ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.ꯅꯥ ꯊꯕꯛ ꯇꯧꯔꯤꯕꯥ ꯄ꯭ꯔꯣꯐꯦꯁ꯭ꯅꯦꯂꯁꯤꯡꯒꯤꯗꯃꯛꯇꯥ ꯗꯤꯖꯥꯏꯟ ꯇꯧꯕꯥ ꯆꯍꯤ ꯑꯅꯤꯒꯤ ꯑꯦꯝ.ꯕꯤ.ꯑꯦ. ꯃꯁꯤꯅꯥ ꯑꯣꯅꯂꯥꯏꯟ ꯏꯟꯇꯔꯦꯛꯇꯤꯕ ꯂꯔꯅꯤꯡꯒꯤ ꯐ꯭ꯂꯦꯛꯁꯤꯕꯤꯂꯤꯇꯤ ꯑꯁꯤ ꯑꯣꯟ-ꯀꯦꯝꯄꯁ ꯃꯣꯗ꯭ꯌꯨꯂꯁꯤꯡꯒꯥ ꯄꯨꯅꯁꯤꯜꯂꯤ꯫ ꯃꯍꯥꯛꯅꯥ ꯄꯥꯎꯃꯤꯁꯤꯡꯗꯥ ꯍꯥꯌꯈꯤ, “ꯐꯣꯔꯃꯦꯠ ꯑꯁꯤꯅꯥ ꯂꯔꯅꯔꯁꯤꯡꯅꯥ ꯃꯈꯣꯌꯒꯤ ꯀꯦꯔꯤꯌꯔꯗꯥ ꯑꯀꯥꯌꯕꯥ ꯄꯤꯗꯅꯥ ꯑꯀꯅꯕꯥ ꯑꯦꯀꯥꯗꯦꯃꯤꯛ ꯑꯦꯗꯚꯥꯟꯁꯃꯦꯟꯇ ꯂꯧꯕꯥ ꯌꯥꯍꯜꯂꯤ꯫” ꯃꯃꯥꯡꯗꯥ ꯁꯔꯨꯛ ꯌꯥꯔꯤꯕꯁꯤꯡ ꯑꯁꯤ ꯑꯥꯏ.ꯇꯤ., ꯀꯟꯁꯜꯇꯦꯁꯟ, ꯑꯦꯔꯣꯁ꯭ꯄꯦꯁ, ꯕꯦꯉ꯭ꯀꯤꯡ, ꯄꯕ꯭ꯂꯤꯛ ꯁꯦꯛꯇꯔ, ꯏꯅꯔꯖꯤ, ꯑꯣꯇꯣꯃꯣꯇꯤꯕ, ꯍꯦꯜꯊꯀꯦꯌꯔ, ꯏ-ꯀꯃꯔꯁ, ꯑꯃꯁꯨꯡ ꯃꯦꯟꯌꯨꯐꯦꯀꯆꯔꯤꯡ ꯌꯥꯑꯣꯅꯥ ꯏꯟꯗꯁ꯭ꯠꯔꯤꯁꯤꯡꯒꯤ ꯄꯥꯛ ꯆꯥꯎꯔꯕꯥ ꯁ꯭ꯄꯦꯛꯠꯔꯦꯝ ꯑꯃꯗꯒꯤ ꯂꯥꯀꯈꯤ꯫ ꯃꯈꯣꯌ ꯑꯁꯤ ꯇꯣꯉꯥꯟ ꯇꯣꯉꯥꯅꯕꯥ ꯃꯍꯩ-ꯃꯁꯤꯡꯒꯤ ꯂꯃꯗꯥ ꯂꯥꯀꯄꯥ ꯑꯃꯁꯨꯡ ꯆꯍꯤ ꯑꯍꯨꯃꯗꯒꯤ ꯲꯵ ꯐꯥꯑꯣꯕꯒꯤ ꯊꯕꯛꯀꯤ ꯑꯦꯛꯁꯄꯔꯤꯌꯦꯟꯁ ꯂꯩꯕꯥ ꯃꯤꯑꯣꯏꯁꯤꯡꯅꯤ꯫ ꯃꯇꯨꯡꯗꯥ ꯋꯥꯍꯪꯁꯤꯡꯒꯤ ꯄꯥꯎꯈꯨꯝ ꯄꯤꯔꯗꯨꯅꯥ ꯊꯕꯛꯇꯒꯤ ꯄꯣꯠꯊꯥꯔꯕꯥ ꯗꯤꯟ (ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯃꯁꯤꯡ) ꯔꯥꯖꯦꯁ ꯁ꯭ꯔꯤꯅꯤꯕꯥꯁ ꯎꯄꯥꯙ꯭ꯌꯥꯌꯨꯂꯥꯅꯥ ꯍꯥꯌꯈꯤ ꯃꯗꯨꯗꯤ ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯗꯥ ꯕꯤꯖꯤꯅꯦꯁ ꯏꯅꯛꯌꯨꯕꯦꯇꯔ ꯑꯣꯏꯔꯤꯕꯥ ‘ꯂꯥꯏꯕ’ꯅꯥ ꯍꯧꯖꯤꯛ ꯐꯥꯑꯣꯕꯗꯥ ꯑꯣꯟꯠꯔꯞꯔꯤꯅꯔ ꯂꯥꯈ ꯀꯌꯥ ꯁꯦꯃꯒꯠꯂꯦ꯫ “ꯆꯥꯎꯔꯥꯛꯅꯥ ꯁ꯭ꯇꯥꯔꯠ ꯱꯰꯰ ꯂꯩꯔꯤ꯫",
+          "tags": [],
+          "title": "ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯅꯥ ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.ꯒꯤ ꯱꯸ꯁꯨꯕꯥ ꯕꯦꯆ ꯍꯧꯗꯣꯀꯈ꯭ꯔꯦ꯫",
+          "tts_file_path": null
+        },
+        "mr": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f18034002d0041d5ce/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "आयआयएमकेने ईपीजीपीची १८ वी बॅच लाँच केली",
+          "source": "The Hindu",
+          "summary": "इंडियन इन्स्टिट्यूट ऑफ मॅनेजमेंट कोझिकोड (IIMK) ने शनिवारी एक्झिक्युटिव्ह ग्रॅज्युएट प्रोग्राम इन मॅनेजमेंट (EPGP) च्या 18 व्या बॅचची सुरुवात केली. कार्यक्रम ब्रोशर लाँच करताना, IIMK चे संचालक देबाशिष चॅटर्जी म्हणाले की EPGP हा कार्यरत व्यावसायिकांसाठी डिझाइन केलेला दोन वर्षांचा प्रमुख MBA कार्यक्रम आहे. तो कॅम्पसमधील मॉड्यूलसह ऑनलाइन इंटरॅक्टिव्ह लर्निंगची लवचिकता एकत्र करतो. &quot;हे स्वरूप विद्यार्थ्यांना त्यांच्या कारकिर्दीत व्यत्यय न आणता कठोर शैक्षणिक प्रगती करण्यास अनुमती देते,&quot; त्यांनी पत्रकारांना सांगितले. पूर्वी, सहभागी आयटी, कन्सल्टिंग, एरोस्पेस, बँकिंग, सार्वजनिक क्षेत्र, ऊर्जा, ऑटोमोटिव्ह, आरोग्यसेवा, ई-कॉमर्स आणि उत्पादन यासारख्या उद्योगांच्या विस्तृत श्रेणीतून आले होते. ते विविध शैक्षणिक पार्श्वभूमीचे होते आणि त्यांना तीन ते 25 वर्षांचा कामाचा अनुभव होता. नंतर, प्रश्नांची उत्तरे देताना, निवृत्त डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला म्हणाले की, &#39;लाइव्ह&#39;, आयआयएमकेमधील बिझनेस इनक्यूबेटरने आतापर्यंत लाखो उद्योजक निर्माण केले आहेत. &quot;सुमारे 100 सुरुवाती आहेत...&quot;",
+          "tags": [],
+          "title": "आयआयएमकेने ईपीजीपीची १८ वी बॅच लाँच केली",
+          "tts_file_path": null
+        },
+        "or": {
+          "appwrite_audio_url": null,
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK EPGPର 18ତମ ବ୍ୟାଚ୍ ଆରମ୍ଭ କଲା",
+          "source": "The Hindu",
+          "summary": "ଇଣ୍ଡିଆନ୍ ଇନଷ୍ଟିଚ୍ୟୁଟ୍ ଅଫ୍ ମ୍ୟାନେଜମେଣ୍ଟ୍ କୋଝିକୋଡ୍ (IIMK) ଶନିବାର ଦିନ ଏହାର 18ତମ ବ୍ୟାଚ୍ ଏକଜିକ୍ୟୁଟିଭ୍ ସ୍ନାତକୋତ୍ତର ପ୍ରୋଗ୍ରାମ୍ ଇନ୍ ମ୍ୟାନେଜମେଣ୍ଟ୍ (EPGP) ଆରମ୍ଭ କରିଛି। ପ୍ରୋଗ୍ରାମ୍ ବ୍ରୋସରକୁ ଉନ୍ମୋଚନ କରି, IIMK ନିର୍ଦ୍ଦେଶକ ଦେବାଶିଷ ଚାଟାର୍ଜୀ କହିଛନ୍ତି ଯେ EPGP ହେଉଛି କାର୍ଯ୍ୟରତ ବୃତ୍ତିଗତଙ୍କ ପାଇଁ ଡିଜାଇନ୍ କରାଯାଇଥିବା ଏକ ପ୍ରମୁଖ ଦୁଇ ବର୍ଷର MBA କାର୍ଯ୍ୟକ୍ରମ। ଏହା କ୍ୟାମ୍ପସ୍ ମଡ୍ୟୁଲ୍ ସହିତ ଅନଲାଇନ୍ ଇଣ୍ଟରାକ୍ଟିଭ୍ ଶିକ୍ଷଣର ନମନୀୟତାକୁ ମିଶ୍ରଣ କରେ। &quot;ଏହି ଫର୍ମାଟ୍ ଶିକ୍ଷାର୍ଥୀମାନଙ୍କୁ ସେମାନଙ୍କର କ୍ୟାରିଅର୍ ବାଧାପ୍ରାପ୍ତ ନକରି କଠୋର ଶୈକ୍ଷିକ ଉନ୍ନତି ହାସଲ କରିବାକୁ ଅନୁମତି ଦିଏ,&quot; ସେ ସାମ୍ବାଦିକମାନଙ୍କୁ କହିଛନ୍ତି। ଅତୀତରେ, ଅଂଶଗ୍ରହଣକାରୀମାନେ IT, ପରାମର୍ଶ, ଏରୋସ୍ପେସ୍, ବ୍ୟାଙ୍କିଂ, ସାର୍ବଜନୀନ କ୍ଷେତ୍ର, ଶକ୍ତି, ଅଟୋମୋଟିଭ୍, ସ୍ୱାସ୍ଥ୍ୟସେବା, ଇ-କମର୍ସ ଏବଂ ଉତ୍ପାଦନ ସମେତ ବିଭିନ୍ନ ଶିଳ୍ପରୁ ଆସିଥିଲେ। ସେମାନେ ବିବିଧ ଶିକ୍ଷାଗତ ପୃଷ୍ଠଭୂମିରୁ ଆସିଥିଲେ ଏବଂ ତିନିରୁ 25 ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ କାର୍ଯ୍ୟ ଅଭିଜ୍ଞତା ରଖିଥିଲେ। ପରେ, ପ୍ରଶ୍ନର ଉତ୍ତର ଦେଇ, ବିଦାୟୀ ଡିନ୍ (ପ୍ରୋଗ୍ରାମ୍) ରାଜେଶ ଶ୍ରୀନିବାସ ଉପାଧ୍ୟାୟୁଲା କହିଥିଲେ ଯେ &#39;ଲାଇଭ୍&#39;, IIMKର ବ୍ୟବସାୟ ଇନକ୍ୟୁବେଟର ବର୍ତ୍ତମାନ ଲକ୍ଷ ଲକ୍ଷ ଉଦ୍ୟୋଗୀ ସୃଷ୍ଟି କରିଛି। &quot;ପ୍ରାୟ 100 ଷ୍ଟାର୍ଟଅପ୍...",
+          "tags": [],
+          "title": "IIMK EPGPର 18ତମ ବ୍ୟାଚ୍ ଆରମ୍ଭ କଲା",
+          "tts_file_path": null
+        },
+        "pa": {
+          "appwrite_audio_url": null,
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK ਨੇ EPGP ਦਾ 18ਵਾਂ ਬੈਚ ਲਾਂਚ ਕੀਤਾ",
+          "source": "The Hindu",
+          "summary": "ਇੰਡੀਅਨ ਇੰਸਟੀਚਿਊਟ ਆਫ਼ ਮੈਨੇਜਮੈਂਟ ਕੋਝੀਕੋਡ (IIMK) ਨੇ ਸ਼ਨੀਵਾਰ ਨੂੰ ਐਗਜ਼ੀਕਿਊਟਿਵ ਗ੍ਰੈਜੂਏਟ ਪ੍ਰੋਗਰਾਮ ਇਨ ਮੈਨੇਜਮੈਂਟ (EPGP) ਦੇ ਆਪਣੇ 18ਵੇਂ ਬੈਚ ਦੀ ਸ਼ੁਰੂਆਤ ਕੀਤੀ। ਪ੍ਰੋਗਰਾਮ ਬਰੋਸ਼ਰ ਲਾਂਚ ਕਰਦੇ ਹੋਏ, IIMK ਦੇ ਡਾਇਰੈਕਟਰ ਦੇਬਾਸ਼ੀਸ਼ ਚੈਟਰਜੀ ਨੇ ਕਿਹਾ ਕਿ EPGP ਇੱਕ ਪ੍ਰਮੁੱਖ ਦੋ-ਸਾਲਾ MBA ਪ੍ਰੋਗਰਾਮ ਸੀ ਜੋ ਕੰਮ ਕਰਨ ਵਾਲੇ ਪੇਸ਼ੇਵਰਾਂ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਹ ਕੈਂਪਸ ਵਿੱਚ ਮੌਡਿਊਲਾਂ ਦੇ ਨਾਲ ਔਨਲਾਈਨ ਇੰਟਰਐਕਟਿਵ ਸਿਖਲਾਈ ਦੀ ਲਚਕਤਾ ਨੂੰ ਜੋੜਦਾ ਹੈ। &quot;ਇਹ ਫਾਰਮੈਟ ਸਿਖਿਆਰਥੀਆਂ ਨੂੰ ਆਪਣੇ ਕਰੀਅਰ ਵਿੱਚ ਵਿਘਨ ਪਾਏ ਬਿਨਾਂ ਸਖ਼ਤ ਅਕਾਦਮਿਕ ਤਰੱਕੀ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ,&quot; ਉਸਨੇ ਪੱਤਰਕਾਰਾਂ ਨੂੰ ਦੱਸਿਆ। ਪਹਿਲਾਂ, ਭਾਗੀਦਾਰ IT, ਸਲਾਹਕਾਰ, ਏਰੋਸਪੇਸ, ਬੈਂਕਿੰਗ, ਜਨਤਕ ਖੇਤਰ, ਊਰਜਾ, ਆਟੋਮੋਟਿਵ, ਸਿਹਤ ਸੰਭਾਲ, ਈ-ਕਾਮਰਸ ਅਤੇ ਨਿਰਮਾਣ ਸਮੇਤ ਉਦਯੋਗਾਂ ਦੇ ਇੱਕ ਵਿਸ਼ਾਲ ਸਪੈਕਟ੍ਰਮ ਤੋਂ ਆਏ ਸਨ। ਉਹ ਵਿਭਿੰਨ ਵਿਦਿਅਕ ਪਿਛੋਕੜਾਂ ਤੋਂ ਸਨ ਅਤੇ ਤਿੰਨ ਤੋਂ 25 ਸਾਲਾਂ ਤੱਕ ਦੇ ਕੰਮ ਦੇ ਤਜਰਬੇ ਵਾਲੇ ਸਨ। ਬਾਅਦ ਵਿੱਚ, ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦਿੰਦੇ ਹੋਏ, ਬਾਹਰ ਜਾਣ ਵਾਲੇ ਡੀਨ (ਪ੍ਰੋਗਰਾਮ) ਰਾਜੇਸ਼ ਸ਼੍ਰੀਨਿਵਾਸ ਉਪਾਧਿਆਯੁਲਾ ਨੇ ਕਿਹਾ ਕਿ &#39;ਲਾਈਵ&#39;, IIMK ਦੇ ਕਾਰੋਬਾਰੀ ਇਨਕਿਊਬੇਟਰ ਨੇ ਹੁਣ ਤੱਕ ਲੱਖਾਂ ਉੱਦਮੀ ਪੈਦਾ ਕੀਤੇ ਹਨ। &quot;ਲਗਭਗ 100 ਸ਼ੁਰੂਆਤ ਹਨ",
+          "tags": [],
+          "title": "IIMK ਨੇ EPGP ਦਾ 18ਵਾਂ ਬੈਚ ਲਾਂਚ ਕੀਤਾ",
+          "tts_file_path": null
+        },
+        "sa": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f180510013f590cd26/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK इत्यनेन EPGP इत्यस्य १८तमः बैचः प्रारम्भः कृतः",
+          "source": "The Hindu",
+          "summary": "भारतीयप्रबन्धनसंस्थानकोझिकोडेन (IIMK ) शनिवासरे प्रबन्धने कार्यकारीस्नातककार्यक्रमस्य (EPGP) १८तमः बैचः प्रारब्धः। कार्यक्रमस्य ब्रोशरस्य प्रारम्भं कुर्वन् IIMK निदेशकः Debashis Chatterjee उक्तवान् यत् EPGP एकः प्रमुखः द्विवर्षीयः MBA कार्यक्रमः अस्ति यः कार्यरतव्यावसायिकानां कृते विनिर्मितः अस्ति। एतत् परिसरे स्थितैः मॉड्यूलैः सह ऑनलाइन-अन्तरक्रियाशील-शिक्षणस्य लचीलतां संयोजयति । “एतत् प्रारूपं शिक्षिकाः स्वस्य करियरं न बाधित्वा कठोरशैक्षणिक उन्नतिं कर्तुं शक्नुवन्ति” इति सः पत्रकारैः सह अवदत् । पूर्वं प्रतिभागिनः सूचनाप्रौद्योगिकी, परामर्शः, एयरोस्पेस्, बैंकिंग्, सार्वजनिकक्षेत्रं, ऊर्जा, वाहनचालनम्, स्वास्थ्यसेवा, ई-वाणिज्यम्, विनिर्माणं च इत्यादीनां उद्योगानां विस्तृतवर्णक्रमात् आगच्छन्ति स्म ते विविधशैक्षिकपृष्ठभूमितः आगताः, त्रयः वर्षाणि यावत् कार्यानुभवः च आसीत् । पश्चात् प्रश्नानाम् उत्तरं दत्त्वा निवर्तमानः डीनः (कार्यक्रमाः) राजेशश्रीनिवास उपाध्यायुला अवदत् यत् &#39;लाइव&#39; इति आईआईएमके इत्यत्र व्यापार-इन्क्यूबेटरः अधुना यावत् लक्षशः उद्यमिनः निर्मितवान् अस्ति। “प्रायः १०० आरम्भाः सन्ति",
+          "tags": [],
+          "title": "IIMK इत्यनेन EPGP इत्यस्य १८तमः बैचः प्रारम्भः कृतः",
+          "tts_file_path": null
+        },
+        "sd": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f18064003c2e50fa8c/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK EPGP جي 18 هين بيچ جي شروعات ڪئي",
+          "source": "The Hindu",
+          "summary": "انڊين انسٽيٽيوٽ آف مئنيجمينٽ ڪوزي ڪوڊ (IIMK) ڇنڇر تي ايگزيڪيوٽو گريجوئيٽ پروگرام ان مئنيجمينٽ (EPGP) جي 18 هين بيچ جو آغاز ڪيو. پروگرام بروشر لانچ ڪندي، IIMK ڊائريڪٽر ديباشيس چٽرجي چيو ته EPGP هڪ فليگ شپ ٻن سالن جو MBA پروگرام هو جيڪو ڪم ڪندڙ پيشه ور ماڻهن لاءِ ٺاهيو ويو آهي. اهو آن لائن انٽرايڪٽو سکيا جي لچڪ کي ڪيمپس ماڊلز سان گڏ ڪري ٿو. &quot;هي فارميٽ سکيا ڏيندڙن کي انهن جي ڪيريئر ۾ خلل وجهڻ کان سواءِ سخت تعليمي ترقي جي پيروي ڪرڻ جي اجازت ڏئي ٿو،&quot; هن صحافين کي ٻڌايو. ماضي ۾، شرڪت ڪندڙ آئي ٽي، صلاحڪار، ايرو اسپيس، بينڪنگ، پبلڪ سيڪٽر، توانائي، آٽوميٽو، هيلٿ ڪيئر، اي ڪامرس، ۽ پيداوار سميت صنعتن جي وسيع دائري مان آيا هئا. اهي مختلف تعليمي پس منظر مان هئا ۽ ٽن کان 25 سالن تائين ڪم جو تجربو رکندڙ هئا. بعد ۾، سوالن جا جواب ڏيندي، سبڪدوش ڊين (پروگرام) راجيش سرينواس اپاڌيائيولا چيو ته &#39;لائيو&#39;، IIMK ۾ ڪاروباري انڪيوبيٽر هاڻي تائين لکين ڪاروباري پيدا ڪري چڪو آهي. &quot;تقريبن 100 شروعاتي آهن&quot;",
+          "tags": [],
+          "title": "IIMK EPGP جي 18 هين بيچ جي شروعات ڪئي",
+          "tts_file_path": null
+        },
+        "ta": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1807600367dbb74d5/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK 18வது EPGP தொகுப்பை அறிமுகப்படுத்துகிறது",
+          "source": "The Hindu",
+          "summary": "இந்திய மேலாண்மை நிறுவனம் கோழிக்கோடு (IIMK), சனிக்கிழமை தனது 18வது தொகுதி நிர்வாக பட்டதாரி திட்ட மேலாண்மை (EPGP) ஐ அறிமுகப்படுத்தியது. திட்ட சிற்றேட்டை வெளியிட்ட IIMK இயக்குனர் தேபாஷிஸ் சாட்டர்ஜி, EPGP என்பது பணிபுரியும் நிபுணர்களுக்காக வடிவமைக்கப்பட்ட ஒரு முதன்மையான இரண்டு ஆண்டு MBA திட்டம் என்று கூறினார். இது ஆன்லைன் ஊடாடும் கற்றலின் நெகிழ்வுத்தன்மையை வளாகத்தில் உள்ள தொகுதிகளுடன் ஒருங்கிணைக்கிறது. &quot;இந்த வடிவம் கற்பவர்கள் தங்கள் வாழ்க்கையைத் தடுக்காமல் கடுமையான கல்வி முன்னேற்றத்தைத் தொடர அனுமதிக்கிறது,&quot; என்று அவர் செய்தியாளர்களிடம் கூறினார். கடந்த காலத்தில், பங்கேற்பாளர்கள் IT, ஆலோசனை, விண்வெளி, வங்கி, பொதுத்துறை, எரிசக்தி, வாகனம், சுகாதாரம், மின் வணிகம் மற்றும் உற்பத்தி உள்ளிட்ட பல்வேறு தொழில்களில் இருந்து வந்தவர்கள். அவர்கள் பல்வேறு கல்விப் பின்னணியைச் சேர்ந்தவர்கள் மற்றும் மூன்று முதல் 25 ஆண்டுகள் வரையிலான பணி அனுபவத்தைக் கொண்டவர்கள். பின்னர், கேள்விகளுக்கு பதிலளித்து, வெளியேறும் டீன் (திட்டங்கள்) ராஜேஷ் ஸ்ரீனிவாஸ் உபாத்யாயுலா, IIMK இல் வணிக காப்பகமான &#39;லைவ்&#39; இப்போது லட்சக்கணக்கான தொழில்முனைவோரை உருவாக்கியுள்ளது என்று கூறினார். &quot;சுமார் 100 தொடக்கநிலையாளர்கள் உள்ளனர்",
+          "tags": [],
+          "title": "IIMK 18வது EPGP தொகுப்பை அறிமுகப்படுத்துகிறது",
+          "tts_file_path": null
+        },
+        "te": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1808b003bc15f99fd/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "ఐఐఎంకె 18వ బ్యాచ్ ఇపిజిపిని ప్రారంభించింది",
+          "source": "The Hindu",
+          "summary": "ఇండియన్ ఇన్‌స్టిట్యూట్ ఆఫ్ మేనేజ్‌మెంట్ కోజికోడ్ (IIMK) తన 18వ బ్యాచ్ ఎగ్జిక్యూటివ్ గ్రాడ్యుయేట్ ప్రోగ్రామ్ ఇన్ మేనేజ్‌మెంట్ (EPGP)ను శనివారం ప్రారంభించింది. ఈ ప్రోగ్రామ్ బ్రోచర్‌ను ఆవిష్కరించిన IIMK డైరెక్టర్ దేబాషిస్ ఛటర్జీ మాట్లాడుతూ, EPGP అనేది పని చేసే నిపుణుల కోసం రూపొందించబడిన ఫ్లాగ్‌షిప్ రెండేళ్ల MBA ప్రోగ్రామ్ అని అన్నారు. ఇది ఆన్‌లైన్ ఇంటరాక్టివ్ లెర్నింగ్ యొక్క సౌలభ్యాన్ని ఆన్-క్యాంపస్ మాడ్యూళ్లతో మిళితం చేస్తుంది. &quot;ఈ ఫార్మాట్ అభ్యాసకులు తమ కెరీర్‌లకు అంతరాయం కలిగించకుండా కఠినమైన విద్యా పురోగతిని కొనసాగించడానికి వీలు కల్పిస్తుంది&quot; అని ఆయన విలేకరులతో అన్నారు. గతంలో, పాల్గొనేవారు IT, కన్సల్టింగ్, ఏరోస్పేస్, బ్యాంకింగ్, ప్రభుత్వ రంగం, ఇంధనం, ఆటోమోటివ్, హెల్త్‌కేర్, ఇ-కామర్స్ మరియు తయారీ వంటి విస్తృత శ్రేణి పరిశ్రమల నుండి వచ్చారు. వారు విభిన్న విద్యా నేపథ్యాల నుండి వచ్చారు మరియు మూడు నుండి 25 సంవత్సరాల వరకు పని అనుభవం కలిగి ఉన్నారు. తరువాత, ప్రశ్నలకు సమాధానమిస్తూ, అవుట్‌గోయింగ్ డీన్ (ప్రోగ్రామ్స్) రాజేష్ శ్రీనివాస్ ఉపాధ్యాయుల మాట్లాడుతూ, IIMKలోని బిజినెస్ ఇంక్యుబేటర్ &#39;లైవ్&#39; ఇప్పటికే లక్షలాది మంది వ్యవస్థాపకులను సృష్టించిందని అన్నారు. &quot;సుమారు 100 మంది ప్రారంభకులు ఉన్నారు",
+          "tags": [],
+          "title": "ఐఐఎంకె 18వ బ్యాచ్ ఇపిజిపిని ప్రారంభించింది",
+          "tts_file_path": null
+        },
+        "ur": {
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1809e0004c12e59e4/view?project=67efb54900393d4937bf",
+          "article_id": "7b477ee77bbc",
+          "author": "Unknown Author",
+          "category": "Kerala",
+          "headline": "IIMK نے EPGP کے 18ویں بیچ کا آغاز کیا۔",
+          "source": "The Hindu",
+          "summary": "انڈین انسٹی ٹیوٹ آف مینجمنٹ کوزی کوڈ (IIMK) نے ہفتہ کو ایگزیکٹو گریجویٹ پروگرام ان مینجمنٹ (EPGP) کے اپنے 18ویں بیچ کا آغاز کیا۔ پروگرام کے بروشر کا آغاز کرتے ہوئے، آئی آئی ایم کے کے ڈائریکٹر دیباشیس چٹرجی نے کہا کہ ای پی جی پی ایک فلیگ شپ دو سالہ ایم بی اے پروگرام ہے جو کام کرنے والے پیشہ ور افراد کے لیے ڈیزائن کیا گیا ہے۔ یہ آن کیمپس ماڈیولز کے ساتھ آن لائن انٹرایکٹو سیکھنے کی لچک کو یکجا کرتا ہے۔ انہوں نے نامہ نگاروں کو بتایا کہ &quot;یہ فارمیٹ سیکھنے والوں کو اپنے کیریئر میں رکاوٹ ڈالے بغیر سخت تعلیمی ترقی کو آگے بڑھانے کی اجازت دیتا ہے۔&quot; ماضی میں، شرکاء آئی ٹی، مشاورت، ایرو اسپیس، بینکنگ، پبلک سیکٹر، توانائی، آٹوموٹیو، صحت کی دیکھ بھال، ای کامرس، اور مینوفیکچرنگ سمیت صنعتوں کے وسیع میدان سے آئے تھے۔ وہ متنوع تعلیمی پس منظر سے تعلق رکھتے تھے اور تین سے 25 سال تک کے کام کا تجربہ رکھتے تھے۔ بعد میں، سوالات کا جواب دیتے ہوئے، سبکدوش ہونے والے ڈین (پروگرام) راجیش سرینواس اپادھیائیولا نے کہا کہ &#39;لائیو&#39;، آئی آئی ایم کے کے بزنس انکیوبیٹر نے اب تک لاکھوں کاروباری پیدا کیے ہیں۔ &quot;تقریبا 100 آغاز ہیں۔",
+          "tags": [],
+          "title": "IIMK نے EPGP کے 18ویں بیچ کا آغاز کیا۔",
+          "tts_file_path": null
+        }
+      },
+      "tts_file_path": "",
+      "url": "https://www.thehindu.com/news/national/kerala/iimk-launches-18th-batch-of-epgp/article69417173.ece"
+    }
+  ],
   "available_languages": {
     "as": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Assamese",
       "tts_supported": true
     },
     "bho": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Bhojpuri",
       "tts_supported": true
     },
     "bn": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Bengali",
       "tts_supported": true
     },
     "en": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "English_Indian",
       "tts_supported": true
     },
     "gu": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Gujarati",
       "tts_supported": true
     },
     "hi": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Hindi",
       "tts_supported": true
     },
     "kn": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Kannada",
       "tts_supported": true
     },
     "kok": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Konkani",
       "tts_supported": true
     },
     "mai": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Maithili",
       "tts_supported": true
     },
     "ml": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Malayalam",
       "tts_supported": true
     },
     "mni-Mtei": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Manipuri",
       "tts_supported": true
     },
     "mr": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Marathi",
       "tts_supported": true
     },
     "or": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Odia",
       "tts_supported": true
     },
     "pa": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Punjabi",
       "tts_supported": true
     },
     "sa": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Sanskrit",
       "tts_supported": true
     },
     "sd": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Sindhi",
       "tts_supported": true
     },
     "ta": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Tamil",
       "tts_supported": true
     },
     "te": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Telugu",
       "tts_supported": true
     },
     "ur": {
-      "article_count": 0,
-      "article_ids": [],
+      "article_count": 1,
+      "article_ids": [
+        "7b477ee77bbc"
+      ],
       "name": "Urdu",
       "tts_supported": true
     }
   },
-  "count": 0,
-  "last_updated": null,
-  "message": "No news available",
+  "count": 1,
+  "last_updated": "2025-04-06T00:42:48.252424",
   "processing": false,
-  "status": "no_data"
+  "status": "success"
 }

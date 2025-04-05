@@ -23,8 +23,19 @@ export const checkApiAvailability = async () => {
 export const getAllNews = asyncHandler(async (req, res) => {
 
 
-  if(req.user.role !== 'admin')
-    throw new ApiError(403,'you are not authorized to perform this !')
+  // if(req.user.role !== 'admin')
+  //   throw new ApiError(403,'you are not authorized to perform this !')
+
+
+  const apiAvailable = await checkApiAvailability();
+  if (!apiAvailable) {
+    throw new ApiError(503, "News API service is currently unavailable");
+  }
+
+  const processingResponse = await axios.get(`${NEWS_API_URL}/status`, { timeout: 5000 });
+  if (processingResponse.data.processing === true) {
+    return res.status(200).json(new ApiResponse(200, null, "News extraction is already in progress"));
+  }
 
   const response = await axios.get(`${NEWS_API_URL}/news`, {
     timeout: 10000,
@@ -40,6 +51,11 @@ export const getAllNews = asyncHandler(async (req, res) => {
   const data = response.data;
 
   console.log('DATA', data);
+
+  if(data.articles && data.articles.length === 0) {
+    return res.status(200).json(new ApiResponse(200, data, "No news found "));
+  }
+
   if (!data) {
     throw new ApiError(500, "Invalid news data format from external source");
   }
@@ -50,33 +66,51 @@ export const getAllNews = asyncHandler(async (req, res) => {
 
 // Process news (extract, translate, generate TTS)
 export const processNews = asyncHandler(async (req, res) => {
-  try {
-    // Check if API is available
-    const isApiAvailable = await checkApiAvailability();
-    
-    if (!isApiAvailable) {
-      throw new ApiError(503, "News API service is currently unavailable");
+
+  // if(!req.user || req.user.role !== 'admin')
+  //   throw new ApiError(403,'you are not authorized to perform this !')
+
+
+  const isApiAvailable = await checkApiAvailability();
+  
+  if (!isApiAvailable) {
+    throw new ApiError(503, "News API service is currently unavailable");
+  }
+
+  const response = await axios.get(`${NEWS_API_URL}/status`, {
+    timeout: 5000}   )
+
+    // console.log('RESPONSE', response.data)
+
+    if(response.data.processing === true) {
+      return res.status(200).json(new ApiResponse(200, null, "News extraction is already in progress"));
     }
-    
-    // Start the news processing pipeline
-    const response = await axios.post(`${NEWS_API_URL}/extract`, {}, {
+
+    const newResponse = await axios.post(`${NEWS_API_URL}/extract`, {}, {
       timeout: 15000,
       headers: {
         'Content-Type': 'application/json'
       }
-    });
+    });   
+
+    if(!newResponse || !newResponse.data) {
+      throw new ApiError(500, "No response from external source");
+    }
+
     
-    return res.status(200).json(new ApiResponse(200, response.data, "News processing started successfully"));
-  } catch (error) {
-    console.error('Error processing news:', error);
-    throw new ApiError(500, error.message || "Failed to process news");
-  }
+    return res.status(200).json(new ApiResponse(200, newResponse.data, "News processing started successfully"));
 });
 
 // Get API status
 export const getApiStatus = asyncHandler(async (req, res) => {
-  if(req.user.role !== 'admin')
-    throw new ApiError(403,'you are not authorized to perform this !')
+  // if(req.user.role !== 'admin')
+  //   throw new ApiError(403,'you are not authorized to perform this !')
+
+  const apiAvailable = await checkApiAvailability();
+  if (!apiAvailable) {  
+    throw new ApiError(503, "News API service is currently unavailable");
+  }
+
 
   const response = await axios.get(`${NEWS_API_URL}/status`, { timeout: 5000 });
   if (!response || !response.data) {
@@ -89,13 +123,22 @@ export const getApiStatus = asyncHandler(async (req, res) => {
 
 // Get supported languages
 export const getSupportedLanguages = asyncHandler(async (req, res) => {
-  try {
-    const response = await axios.get(`${NEWS_API_URL}/languages`, { timeout: 5000 });
-    return res.status(200).json(new ApiResponse(200, response.data, "Supported languages retrieved successfully"));
-  } catch (error) {
-    console.error('Error fetching supported languages:', error);
-    throw new ApiError(500, error.message || "Failed to fetch supported languages");
+
+  // if(req.user.role !== 'admin')
+  //   throw new ApiError(403,'you are not authorized to perform this !')
+  
+  const apiAvailable = await checkApiAvailability();
+  if (!apiAvailable) {
+
+    throw new ApiError(503, "News API service is currently unavailable");
   }
+
+  const response = await axios.get(`${NEWS_API_URL}/languages`, { timeout: 5000 });
+  if (!response || !response.data) {
+    throw new ApiError(500, "No response from external source");
+  }
+
+  return res.status(200).json(new ApiResponse(200, response.data, "Supported languages retrieved successfully"));
 });
 
 // export const extractNews = asyncHandler(async (req, res) => {
@@ -241,10 +284,14 @@ export const updateExtractedNews = asyncHandler(async (req, res) => {
 
   const {news} = req.body
 
+  if (!news || !Array.isArray(news)) {
+    throw new ApiError(400, "Invalid news data format");
+  }
+
   fs.writeFileSync('./extracted-news/news.json', JSON.stringify(news, null, 2), 'utf-8');
 
   return res.status(200).json(new ApiResponse(200, news, "News updated successfully in the extracted file"));
-} );
+});
 
 export const deleteNews = asyncHandler(async (req, res) => {
   if(req.user.role !== "admin") {

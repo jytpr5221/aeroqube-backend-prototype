@@ -275,7 +275,7 @@ export const getNewsFromDatabase = asyncHandler(async (req, res) => {
   // if(!req.user)
   //   throw new ApiError(403,'Please login or verify to get the news')
 
-  const news = await News.find({});
+  const news = await News.find({}).select(' -content');
   if (!news) {
     throw new ApiError(404, "No news found");
   }

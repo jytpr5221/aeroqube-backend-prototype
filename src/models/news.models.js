@@ -120,7 +120,12 @@ const newsSchema = new mongoose.Schema({
     url: {
         type: String,
         required: true
-    }
+    },
+    status: {
+        type: String,
+        enum: ["pending", "published"],
+        default: "pending"
+    },
 }, { timestamps: true });
 
 export const News = mongoose.model("News", newsSchema);

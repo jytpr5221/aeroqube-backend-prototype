@@ -1,273 +1,337 @@
 {
   "articles": [
     {
-      "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17f64002598670f7c/view?project=67efb54900393d4937bf",
-      "article_id": "7b477ee77bbc",
+      "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f190a7000f82064820/view?project=67ebd7f90031f7db3632",
+      "article_id": "364680b71592",
       "author": "Unknown Author",
-      "category": "Kerala",
-      "content": "The Indian Institute of Management Kozhikode (IIMK ) launched its 18th batch of Executive Graduate Programme in Management (EPGP) on Saturday. Launching the programme brochure, IIMK Director Debashis Chatterjee said EPGP was a flagship two-year MBA programme designed for working professionals. It combines the flexibility of online interactive learning with on-campus modules. “This format allows learners to pursue rigorous academic advancement without interrupting their careers,” he told reporters. In the past, participants came from a broad spectrum of industries including IT, consulting, aerospace, banking, public sector, energy, automotive, healthcare, e-commerce, and manufacturing. They hailed from diverse educational backgrounds and with work experience ranging from three to 25 years. Later, answering queries, outgoing Dean (Programmes) Rajesh Srinivas Upadhyayula said that ‘Live’, the business incubator at IIMK had by now created lakhs of entrepreneurs. “There are around 100 startups that have been incubated at IIMK Live,” he said, adding that one of them, based in Thiruvananthapuram, had recently received ₹10-crore funding to develop microchips that could be of immense use in the defence sector. On the placement rate at IIMK, Mr. Chatterjee said the institute did not look at placements as an indicator of quality. “It is not their entry-level jobs that matter, but what our students do 15 years after graduating from IIMK,” he added. Dean (Outreach) Deepa Sethi, Dean (Programmes) Anandakuttan B. Unnithan, and Associate Dean of IIMK Kochi campus Venkataraman S. were present. Published - April 06, 2025 12:34 am IST",
+      "category": "Delhi",
+      "content": "The Bharatiya Janata Party (BJP) on Saturday claimed that ₹29.56 crore was spent in over seven years between March 31, 2015, and December 27, 2022 to maintain the government bungalow allotted to then Chief Minister Arvind Kejriwal. The BJP cited a Right to Information (RTI) response to a citizen from Maharashtra who had sought details of cost of the maintenance of Mr. Kejriwal’s old residence. Hitting back, the Aam Aadmi Party (AAP) asked the BJP to open Prime Minister Narendra Modi’s official residence to the public. Addressing a press conference, Delhi BJP president Virendra Sachdeva alleged that an annual maintenance cost of ₹3.69 crore for a government bungalow suggests that Mr. Kejriwal either maintained it in a “royal standard” or, more likely, was involved in “corrupt practices”. “In Delhi, where one can build a decent 250-300 sq. yard bungalow with ₹4 crore, the cost of maintenance for Kejriwal’s bungalow at ₹3.69 crore annually is astonishing. The people expect him to come forward and clarify what exactly was so deficient in his bungalow that ₹31 lakh per month was needed for its maintenance,” he said. Claiming that it was a government house and not Mr. Kejriwal’s private property, AAP in a statement said, “We had demanded that both PM Modi and Mr. Kejriwal’s residences should be opened to the public, but they blocked the media and hid behind police barricades. Elections are over. The BJP is in power — and they’ve betrayed Delhi. No ₹2,500 for women, no free cylinders on Holi. Just jumlas (empty rhetoric).” Published - April 06, 2025 01:39 am IST",
       "date": "2025-04-06",
-      "headline": "IIMK launches 18th batch of EPGP",
-      "images": [
-        {
-          "filename": "IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
-          "local_path": "output\\images\\IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
-          "position": 0,
-          "server_url": "http://localhost:5000/images/IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
-          "url": "https://th-i.thgim.com/public/incoming/bipz63/article69417244.ece/alternates/LANDSCAPE_1200/80692_5_4_2025_19_40_27_1_06TVKZCONVOCATION.JPG"
-        }
-      ],
+      "headline": "BJP: ₹29.56 cr. spent to maintain Kejriwal’s bungalow for 7 years",
       "language": "en",
-      "main_image": {
-        "filename": "IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
-        "local_path": "output\\images\\IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
-        "position": 0,
-        "server_url": "http://localhost:5000/images/IIMK_launches_18th_batch_of_EP_0_1397c03d8a.jpg",
-        "url": "https://th-i.thgim.com/public/incoming/bipz63/article69417244.ece/alternates/LANDSCAPE_1200/80692_5_4_2025_19_40_27_1_06TVKZCONVOCATION.JPG"
-      },
       "source": "The Hindu",
-      "summary": "The Indian Institute of Management Kozhikode (IIMK ) launched its 18th batch of Executive Graduate Programme in Management (EPGP) on Saturday. Launching the programme brochure, IIMK Director Debashis Chatterjee said EPGP was a flagship two-year MBA programme designed for working professionals. It combines the flexibility of online interactive learning with on-campus modules. “This format allows learners to pursue rigorous academic advancement without interrupting their careers,” he told reporters. In the past, participants came from a broad spectrum of industries including IT, consulting, aerospace, banking, public sector, energy, automotive, healthcare, e-commerce, and manufacturing. They hailed from diverse educational backgrounds and with work experience ranging from three to 25 years. Later, answering queries, outgoing Dean (Programmes) Rajesh Srinivas Upadhyayula said that ‘Live’, the business incubator at IIMK had by now created lakhs of entrepreneurs. “There are around 100 start",
-      "tags": [],
-      "time": "00:34:09",
+      "summary": "The Bharatiya Janata Party (BJP) on Saturday claimed that ₹29.56 crore was spent in over seven years between March 31, 2015, and December 27, 2022 to maintain the government bungalow allotted to then Chief Minister Arvind Kejriwal. The BJP cited a Right to Information (RTI) response to a citizen from Maharashtra who had sought details of cost of the maintenance of Mr. Kejriwal’s old residence. Hitting back, the Aam Aadmi Party (AAP) asked the BJP to open Prime Minister Narendra Modi’s official residence to the public. Addressing a press conference, Delhi BJP president Virendra Sachdeva alleged that an annual maintenance cost of ₹3.69 crore for a government bungalow suggests that Mr. Kejriwal either maintained it in a “royal standard” or, more likely, was involved in “corrupt practices”. “In Delhi, where one can build a decent 250-300 sq. yard bungalow with ₹4 crore, the cost of maintenance for Kejriwal’s bungalow at ₹3.69 crore annually is astonishing. The people expect him to come for",
+      "tags": [
+        "Kejriwal’s bungalow",
+        "Bharatiya Janata Party",
+        "Virendra Sachdeva"
+      ],
+      "time": "01:39:41",
       "translations": {
         "as": {
           "appwrite_audio_url": null,
-          "article_id": "7b477ee77bbc",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK-এ মুকলি কৰিলে ইপিজিপিৰ ১৮ নং বেটচ",
+          "category": "Delhi",
+          "headline": "বিজেপিঃ ₹২৯.৫৬ কোটি। ৭ বছৰ ধৰি কেজৰিৱালৰ বাংলোটো ৰক্ষণাবেক্ষণৰ বাবে খৰচ কৰিছিল",
           "source": "The Hindu",
-          "summary": "ইণ্ডিয়ান ইনষ্টিটিউট অৱ মেনেজমেণ্ট কোজিকোডে (আই আই এম কে )ৰ ১৮ সংখ্যক বেটচ এক্সিকিউটিভ গ্ৰেজুৱেট প্ৰগ্ৰেম ইন মেনেজমেণ্ট (ই পি জি পি) শনিবাৰে মুকলি কৰে। প্ৰগ্ৰেম ব্ৰ’চাৰখন মুকলি কৰি আই আই এম কেৰ সঞ্চালক দেৱাশীষ চেটাৰ্জীয়ে কয় যে ই পি জি পি হৈছে কৰ্মৰত পেছাদাৰীসকলৰ বাবে ডিজাইন কৰা দুবছৰীয়া এম বি এ প্ৰগ্ৰেম। ই অনলাইন ইন্টাৰেক্টিভ লাৰ্নিঙৰ নমনীয়তাক অন-কেম্পাছ মডিউলৰ সৈতে সংযুক্ত কৰে। সাংবাদিকৰ আগত তেওঁ কয় যে এই ফৰ্মেটে শিক্ষাৰ্থীসকলক তেওঁলোকৰ কেৰিয়াৰত বাধা নিদিয়াকৈ কঠোৰ শৈক্ষিক উন্নতি সাধন কৰিবলৈ অনুমতি দিয়ে। বিগত সময়ত অংশগ্ৰহণকাৰীসকল আই টি, পৰামৰ্শদাতা, মহাকাশ, বেংকিং, ৰাজহুৱা খণ্ড, শক্তি, অটোমোটিভ, স্বাস্থ্যসেৱা, ই-কমাৰ্চ, আৰু উৎপাদনকে ধৰি বিভিন্ন উদ্যোগৰ পৰা আহিছিল। বিভিন্ন শৈক্ষিক পটভূমিৰ পৰা অহা আৰু তিনি বছৰৰ পৰা ২৫ বছৰলৈকে কৰ্ম অভিজ্ঞতা থকা তেওঁলোক। পিছত প্ৰশ্নৰ উত্তৰ দি বিদায়ী ডীন (প্ৰগ্ৰেম) ৰাজেশ শ্ৰীনিবাস উপাধ্যায়ুলাই কয় যে আই আই এম কেৰ ব্যৱসায়িক ইনকিউবেটৰ ‘লাইভ’ই এতিয়ালৈকে লাখ লাখ উদ্যোগীৰ সৃষ্টি কৰিছে। “প্ৰায় ১০০ টা ষ্টাৰ্ট আছে",
-          "tags": [],
-          "title": "IIMK-এ মুকলি কৰিলে ইপিজিপিৰ ১৮ নং বেটচ",
+          "summary": "ভাৰতীয় জনতা পাৰ্টিয়ে শনিবাৰে দাবী কৰে যে তেতিয়াৰ মুখ্যমন্ত্ৰী অৰবিন্দ কেজৰিৱালক আবণ্টিত চৰকাৰী বাংলোটো ৰক্ষণাবেক্ষণৰ বাবে ২০১৫ চনৰ ৩১ মাৰ্চৰ পৰা ২০২২ চনৰ ২৭ ডিচেম্বৰৰ ভিতৰত সাত বছৰতকৈও অধিক সময়ৰ ভিতৰত ২৯.৫৬ কোটি ₹ ব্যয় কৰা হৈছিল। কেজৰিৱাল ডাঙৰীয়াৰ পুৰণি বাসগৃহৰ ৰক্ষণাবেক্ষণৰ খৰচৰ সবিশেষ বিচৰা মহাৰাষ্ট্ৰৰ এজন নাগৰিকক তথ্যৰ অধিকাৰ (আৰ টি আই)ৰ উত্তৰ বিজেপিয়ে উল্লেখ কৰে। প্ৰত্যুত্তৰ দি আম আদমী পাৰ্টিয়ে বিজেপিক প্ৰধানমন্ত্ৰী নৰেন্দ্ৰ মোদীৰ চৰকাৰী বাসগৃহ জনসাধাৰণৰ বাবে মুকলি কৰিবলৈ কয়। সংবাদমেল সম্বোধন কৰি দিল্লী বিজেপিৰ সভাপতি বীৰেন্দ্ৰ সচদেৱে অভিযোগ কৰে যে চৰকাৰী বাংলো এটাৰ বাৰ্ষিক ৰক্ষণাবেক্ষণৰ বাবে ৩.৬৯ কোটি ₹ৰ খৰচৰ পৰা অনুমান কৰিব পাৰি যে কেজৰিৱাল ডাঙৰীয়াই হয় ইয়াক “ৰাজকীয় মানদণ্ড”ত ৰক্ষণাবেক্ষণ কৰিছিল নহয়, অধিক সম্ভাৱনাত, “দুৰ্নীতি”ৰ সৈতে জড়িত আছিল। “দিল্লীত, য’ত ৪ কোটি টকাৰে ২৫০-৩০০ বৰ্গ গজৰ এটা মান্য বাংলো নিৰ্মাণ কৰিব পাৰি, তাত বছৰি ৩.৬৯ কোটি টকাত কেজৰিৱালৰ বাংলোটোৰ ৰক্ষণাবেক্ষণৰ খৰচ আচৰিত ধৰণৰ।ৰাইজে তেওঁৰ বাবে আহিব বুলি আশা কৰে",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "বিজেপিঃ ₹২৯.৫৬ কোটি। ৭ বছৰ ধৰি কেজৰিৱালৰ বাংলোটো ৰক্ষণাবেক্ষণৰ বাবে খৰচ কৰিছিল",
           "tts_file_path": null
         },
         "bho": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17f8f000f539dbe8e/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f190d4001d5c8e02b5/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च कइलसि",
+          "category": "Delhi",
+          "headline": "भाजपा : ₹29.56 करोड़ के बा। 7 साल तक केजरीवाल के बंगला के रखरखाव में खर्च किया",
           "source": "The Hindu",
-          "summary": "भारतीय प्रबंधन संस्थान कोझीकोड (आईआईएमके ) शनिचर का दिने प्रबंधन में कार्यकारी स्नातक कार्यक्रम (ईपीजीपी) के 18वां बैच शुरू कइलसि. कार्यक्रम ब्रोशर के शुरुआत करत आईआईएमके के निदेशक देबाशीस चटर्जी कहले कि ईपीजीपी एगो प्रमुख दू साल के एमबीए प्रोग्राम ह जवन कामकाजी पेशेवर लोग खातिर बनावल गईल बा। एह में ऑनलाइन इंटरैक्टिव लर्निंग के लचीलापन के ऑन कैंपस मॉड्यूल के संगे जोड़ल गईल बा। उ पत्रकारन से कहले कि, ए प्रारूप से सीखल जाए वाला लोग अपना कैरियर में बाधा ना डालले कठोर शैक्षणिक उन्नति के आगे बढ़ा सकतारे। पहिले आईटी, कंसल्टिंग, एयरोस्पेस, बैंकिंग, पब्लिक सेक्टर, ऊर्जा, ऑटोमोटिव, हेल्थकेयर, ई-कॉमर्स, आ मैन्युफैक्चरिंग समेत कई तरह के उद्योगन से प्रतिभागी आइल रहले. ई लोग विविध शैक्षिक पृष्ठभूमि के रहे वाला रहे आ तीन से 25 साल के काम के अनुभव वाला रहे. बाद में सवाल के जवाब देत निवर्तमान डीन (प्रोग्राम) राजेश श्रीनिवास उपाध्यायुला कहले कि आईआईएमके के बिजनेस इनक्यूबेटर &#39;लाइव&#39; अब तक लाखों उद्यमी पैदा क चुकल बा। उ कहले कि, लगभग 100 स्टार्ट बा",
-          "tags": [],
-          "title": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च कइलसि",
+          "summary": "भारतीय जनता पार्टी शनिचर का दिने दावा कइलसि कि तब के मुख्यमंत्री अरविंद केजरीवाल के आवंटित सरकारी बंगला के रखरखाव खातिर 31 मार्च 2015 से 27 दिसंबर 2022 का बीच सात साल से अधिका में ₹29.56 करोड़ खरच भइल. भाजपा महाराष्ट्र के एगो नागरिक के सूचना के अधिकार (आरटीआई) के जवाब के हवाला दिहलस, जवन श्री केजरीवाल के पुरान आवास के रखरखाव के लागत के ब्यौरा मंगले रहे। जवाबी हमला करत आम आदमी पार्टी भाजपा से कहलस कि प्रधानमंत्री नरेंद्र मोदी के आधिकारिक आवास जनता खाती खोलल जाए। एगो प्रेस कांफ्रेंस के संबोधित करत दिल्ली भाजपा अध्यक्ष वीरेंद्र सचदेव आरोप लगवले कि एगो सरकारी बंगला के सालाना 3.69 करोड़ रुपया के रखरखाव के लागत से लागता कि श्री केजरीवाल या त एकरा के “शाही मानक” में रखले बाड़े, या, जादे संभावना बा कि उ “भ्रष्ट प्रथा” में शामिल रहले। उ कहले कि, दिल्ली में जहां ₹4 करोड़ से 250-300 वर्ग गज के सभ्य बंगला बनावल जा सकता, उहाँ केजरीवाल के बंगला के रखरखाव के लागत ₹3.69 करोड़ सालाना आश्चर्यजनक बा, जनता के उम्मीद बा कि उ एकरा खाती आईहे",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "भाजपा : ₹29.56 करोड़ के बा। 7 साल तक केजरीवाल के बंगला के रखरखाव में खर्च किया",
           "tts_file_path": null
         },
         "bn": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17f7e001183bc7181/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f190c200188207c064/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK EPGP-এর ১৮তম ব্যাচ চালু করেছে",
+          "category": "Delhi",
+          "headline": "বিজেপি: ৭ বছর ধরে কেজরিওয়ালের বাংলো রক্ষণাবেক্ষণের জন্য ২৯.৫৬ কোটি টাকা খরচ হয়েছে",
           "source": "The Hindu",
-          "summary": "শনিবার ইন্ডিয়ান ইনস্টিটিউট অফ ম্যানেজমেন্ট কোঝিকোড় (IIMK) তাদের এক্সিকিউটিভ গ্র্যাজুয়েট প্রোগ্রাম ইন ম্যানেজমেন্ট (EPGP) এর ১৮তম ব্যাচ চালু করেছে। প্রোগ্রাম ব্রোশারটি প্রকাশ করে, IIMK পরিচালক দেবাশিস চ্যাটার্জি বলেন, EPGP হল কর্মরত পেশাদারদের জন্য তৈরি একটি দুই বছরের MBA প্রোগ্রাম। এটি অনলাইন ইন্টারেক্টিভ লার্নিংয়ের নমনীয়তাকে ক্যাম্পাসে মডিউলের সাথে একত্রিত করে। &quot;এই ফর্ম্যাটটি শিক্ষার্থীদের তাদের ক্যারিয়ার ব্যাহত না করে কঠোর একাডেমিক অগ্রগতি অর্জন করতে সাহায্য করে,&quot; তিনি সাংবাদিকদের বলেন। অতীতে, অংশগ্রহণকারীরা IT, পরামর্শ, মহাকাশ, ব্যাংকিং, পাবলিক সেক্টর, শক্তি, মোটরগাড়ি, স্বাস্থ্যসেবা, ই-কমার্স এবং উৎপাদন সহ বিভিন্ন শিল্প থেকে এসেছিলেন। তারা বিভিন্ন শিক্ষাগত পটভূমি থেকে এসেছিলেন এবং তিন থেকে ২৫ বছরের কাজের অভিজ্ঞতা ছিল। পরে, প্রশ্নের উত্তর দিয়ে, বিদায়ী ডিন (প্রোগ্রাম) রাজেশ শ্রীনিবাস উপাধ্যায়ুলা বলেন যে &#39;লাইভ&#39;, IIMK-এর ব্যবসায়িক ইনকিউবেটর এখন লক্ষ লক্ষ উদ্যোক্তা তৈরি করেছে। &quot;প্রায় ১০০ জন নতুন উদ্যোক্তা তৈরি করেছেন&quot;।",
-          "tags": [],
-          "title": "IIMK EPGP-এর ১৮তম ব্যাচ চালু করেছে",
+          "summary": "ভারতীয় জনতা পার্টি (বিজেপি) শনিবার দাবি করেছে যে ৩১ মার্চ, ২০১৫ থেকে ২৭ ডিসেম্বর, ২০২২ পর্যন্ত সাত বছরেরও বেশি সময় ধরে তৎকালীন মুখ্যমন্ত্রী অরবিন্দ কেজরিওয়ালকে বরাদ্দ করা সরকারি বাংলোটি রক্ষণাবেক্ষণের জন্য ২৯.৫৬ কোটি টাকা ব্যয় করা হয়েছে। বিজেপি তথ্য অধিকার আইন (আরটিআই) আইনের আওতায় মহারাষ্ট্রের এক নাগরিকের কাছে কেজরিওয়ালের পুরনো বাসভবনের রক্ষণাবেক্ষণের খরচের বিবরণ চেয়েছিল। পাল্টা আক্রমণ করে, আম আদমি পার্টি (এএপি) বিজেপিকে প্রধানমন্ত্রী নরেন্দ্র মোদীর সরকারি বাসভবন জনসাধারণের জন্য উন্মুক্ত করার জন্য বলেছে। এক সংবাদ সম্মেলনে বক্তব্য রেখে দিল্লি বিজেপি সভাপতি বীরেন্দ্র সচদেব অভিযোগ করেছেন যে সরকারি বাংলোর জন্য বার্ষিক ৩.৬৯ কোটি টাকা রক্ষণাবেক্ষণ ব্যয় ইঙ্গিত দেয় যে মিঃ কেজরিওয়াল হয় এটিকে &quot;রাজকীয় মান&quot; অনুসারে বজায় রেখেছিলেন, অথবা সম্ভবত &quot;দুর্নীতিগ্রস্ত&quot; ছিলেন। &quot;দিল্লিতে, যেখানে ৪ কোটি টাকা দিয়ে ২৫০-৩০০ বর্গ গজের একটি ভালো বাংলো তৈরি করা যায়, সেখানে কেজরিওয়ালের বাংলোর রক্ষণাবেক্ষণের খরচ ৩.৬৯ কোটি টাকা বার্ষিক অবাক করার মতো। জনগণ আশা করছে তিনি আসবেন।",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "বিজেপি: ৭ বছর ধরে কেজরিওয়ালের বাংলো রক্ষণাবেক্ষণের জন্য ২৯.৫৬ কোটি টাকা খরচ হয়েছে",
           "tts_file_path": null
         },
         "en": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f180ae0001024ceafe/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f191e400233e771f9a/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK launches 18th batch of EPGP",
+          "category": "Delhi",
+          "headline": "BJP: ₹29.56 cr. spent to maintain Kejriwal’s bungalow for 7 years",
           "source": "The Hindu",
-          "summary": "The Indian Institute of Management Kozhikode (IIMK ) launched its 18th batch of Executive Graduate Programme in Management (EPGP) on Saturday. Launching the programme brochure, IIMK Director Debashis Chatterjee said EPGP was a flagship two-year MBA programme designed for working professionals. It combines the flexibility of online interactive learning with on-campus modules. “This format allows learners to pursue rigorous academic advancement without interrupting their careers,” he told reporters. In the past, participants came from a broad spectrum of industries including IT, consulting, aerospace, banking, public sector, energy, automotive, healthcare, e-commerce, and manufacturing. They hailed from diverse educational backgrounds and with work experience ranging from three to 25 years. Later, answering queries, outgoing Dean (Programmes) Rajesh Srinivas Upadhyayula said that ‘Live’, the business incubator at IIMK had by now created lakhs of entrepreneurs. “There are around 100 start",
-          "tags": [],
-          "title": "IIMK launches 18th batch of EPGP",
+          "summary": "The Bharatiya Janata Party (BJP) on Saturday claimed that ₹29.56 crore was spent in over seven years between March 31, 2015, and December 27, 2022 to maintain the government bungalow allotted to then Chief Minister Arvind Kejriwal. The BJP cited a Right to Information (RTI) response to a citizen from Maharashtra who had sought details of cost of the maintenance of Mr. Kejriwal’s old residence. Hitting back, the Aam Aadmi Party (AAP) asked the BJP to open Prime Minister Narendra Modi’s official residence to the public. Addressing a press conference, Delhi BJP president Virendra Sachdeva alleged that an annual maintenance cost of ₹3.69 crore for a government bungalow suggests that Mr. Kejriwal either maintained it in a “royal standard” or, more likely, was involved in “corrupt practices”. “In Delhi, where one can build a decent 250-300 sq. yard bungalow with ₹4 crore, the cost of maintenance for Kejriwal’s bungalow at ₹3.69 crore annually is astonishing. The people expect him to come for",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "BJP: ₹29.56 cr. spent to maintain Kejriwal’s bungalow for 7 years",
           "tts_file_path": null
         },
         "gu": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fa20010e5e2066c/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f190e800125be67a20/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK એ EPGP ની 18મી બેચ લોન્ચ કરી",
+          "category": "Delhi",
+          "headline": "ભાજપ: 7 વર્ષ સુધી કેજરીવાલના બંગલાની જાળવણી માટે ₹29.56 કરોડનો ખર્ચ",
           "source": "The Hindu",
-          "summary": "ઇન્ડિયન ઇન્સ્ટિટ્યૂટ ઓફ મેનેજમેન્ટ કોઝિકોડ (IIMK) એ શનિવારે એક્ઝિક્યુટિવ ગ્રેજ્યુએટ પ્રોગ્રામ ઇન મેનેજમેન્ટ (EPGP) ની 18મી બેચ શરૂ કરી. પ્રોગ્રામ બ્રોશર લોન્ચ કરતા, IIMK ના ડિરેક્ટર દેબાશીસ ચેટર્જીએ જણાવ્યું હતું કે EPGP એ કાર્યકારી વ્યાવસાયિકો માટે રચાયેલ બે વર્ષનો મુખ્ય MBA પ્રોગ્રામ છે. તે ઓન-કેમ્પસ મોડ્યુલ્સ સાથે ઓન-કેમ્પસ મોડ્યુલ્સની સુગમતાને જોડે છે. &quot;આ ફોર્મેટ શીખનારાઓને તેમની કારકિર્દીમાં વિક્ષેપ પાડ્યા વિના સખત શૈક્ષણિક પ્રગતિ પ્રાપ્ત કરવાની મંજૂરી આપે છે,&quot; તેમણે પત્રકારોને જણાવ્યું. ભૂતકાળમાં, સહભાગીઓ IT, કન્સલ્ટિંગ, એરોસ્પેસ, બેંકિંગ, જાહેર ક્ષેત્ર, ઊર્જા, ઓટોમોટિવ, આરોગ્યસંભાળ, ઈ-કોમર્સ અને ઉત્પાદન સહિતના ઉદ્યોગોના વ્યાપક સ્પેક્ટ્રમમાંથી આવતા હતા. તેઓ વિવિધ શૈક્ષણિક પૃષ્ઠભૂમિમાંથી હતા અને ત્રણ થી 25 વર્ષનો કાર્ય અનુભવ ધરાવતા હતા. બાદમાં, પ્રશ્નોના જવાબ આપતા, આઉટગોઇંગ ડીન (પ્રોગ્રામ્સ) રાજેશ શ્રીનિવાસ ઉપાધ્યાયુલાએ જણાવ્યું હતું કે &#39;લાઈવ&#39;, IIMK ખાતે બિઝનેસ ઇન્ક્યુબેટરે અત્યાર સુધીમાં લાખો ઉદ્યોગસાહસિકો બનાવ્યા છે. &quot;લગભગ 100 શરૂઆત છે...&quot;",
-          "tags": [],
-          "title": "IIMK એ EPGP ની 18મી બેચ લોન્ચ કરી",
+          "summary": "ભારતીય જનતા પાર્ટી (ભાજપ) એ શનિવારે દાવો કર્યો હતો કે 31 માર્ચ, 2015 થી 27 ડિસેમ્બર, 2022 વચ્ચેના સાત વર્ષમાં તત્કાલીન મુખ્યમંત્રી અરવિંદ કેજરીવાલને ફાળવવામાં આવેલા સરકારી બંગલાની જાળવણી માટે ₹29.56 કરોડ ખર્ચવામાં આવ્યા હતા. ભાજપે મહારાષ્ટ્રના એક નાગરિકને માહિતી અધિકાર (RTI) હેઠળ મળેલા જવાબનો ઉલ્લેખ કર્યો હતો, જેમણે શ્રી કેજરીવાલના જૂના નિવાસસ્થાનના જાળવણી ખર્ચની વિગતો માંગી હતી. વળતો પ્રહાર કરતા, આમ આદમી પાર્ટી (AAP) એ ભાજપને વડા પ્રધાન નરેન્દ્ર મોદીના સત્તાવાર નિવાસસ્થાનને જાહેર જનતા માટે ખોલવા કહ્યું. એક પત્રકાર પરિષદને સંબોધતા, દિલ્હી ભાજપ પ્રમુખ વીરેન્દ્ર સચદેવાએ આરોપ લગાવ્યો કે સરકારી બંગલાના ₹3.69 કરોડના વાર્ષિક જાળવણી ખર્ચ સૂચવે છે કે શ્રી કેજરીવાલે કાં તો તેને &quot;શાહી ધોરણ&quot; માં જાળવી રાખ્યું હતું અથવા, વધુ સંભવતઃ, &quot;ભ્રષ્ટ પ્રથાઓ&quot; માં સામેલ હતા. &quot;દિલ્હીમાં, જ્યાં કોઈ ₹4 કરોડથી 250-300 ચોરસ યાર્ડનો યોગ્ય બંગલો બનાવી શકે છે, ત્યાં કેજરીવાલના બંગલાના જાળવણીનો ખર્ચ વાર્ષિક ₹3.69 કરોડમાં આશ્ચર્યજનક છે. લોકો અપેક્ષા રાખે છે કે તેઓ...",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "ભાજપ: 7 વર્ષ સુધી કેજરીવાલના બંગલાની જાળવણી માટે ₹29.56 કરોડનો ખર્ચ",
           "tts_file_path": null
         },
         "hi": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fb2002342cd8317/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": null,
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "आईआईएमके ने ईपीजीपी का 18वां बैच शुरू किया",
+          "category": "Delhi",
+          "headline": "भाजपा: केजरीवाल के बंगले के रखरखाव पर 7 साल तक 29.56 करोड़ रुपये खर्च हुए",
           "source": "The Hindu",
-          "summary": "भारतीय प्रबंध संस्थान कोझीकोड (आईआईएमके) ने शनिवार को प्रबंधन में कार्यकारी स्नातक कार्यक्रम (ईपीजीपी) के अपने 18वें बैच का शुभारंभ किया। कार्यक्रम विवरणिका का शुभारंभ करते हुए आईआईएमके के निदेशक देबाशीष चटर्जी ने कहा कि ईपीजीपी कामकाजी पेशेवरों के लिए बनाया गया एक प्रमुख दो वर्षीय एमबीए कार्यक्रम है। यह ऑन-कैंपस मॉड्यूल के साथ ऑनलाइन इंटरैक्टिव सीखने के लचीलेपन को जोड़ता है। उन्होंने संवाददाताओं से कहा, &quot;यह प्रारूप शिक्षार्थियों को अपने करियर में बाधा डाले बिना कठोर शैक्षणिक उन्नति करने की अनुमति देता है।&quot; अतीत में, प्रतिभागी आईटी, परामर्श, एयरोस्पेस, बैंकिंग, सार्वजनिक क्षेत्र, ऊर्जा, मोटर वाहन, स्वास्थ्य सेवा, ई-कॉमर्स और विनिर्माण सहित उद्योगों की एक विस्तृत श्रृंखला से आए थे। वे विविध शैक्षिक पृष्ठभूमि से आए थे और उनके पास तीन से 25 साल का कार्य अनुभव था। बाद में, प्रश्नों का उत्तर देते हुए निवर्तमान डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला ने कहा कि आईआईएमके",
-          "tags": [],
-          "title": "आईआईएमके ने ईपीजीपी का 18वां बैच शुरू किया",
+          "summary": "भारतीय जनता पार्टी (भाजपा) ने शनिवार को दावा किया कि तत्कालीन मुख्यमंत्री अरविंद केजरीवाल को आवंटित सरकारी बंगले के रखरखाव के लिए 31 मार्च 2015 से 27 दिसंबर 2022 के बीच सात वर्षों में 29.56 करोड़ रुपये खर्च किए गए। भाजपा ने महाराष्ट्र के एक नागरिक को सूचना के अधिकार (आरटीआई) के जवाब का हवाला दिया, जिसने केजरीवाल के पुराने आवास के रखरखाव की लागत का ब्योरा मांगा था। पलटवार करते हुए आम आदमी पार्टी (आप) ने भाजपा से प्रधानमंत्री नरेंद्र मोदी के आधिकारिक आवास को जनता के लिए खोलने को कहा। एक संवाददाता सम्मेलन को संबोधित करते हुए, दिल्ली भाजपा अध्यक्ष वीरेंद्र सचदेवा ने आरोप लगाया कि सरकारी बंगले के लिए 3.69 करोड़ रुपये की वार्षिक रखरखाव लागत बताती है कि श्री केजरीवाल ने या तो इसे &quot;शाही मानक&quot; में बनाए रखा दिल्ली में, जहाँ 4 करोड़ रुपये में 250-300 वर्ग गज का एक बढ़िया बंगला बनाया जा सकता है, केजरीवाल के बंगले के रख-रखाव का सालाना खर्च 3.69 करोड़ रुपये है, जो हैरान करने वाला है। लोगों को उम्मीद है कि वे यहाँ आएंगे।",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "भाजपा: केजरीवाल के बंगले के रखरखाव पर 7 साल तक 29.56 करोड़ रुपये खर्च हुए",
           "tts_file_path": null
         },
         "kn": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fc6003e2a860c02/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f191040013b48220bd/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "ಐಐಎಂಕೆ 18ನೇ ಬ್ಯಾಚ್ ಇಪಿಜಿಪಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ",
+          "category": "Delhi",
+          "headline": "ಕೇಜ್ರಿವಾಲ್ ಅವರ ಬಂಗಲೆಯನ್ನು 7 ವರ್ಷಗಳ ಕಾಲ ನಿರ್ವಹಿಸಲು ಬಿಜೆಪಿ ₹29.56 ಕೋಟಿ ಖರ್ಚು ಮಾಡಿದೆ.",
           "source": "The Hindu",
-          "summary": "ಇಂಡಿಯನ್ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ ಕೋಝಿಕ್ಕೋಡ್ (IIMK) ತನ್ನ 18 ನೇ ಬ್ಯಾಚ್ ಎಕ್ಸಿಕ್ಯುಟಿವ್ ಗ್ರಾಜುಯೇಟ್ ಪ್ರೋಗ್ರಾಂ ಇನ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (EPGP) ಅನ್ನು ಶನಿವಾರ ಪ್ರಾರಂಭಿಸಿತು. ಕಾರ್ಯಕ್ರಮದ ಕರಪತ್ರವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದ IIMK ನಿರ್ದೇಶಕ ದೇಬಾಶಿಸ್ ಚಟರ್ಜಿ, EPGP ಕೆಲಸ ಮಾಡುವ ವೃತ್ತಿಪರರಿಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಎರಡು ವರ್ಷಗಳ ಪ್ರಮುಖ MBA ಕಾರ್ಯಕ್ರಮವಾಗಿದೆ ಎಂದು ಹೇಳಿದರು. ಇದು ಆನ್‌ಲೈನ್ ಸಂವಾದಾತ್ಮಕ ಕಲಿಕೆಯ ನಮ್ಯತೆಯನ್ನು ಆನ್-ಕ್ಯಾಂಪಸ್ ಮಾಡ್ಯೂಲ್‌ಗಳೊಂದಿಗೆ ಸಂಯೋಜಿಸುತ್ತದೆ. &quot;ಈ ಸ್ವರೂಪವು ಕಲಿಯುವವರು ತಮ್ಮ ವೃತ್ತಿಜೀವನವನ್ನು ಅಡ್ಡಿಪಡಿಸದೆ ಕಠಿಣ ಶೈಕ್ಷಣಿಕ ಪ್ರಗತಿಯನ್ನು ಅನುಸರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ&quot; ಎಂದು ಅವರು ವರದಿಗಾರರಿಗೆ ತಿಳಿಸಿದರು. ಹಿಂದೆ, ಭಾಗವಹಿಸುವವರು ಐಟಿ, ಸಲಹಾ, ಏರೋಸ್ಪೇಸ್, ಬ್ಯಾಂಕಿಂಗ್, ಸಾರ್ವಜನಿಕ ವಲಯ, ಇಂಧನ, ಆಟೋಮೋಟಿವ್, ಆರೋಗ್ಯ ರಕ್ಷಣೆ, ಇ-ಕಾಮರ್ಸ್ ಮತ್ತು ಉತ್ಪಾದನೆ ಸೇರಿದಂತೆ ವ್ಯಾಪಕ ಶ್ರೇಣಿಯ ಕೈಗಾರಿಕೆಗಳಿಂದ ಬಂದಿದ್ದರು. ಅವರು ವೈವಿಧ್ಯಮಯ ಶೈಕ್ಷಣಿಕ ಹಿನ್ನೆಲೆಯಿಂದ ಬಂದವರು ಮತ್ತು ಮೂರರಿಂದ 25 ವರ್ಷಗಳವರೆಗಿನ ಕೆಲಸದ ಅನುಭವವನ್ನು ಹೊಂದಿದ್ದಾರೆ. ನಂತರ, ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸುತ್ತಾ, ಹೊರಹೋಗುವ ಡೀನ್ (ಕಾರ್ಯಕ್ರಮಗಳು) ರಾಜೇಶ್ ಶ್ರೀನಿವಾಸ್ ಉಪಾಧ್ಯಾಯುಲಾ ಅವರು, IIMK ಯಲ್ಲಿನ ವ್ಯವಹಾರ ಇನ್ಕ್ಯುಬೇಟರ್ &#39;ಲೈವ್&#39; ಈಗ ಲಕ್ಷಾಂತರ ಉದ್ಯಮಿಗಳನ್ನು ಸೃಷ್ಟಿಸಿದೆ ಎಂದು ಹೇಳಿದರು. &quot;ಸುಮಾರು 100 ಆರಂಭಿಕರು ಇದ್ದಾರೆ",
-          "tags": [],
-          "title": "ಐಐಎಂಕೆ 18ನೇ ಬ್ಯಾಚ್ ಇಪಿಜಿಪಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ",
+          "summary": "ಮಾರ್ಚ್ 31, 2015 ರಿಂದ ಡಿಸೆಂಬರ್ 27, 2022 ರವರೆಗೆ ಏಳು ವರ್ಷಗಳಲ್ಲಿ ಆಗಿನ ಮುಖ್ಯಮಂತ್ರಿ ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಅವರಿಗೆ ನೀಡಲಾಗಿದ್ದ ಸರ್ಕಾರಿ ಬಂಗಲೆಯನ್ನು ನಿರ್ವಹಿಸಲು ₹29.56 ಕೋಟಿ ಖರ್ಚು ಮಾಡಲಾಗಿದೆ ಎಂದು ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ (ಬಿಜೆಪಿ) ಶನಿವಾರ ಹೇಳಿಕೊಂಡಿದೆ. ಶ್ರೀ ಕೇಜ್ರಿವಾಲ್ ಅವರ ಹಳೆಯ ನಿವಾಸದ ನಿರ್ವಹಣೆಯ ವೆಚ್ಚದ ವಿವರಗಳನ್ನು ಕೋರಿದ್ದ ಮಹಾರಾಷ್ಟ್ರದ ನಾಗರಿಕರೊಬ್ಬರಿಗೆ ಮಾಹಿತಿ ಹಕ್ಕು (ಆರ್‌ಟಿಐ) ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಬಿಜೆಪಿ ಉಲ್ಲೇಖಿಸಿದೆ. ಇದಕ್ಕೆ ಪ್ರತಿಯಾಗಿ, ಆಮ್ ಆದ್ಮಿ ಪಕ್ಷ (ಎಎಪಿ) ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿಯವರ ಅಧಿಕೃತ ನಿವಾಸವನ್ನು ಸಾರ್ವಜನಿಕರಿಗೆ ತೆರೆಯುವಂತೆ ಬಿಜೆಪಿಯನ್ನು ಕೇಳಿದೆ. ಪತ್ರಿಕಾಗೋಷ್ಠಿಯನ್ನುದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದ ದೆಹಲಿ ಬಿಜೆಪಿ ಅಧ್ಯಕ್ಷ ವೀರೇಂದ್ರ ಸಚ್‌ದೇವ, ಸರ್ಕಾರಿ ಬಂಗಲೆಯ ವಾರ್ಷಿಕ ₹3.69 ಕೋಟಿ ನಿರ್ವಹಣಾ ವೆಚ್ಚವು ಶ್ರೀ ಕೇಜ್ರಿವಾಲ್ ಅದನ್ನು &quot;ರಾಜಮನೆತನದ ಗುಣಮಟ್ಟ&quot;ದಲ್ಲಿ ನಿರ್ವಹಿಸಿದ್ದಾರೆ ಅಥವಾ ಹೆಚ್ಚಾಗಿ &quot;ಭ್ರಷ್ಟಾಚಾರಗಳಲ್ಲಿ&quot; ಭಾಗಿಯಾಗಿದ್ದಾರೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ ಎಂದು ಆರೋಪಿಸಿದರು. &quot;ದೆಹಲಿಯಲ್ಲಿ ₹4 ಕೋಟಿಯಲ್ಲಿ 250-300 ಚದರ ಗಜಗಳ ಉತ್ತಮ ಬಂಗಲೆಯನ್ನು ನಿರ್ಮಿಸಬಹುದು, ಆದರೆ ಕೇಜ್ರಿವಾಲ್ ಅವರ ಬಂಗಲೆಯ ನಿರ್ವಹಣಾ ವೆಚ್ಚ ವಾರ್ಷಿಕ ₹3.69 ಕೋಟಿ. ಜನರು ಅವರು ಬರಬೇಕೆಂದು ನಿರೀಕ್ಷಿಸುತ್ತಾರೆ&quot;",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "ಕೇಜ್ರಿವಾಲ್ ಅವರ ಬಂಗಲೆಯನ್ನು 7 ವರ್ಷಗಳ ಕಾಲ ನಿರ್ವಹಿಸಲು ಬಿಜೆಪಿ ₹29.56 ಕೋಟಿ ಖರ್ಚು ಮಾಡಿದೆ.",
           "tts_file_path": null
         },
         "kok": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17fd9003bede2d6c8/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f1911700006d72decf/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "आयआयएमकेन ईपीजीपीचो 18वो बॅच सुरू केलो",
+          "category": "Delhi",
+          "headline": "भाजपा: ₹29.56 क्र. 7 वर्सां केजरीवालाच्या बंगलो सांबाळपाक खर्च केलो",
           "source": "The Hindu",
-          "summary": "इंडियन इन्स्टिट्यूट ऑफ मॅनेजमेंट कोझीकोड (आयआयएमके ) हांणी शेनवारा वेवस्थापनांत कार्यकारी पदवी कार्यक्रम (ईपीजीपी) चो 18वो गट सुरू केलो. कार्यक्रम ब्रोशर सुरू करतना आयआयएमकेचे संचालक देबाशीस चॅटर्जी हांणी सांगलें की ईपीजीपी हो काम करपी वेवसायिकां खातीर तयार केल्लो दोन वर्सांचो एमबीएचो मुखेल कार्यक्रम आसा. ऑनलायन परस्पर संवादात्मक शिकपाची लवचीकता ऑन-कॅम्पस मॉड्यूलां वांगडा जोडटा. ह्या स्वरूपाक लागून शिकपी लोकांक आपली कारकीर्द खंडीत करिनासतना खर शिक्षणीक उदरगत करपाक मेळटा अशें तांणी पत्रकारां कडेन उलयतना सांगलें. आदल्या काळांत आयटी, सल्लागार, एरोस्पेस, बँकिंग, भौशीक क्षेत्र, उर्जा, मोटारी, भलायकी, ई-कॉमर्स, आनी उत्पादन ह्या सारक्या उद्देगांच्या व्यापक वर्णपटांतल्यान भाग घेवपी येताले. ते विंगड विंगड शिक्षणीक फाटभूंय आशिल्ले आनी तीन ते 25 वर्सां मेरेन काम करपाचो अणभव आशिल्ले. उपरांत प्रस्नांक जाप दितना निवृत्त जावपी डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला हांणी सांगलें की आयआयएमकेंतल्या ‘लायव्ह’ ह्या बिझनेस इनक्युबेटरान आतां मेरेन लाखांनी उद्देजक तयार केल्यात. “सुमार 100 स्टार्ट आसात",
-          "tags": [],
-          "title": "आयआयएमकेन ईपीजीपीचो 18वो बॅच सुरू केलो",
+          "summary": "तेन्नाचे मुख्यमंत्री अरविंद केजरीवाल हाका दिल्लो सरकारी बंगलो सांबाळपा खातीर 31 मार्च 2015 ते 27 डिसेंबर 2022 ह्या काळांत सात वर्सां परस चड काळांत ₹29.56 कोटी रुपया खर्च जाल्ल्याचो दावो भारतीय जनता पक्षान शेनवारा केला. श्री केजरीवाल हांच्या पोरन्या निवासस्थानाची देखरेख करपाच्या खर्चाचो तपशील मागपी महाराष्ट्रांतल्या एका नागरिकाक म्हायती हक्क (आरटीआय) प्रतिसादाचो उल्लेख भाजपान केला. ताका परतून मारून आम आदमी पक्षान भाजपाक प्रधानमंत्री नरेंद्र मोदीचें अधिकृत निवासस्थान लोकां खातीर उक्तें करपाक सांगलें. पत्रकार परिशदेंत संबोधन करतना दिल्ली भाजपा अध्यक्ष वीरेंद्र सचदेव हांणी आरोप केलो की, सरकारी बंगले खातीर वर्सुकी देखरेखीचो ₹3.69 कोटी खर्च जाल्यार श्री केजरीवाल हांणी एक तर तो “राजकीय मानकांत” सांबाळ्ळो वा चड करून “भ्रश्टाचारांत” वांटो घेतला अशें दिसता. “दिल्लींत, जंय ₹4 कोटी रुपयांनी 250-300 चौखण गजांचे एक सभ्य बंगलो बांदूं येता, थंय केजरीवालाच्या बंगल्याच्या देखरेखीचो खर्च वर्साक ₹3.69 कोटी रुपया विस्मयकारक आसा.लोक ताका येवपाची अपेक्षा दवरतात",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "भाजपा: ₹29.56 क्र. 7 वर्सां केजरीवालाच्या बंगलो सांबाळपाक खर्च केलो",
           "tts_file_path": null
         },
         "mai": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17feb000eb37d6c27/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f19129002498a310be/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च केलक",
+          "category": "Delhi",
+          "headline": "भाजपा : ₹29.56 करोड़। 7 साल तक केजरीवाल के बंगला के रखरखाव में खर्च किया |",
           "source": "The Hindu",
-          "summary": "भारतीय प्रबंधन संस्थान कोझीकोड (आईआईएमके ) न॑ शनिदिन प्रबंधन म॑ कार्यकारी स्नातक कार्यक्रम (ईपीजीपी) केरऽ १८वां बैच शुरू करलकै । कार्यक्रम ब्रोशर केरऽ शुभारंभ करतें हुअ॑ आईआईएमके केरऽ निदेशक देबाशीस चटर्जी न॑ कहलकै कि ईपीजीपी एगो प्रमुख दू साल केरऽ एमबीए प्रोग्राम छेकै जे कामकाजी पेशेवरऽ लेली डिजाइन करलऽ गेलऽ छै । इ ऑनलाइन इंटरैक्टिव लर्निंग कें लचीलापन कें ऑन कैंपस मॉड्यूल कें साथ जोड़यत छै. पत्रकार सब सं बातचीत मे ओ कहलनि जे, ई प्रारूप सीखय वाला के अपन कैरियर मे कोनो बाधा केने बिना कठोर शैक्षणिक उन्नति करय के मौका दैत अछि. पहिने प्रतिभागी आईटी, परामर्श, एयरोस्पेस, बैंकिंग, सार्वजनिक क्षेत्र, ऊर्जा, ऑटोमोटिव, स्वास्थ्य देखभाल, ई-कॉमर्स, आ मैन्युफैक्चरिंग सहित उद्योगक कें एकटा व्यापक स्पेक्ट्रम सं आबै छै. ई सब विविध शैक्षणिक पृष्ठभूमि के छेलै आरू तीन स॑ ल॑ क॑ 25 साल के काम के अनुभव वाला छेलै । बाद मे सवाल क जवाब दैत निवर्तमान डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला कहला जे आईआईएमके क बिजनेस इनक्यूबेटर ‘लाइव’ एखन धरि लाखों उद्यमी क निर्माण करि चुकल अछि। ओ कहला जे करीब 100टा स्टार्ट अछि",
-          "tags": [],
-          "title": "आईआईएमके ईपीजीपी के 18वां बैच लॉन्च केलक",
+          "summary": "भारतीय जनता पार्टी न॑ शनिदिन दावा करलकै कि तत्कालीन मुख्यमंत्री अरविंद केजरीवाल क॑ आवंटित सरकारी बंगला क॑ कायम रखै लेली ३१ मार्च २०१५ आरू २७ दिसंबर २०२२ के बीच सात साल स॑ भी अधिक समय म॑ २९.५६ करोड़ रुपया खर्च करलऽ गेलऽ छै । भाजपा महाराष्ट्र के एकटा नागरिक के सूचना के अधिकार (आरटीआई) के जवाब के हवाला देलक जे श्री केजरीवाल के पुरान आवास के रखरखाव के लागत के विवरण मांगने छल. जवाबी प्रहार करैत आम आदमी पार्टी भाजपा स कहलक जे प्रधानमंत्री नरेंद्र मोदी क आधिकारिक आवास जनता क लेल खोलल जाए। एक प्रेस कॉन्फ्रेंस क॑ संबोधित करतें हुअ॑ दिल्ली भाजपा अध्यक्ष वीरेंद्र सचदेव न॑ आरोप लगैलकै कि एगो सरकारी बंगला केरऽ सालाना रखरखाव केरऽ लागत ३.६९ करोड़ ₹ स॑ ई बात के संकेत मिलै छै कि श्री केजरीवाल न॑ या त॑ एकरा “शाही मानक” म॑ रखलकै या, अधिक संभावना छै कि “भ्रष्ट प्रथा” म॑ शामिल छेलै । ओ कहला जे दिल्ली मे जतय ₹4 करोड़ स 250-300 वर्ग गज क सभ्य बंगला बनाउल जा सकैत अछि, ओतय केजरीवाल क बंगला क रखरखाव क लागत ₹3.69 करोड़ सालाना आश्चर्यजनक अछि, जनता हुनका स उम्मीद करैत अछि जे ओ एहि लेल आओत",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "भाजपा : ₹29.56 करोड़। 7 साल तक केजरीवाल के बंगला के रखरखाव में खर्च किया |",
           "tts_file_path": null
         },
         "ml": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f17ffe0030ec6623d2/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": null,
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "ഐഐഎംകെ ഇപിജിപിയുടെ 18-ാമത് ബാച്ച് പുറത്തിറക്കി",
+          "category": "Delhi",
+          "headline": "കെജ്‌രിവാളിന്റെ ബംഗ്ലാവ് 7 വർഷത്തേക്ക് പരിപാലിക്കാൻ ബിജെപി ചെലവഴിച്ചത് 29.56 കോടി രൂപ.",
           "source": "The Hindu",
-          "summary": "ഇന്ത്യൻ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് മാനേജ്‌മെന്റ് കോഴിക്കോട് (ഐഐഎംകെ) എക്‌സിക്യൂട്ടീവ് ഗ്രാജുവേറ്റ് പ്രോഗ്രാം ഇൻ മാനേജ്‌മെന്റിന്റെ (ഇപിജിപി) 18-ാമത് ബാച്ച് ശനിയാഴ്ച ആരംഭിച്ചു. പ്രോഗ്രാം ബ്രോഷർ പ്രകാശനം ചെയ്തുകൊണ്ട് ഐഐഎംകെ ഡയറക്ടർ ദേബാഷിസ് ചാറ്റർജി പറഞ്ഞു, ജോലി ചെയ്യുന്ന പ്രൊഫഷണലുകൾക്കായി രൂപകൽപ്പന ചെയ്‌തിരിക്കുന്ന ഒരു മുൻനിര രണ്ട് വർഷത്തെ എംബിഎ പ്രോഗ്രാമാണ് ഇപിജിപി. ഓൺലൈൻ ഇന്ററാക്ടീവ് ലേണിംഗിന്റെ വഴക്കവും ഓൺ-കാമ്പസ് മൊഡ്യൂളുകളും ഇത് സംയോജിപ്പിക്കുന്നു. &quot;ഈ ഫോർമാറ്റ് പഠിതാക്കൾക്ക് അവരുടെ കരിയറിനെ തടസ്സപ്പെടുത്താതെ കർശനമായ അക്കാദമിക് പുരോഗതി പിന്തുടരാൻ അനുവദിക്കുന്നു,&quot; അദ്ദേഹം മാധ്യമപ്രവർത്തകരോട് പറഞ്ഞു. മുൻകാലങ്ങളിൽ, ഐടി, കൺസൾട്ടിംഗ്, എയ്‌റോസ്‌പേസ്, ബാങ്കിംഗ്, പൊതുമേഖല, ഊർജ്ജം, ഓട്ടോമോട്ടീവ്, ഹെൽത്ത്‌കെയർ, ഇ-കൊമേഴ്‌സ്, നിർമ്മാണം എന്നിവയുൾപ്പെടെ വിവിധ വ്യവസായങ്ങളിൽ നിന്നാണ് പങ്കാളികൾ വന്നത്. വൈവിധ്യമാർന്ന വിദ്യാഭ്യാസ പശ്ചാത്തലങ്ങളിൽ നിന്നുള്ളവരും മൂന്ന് മുതൽ 25 വർഷം വരെയുള്ള പ്രവൃത്തി പരിചയവുമുള്ളവരുമാണ് അവർ. പിന്നീട്, ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകിക്കൊണ്ട്, ഔട്ട്‌ഗോയിംഗ് ഡീൻ (പ്രോഗ്രാമുകൾ) രാജേഷ് ശ്രീനിവാസ് ഉപാധ്യായുല പറഞ്ഞു, ഐഐഎംകെയിലെ ബിസിനസ് ഇൻകുബേറ്ററായ &#39;ലൈവ്&#39; ഇപ്പോൾ ലക്ഷക്കണക്കിന് സംരംഭകരെ സൃഷ്ടിച്ചിട്ടുണ്ട്. &quot;ഏകദേശം 100 തുടക്കക്കാരുണ്ട്",
-          "tags": [],
-          "title": "ഐഐഎംകെ ഇപിജിപിയുടെ 18-ാമത് ബാച്ച് പുറത്തിറക്കി",
+          "summary": "2015 മാർച്ച് 31 നും 2022 ഡിസംബർ 27 നും ഇടയിൽ അന്നത്തെ മുഖ്യമന്ത്രി അരവിന്ദ് കെജ്‌രിവാളിന് അനുവദിച്ച സർക്കാർ ബംഗ്ലാവ് പരിപാലിക്കാൻ ഏഴ് വർഷത്തിനിടെ 29.56 കോടി രൂപ ചെലവഴിച്ചതായി ഭാരതീയ ജനതാ പാർട്ടി (ബിജെപി) ശനിയാഴ്ച അവകാശപ്പെട്ടു. കെജ്‌രിവാളിന്റെ പഴയ വസതിയുടെ അറ്റകുറ്റപ്പണികളുടെ ചെലവ് സംബന്ധിച്ച വിശദാംശങ്ങൾ തേടിയ മഹാരാഷ്ട്രയിൽ നിന്നുള്ള ഒരു പൗരന് വിവരാവകാശ (ആർടിഐ) നൽകിയ മറുപടിയാണ് ബിജെപി ഉദ്ധരിച്ചത്. പ്രധാനമന്ത്രി നരേന്ദ്ര മോദിയുടെ ഔദ്യോഗിക വസതി പൊതുജനങ്ങൾക്കായി തുറന്നുകൊടുക്കണമെന്ന് ആം ആദ്മി പാർട്ടി (എഎപി) ബിജെപിയോട് ആവശ്യപ്പെട്ടു. ഒരു സർക്കാർ ബംഗ്ലാവിന്റെ വാർഷിക അറ്റകുറ്റപ്പണി ചെലവ് 3.69 കോടി രൂപയാണെന്ന് സൂചിപ്പിക്കുന്നത് കെജ്‌രിവാൾ അത് &quot;രാജകീയ നിലവാരത്തിൽ&quot; പരിപാലിച്ചു അല്ലെങ്കിൽ കൂടുതൽ സാധ്യതയോടെ &quot;അഴിമതി പ്രവർത്തനങ്ങളിൽ&quot; ഏർപ്പെട്ടിരിക്കുകയാണെന്ന് ഡൽഹി ബിജെപി പ്രസിഡന്റ് വീരേന്ദ്ര സച്ച്‌ദേവ ഒരു പത്രസമ്മേളനത്തിൽ ആരോപിച്ചു. &quot;ഡൽഹിയിൽ, ₹4 കോടി ചെലവഴിച്ച് 250-300 ചതുരശ്ര അടി വിസ്തീർണ്ണമുള്ള ഒരു ബംഗ്ലാവ് നിർമ്മിക്കാൻ കഴിയും, കെജ്‌രിവാളിന്റെ ബംഗ്ലാവിന് പ്രതിവർഷം ₹3.69 കോടി ചെലവാകുന്നത് അതിശയകരമാണ്. അദ്ദേഹം വരുമെന്ന് ആളുകൾ പ്രതീക്ഷിക്കുന്നു.&quot;",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "കെജ്‌രിവാളിന്റെ ബംഗ്ലാവ് 7 വർഷത്തേക്ക് പരിപാലിക്കാൻ ബിജെപി ചെലവഴിച്ചത് 29.56 കോടി രൂപ.",
           "tts_file_path": null
         },
         "mni-Mtei": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1802200303ad75cdb/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f1914c001afaa72fa3/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯅꯥ ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.ꯒꯤ ꯱꯸ꯁꯨꯕꯥ ꯕꯦꯆ ꯍꯧꯗꯣꯀꯈ꯭ꯔꯦ꯫",
+          "category": "Delhi",
+          "headline": "ꯕꯤ.ꯖꯦ.ꯄꯤ.: ꯂꯨꯄꯥ ꯲꯹.꯵꯶ ꯀ꯭ꯔꯣꯔ. ꯀꯦꯖꯔꯤꯋꯥꯂꯒꯤ ꯕꯉ꯭ꯒꯂꯥ ꯑꯁꯤ ꯆꯍꯤ ꯷ ꯉꯥꯛꯇꯨꯅꯥ ꯊꯝꯅꯕꯥ ꯁꯦꯜ ꯊꯥꯗꯈꯤ꯫",
           "source": "The Hindu",
-          "summary": "ꯏꯟꯗꯤꯌꯟ ꯏꯟꯁꯇꯤꯠꯌꯨꯠ ꯑꯣꯐ ꯃꯦꯅꯦꯖꯃꯦꯟꯇ ꯀꯣꯖꯤꯀꯣꯗꯦ (ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.)ꯅꯥ ꯁꯒꯣꯂꯁꯦꯜ ꯅꯨꯃꯤꯠꯇꯥ ꯑꯦꯀꯖꯤꯛꯌꯨꯇꯤꯕ ꯒ꯭ꯔꯦꯖꯨꯑꯦꯠ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝ ꯏꯟ ꯃꯦꯅꯦꯖꯃꯦꯟꯇ (ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.)ꯒꯤ ꯱꯸ꯁꯨꯕꯥ ꯕꯦꯆ ꯍꯧꯗꯣꯀꯈ꯭ꯔꯦ꯫ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝ ꯕ꯭ꯔꯣꯆꯔ ꯑꯁꯤ ꯍꯧꯗꯣꯛꯂꯗꯨꯅꯥ ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯒꯤ ꯗꯤꯔꯦꯛꯇꯔ ꯗꯦꯕꯥꯁꯤꯁ ꯆꯦꯇꯔꯖꯤꯅꯥ ꯍꯥꯌꯈꯤ ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.ꯅꯥ ꯊꯕꯛ ꯇꯧꯔꯤꯕꯥ ꯄ꯭ꯔꯣꯐꯦꯁ꯭ꯅꯦꯂꯁꯤꯡꯒꯤꯗꯃꯛꯇꯥ ꯗꯤꯖꯥꯏꯟ ꯇꯧꯕꯥ ꯆꯍꯤ ꯑꯅꯤꯒꯤ ꯑꯦꯝ.ꯕꯤ.ꯑꯦ. ꯃꯁꯤꯅꯥ ꯑꯣꯅꯂꯥꯏꯟ ꯏꯟꯇꯔꯦꯛꯇꯤꯕ ꯂꯔꯅꯤꯡꯒꯤ ꯐ꯭ꯂꯦꯛꯁꯤꯕꯤꯂꯤꯇꯤ ꯑꯁꯤ ꯑꯣꯟ-ꯀꯦꯝꯄꯁ ꯃꯣꯗ꯭ꯌꯨꯂꯁꯤꯡꯒꯥ ꯄꯨꯅꯁꯤꯜꯂꯤ꯫ ꯃꯍꯥꯛꯅꯥ ꯄꯥꯎꯃꯤꯁꯤꯡꯗꯥ ꯍꯥꯌꯈꯤ, “ꯐꯣꯔꯃꯦꯠ ꯑꯁꯤꯅꯥ ꯂꯔꯅꯔꯁꯤꯡꯅꯥ ꯃꯈꯣꯌꯒꯤ ꯀꯦꯔꯤꯌꯔꯗꯥ ꯑꯀꯥꯌꯕꯥ ꯄꯤꯗꯅꯥ ꯑꯀꯅꯕꯥ ꯑꯦꯀꯥꯗꯦꯃꯤꯛ ꯑꯦꯗꯚꯥꯟꯁꯃꯦꯟꯇ ꯂꯧꯕꯥ ꯌꯥꯍꯜꯂꯤ꯫” ꯃꯃꯥꯡꯗꯥ ꯁꯔꯨꯛ ꯌꯥꯔꯤꯕꯁꯤꯡ ꯑꯁꯤ ꯑꯥꯏ.ꯇꯤ., ꯀꯟꯁꯜꯇꯦꯁꯟ, ꯑꯦꯔꯣꯁ꯭ꯄꯦꯁ, ꯕꯦꯉ꯭ꯀꯤꯡ, ꯄꯕ꯭ꯂꯤꯛ ꯁꯦꯛꯇꯔ, ꯏꯅꯔꯖꯤ, ꯑꯣꯇꯣꯃꯣꯇꯤꯕ, ꯍꯦꯜꯊꯀꯦꯌꯔ, ꯏ-ꯀꯃꯔꯁ, ꯑꯃꯁꯨꯡ ꯃꯦꯟꯌꯨꯐꯦꯀꯆꯔꯤꯡ ꯌꯥꯑꯣꯅꯥ ꯏꯟꯗꯁ꯭ꯠꯔꯤꯁꯤꯡꯒꯤ ꯄꯥꯛ ꯆꯥꯎꯔꯕꯥ ꯁ꯭ꯄꯦꯛꯠꯔꯦꯝ ꯑꯃꯗꯒꯤ ꯂꯥꯀꯈꯤ꯫ ꯃꯈꯣꯌ ꯑꯁꯤ ꯇꯣꯉꯥꯟ ꯇꯣꯉꯥꯅꯕꯥ ꯃꯍꯩ-ꯃꯁꯤꯡꯒꯤ ꯂꯃꯗꯥ ꯂꯥꯀꯄꯥ ꯑꯃꯁꯨꯡ ꯆꯍꯤ ꯑꯍꯨꯃꯗꯒꯤ ꯲꯵ ꯐꯥꯑꯣꯕꯒꯤ ꯊꯕꯛꯀꯤ ꯑꯦꯛꯁꯄꯔꯤꯌꯦꯟꯁ ꯂꯩꯕꯥ ꯃꯤꯑꯣꯏꯁꯤꯡꯅꯤ꯫ ꯃꯇꯨꯡꯗꯥ ꯋꯥꯍꯪꯁꯤꯡꯒꯤ ꯄꯥꯎꯈꯨꯝ ꯄꯤꯔꯗꯨꯅꯥ ꯊꯕꯛꯇꯒꯤ ꯄꯣꯠꯊꯥꯔꯕꯥ ꯗꯤꯟ (ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯃꯁꯤꯡ) ꯔꯥꯖꯦꯁ ꯁ꯭ꯔꯤꯅꯤꯕꯥꯁ ꯎꯄꯥꯙ꯭ꯌꯥꯌꯨꯂꯥꯅꯥ ꯍꯥꯌꯈꯤ ꯃꯗꯨꯗꯤ ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯗꯥ ꯕꯤꯖꯤꯅꯦꯁ ꯏꯅꯛꯌꯨꯕꯦꯇꯔ ꯑꯣꯏꯔꯤꯕꯥ ‘ꯂꯥꯏꯕ’ꯅꯥ ꯍꯧꯖꯤꯛ ꯐꯥꯑꯣꯕꯗꯥ ꯑꯣꯟꯠꯔꯞꯔꯤꯅꯔ ꯂꯥꯈ ꯀꯌꯥ ꯁꯦꯃꯒꯠꯂꯦ꯫ “ꯆꯥꯎꯔꯥꯛꯅꯥ ꯁ꯭ꯇꯥꯔꯠ ꯱꯰꯰ ꯂꯩꯔꯤ꯫",
-          "tags": [],
-          "title": "ꯑꯥꯏ.ꯑꯥꯏ.ꯑꯦꯝ.ꯀꯦ.ꯅꯥ ꯏ.ꯄꯤ.ꯖꯤ.ꯄꯤ.ꯒꯤ ꯱꯸ꯁꯨꯕꯥ ꯕꯦꯆ ꯍꯧꯗꯣꯀꯈ꯭ꯔꯦ꯫",
+          "summary": "ꯃꯇꯝ ꯑꯗꯨꯒꯤ ꯃꯨꯈ꯭ꯌ ꯃꯟꯠꯔꯤ ꯑꯔꯕꯤꯟꯗ ꯀꯦꯖꯔꯤꯋꯥꯂꯗꯥ ꯄꯤꯈꯤꯕꯥ ꯁꯔꯀꯥꯔꯒꯤ ꯕꯉ꯭ꯒꯂꯥ ꯑꯗꯨ ꯉꯥꯛꯇꯨꯅꯥ ꯊꯝꯅꯕꯥ ꯲꯰꯱꯵ꯒꯤ ꯃꯥꯔꯆ ꯳꯱ ꯑꯃꯁꯨꯡ ꯲꯰꯲꯲ꯒꯤ ꯗꯤꯁꯦꯝꯕꯔ ꯲꯷ ꯐꯥꯑꯣꯕꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯆꯍꯤ ꯷ ꯍꯦꯟꯅꯥ ꯂꯨꯄꯥ ꯀꯔꯣꯔ ꯲꯹.꯵꯶ ꯆꯥꯗꯤꯡ ꯇꯧꯈꯤ ꯍꯥꯌꯅꯥ ꯁꯒꯣꯂꯁꯦꯜ ꯅꯨꯃꯤꯠꯇꯥ ꯚꯥꯔꯇꯤꯌ ꯖꯅꯇꯥ ꯄꯥꯔꯇꯤꯅꯥ ꯂꯥꯎꯊꯣꯀꯈꯤ꯫ ꯁ꯭ꯔꯤ ꯀꯦꯖꯔꯤꯋꯥꯂꯒꯤ ꯑꯔꯤꯕꯥ ꯂꯩꯐꯝ ꯑꯁꯤ ꯁꯦꯟꯅꯕꯒꯤ ꯃꯃꯂꯒꯤ ꯑꯀꯨꯞꯄꯥ ꯃꯔꯣꯂꯁꯤꯡ ꯂꯧꯈꯤꯕꯥ ꯃꯍꯥꯔꯥꯁ꯭ꯠꯔꯒꯤ ꯅꯥꯒꯔꯤꯛ ꯑꯃꯗꯥ ꯄꯤꯈꯤꯕꯥ ꯔꯥꯏꯠ ꯇꯨ ꯏꯅꯐꯣꯔꯃꯦꯁꯟ (ꯑꯥꯔ.ꯇꯤ.ꯑꯥꯏ.)ꯒꯤ ꯄꯥꯎꯈꯨꯝ ꯕꯤꯖꯦꯄꯤꯅꯥ ꯄꯅꯈꯤ꯫ ꯍꯤꯠ ꯕꯦꯛ ꯇꯧꯗꯨꯅꯥ ꯑꯥꯝ ꯑꯥꯗꯃꯤ ꯄꯥꯔꯇꯤ (ꯑꯦ.ꯑꯦ.ꯄꯤ.)ꯅꯥ ꯕꯤ.ꯖꯦ.ꯄꯤ.ꯗꯥ ꯄ꯭ꯔꯙꯥꯟ ꯃꯟꯠꯔꯤ ꯅꯔꯦꯟꯗ꯭ꯔ ꯃꯣꯗꯤꯒꯤ ꯑꯣꯐꯤꯁꯤꯌꯦꯜ ꯔꯦꯁꯤꯗꯦꯟꯁ ꯃꯤꯌꯥꯃꯗꯥ ꯍꯥꯡꯗꯣꯛꯅꯕꯥ ꯍꯥꯌꯈꯤ꯫ ꯄ꯭ꯔꯦꯁ ꯀꯅꯐꯔꯦꯟꯁ ꯑꯃꯗꯥ ꯋꯥ ꯉꯥꯡꯂꯗꯨꯅꯥ ꯗꯤꯜꯂꯤ ꯕꯤꯖꯦꯄꯤꯒꯤ ꯄ꯭ꯔꯁꯤꯗꯦꯟꯇ ꯕꯤꯔꯦꯟꯗ꯭ꯔ ꯁꯥꯆꯗꯦꯕꯅꯥ ꯁꯔꯀꯥꯔꯒꯤ ꯕꯉ꯭ꯒꯂꯥ ꯑꯃꯒꯤ ꯆꯍꯤꯒꯤ ꯑꯣꯏꯅꯥ ꯂꯨꯄꯥ ꯀꯔꯣꯔ ꯳.꯶꯹ꯒꯤ ꯃꯦꯟꯇꯦꯅꯦꯟꯁꯀꯤ ꯃꯃꯜ ꯑꯁꯤꯅꯥ ꯁ꯭ꯔꯤ ꯀꯦꯖꯔꯤꯋꯥꯂꯅꯥ ꯃꯁꯤꯕꯨ “ꯔꯣꯌꯦꯜ ꯁ꯭ꯇꯦꯟꯗꯔꯗ”ꯗꯥ ꯊꯃꯈꯤ ꯅꯠꯠꯔꯒꯥ ꯍꯦꯟꯅꯥ ꯌꯥꯝꯅꯥ “ꯁꯦꯟꯖꯥ-ꯊꯨꯃꯖꯥꯒꯤ ꯊꯧꯑꯣꯡꯁꯤꯡꯗꯥ” ꯌꯥꯑꯣꯈꯤ ꯍꯥꯌꯕꯥ ꯇꯥꯛꯂꯤ ꯍꯥꯌꯅꯥ ꯊꯥꯖꯕꯥ ꯄꯤꯈꯤ꯫ “ꯀꯅꯥꯒꯨꯝꯕꯥ ꯑꯃꯅꯥ ꯂꯨꯄꯥ ꯀꯔꯣꯔ ꯴ꯒꯤ ꯃꯃꯂꯗꯥ ꯃꯁꯛ ꯊꯣꯀꯄꯥ ꯁ꯭ꯛꯕ꯭ꯌꯥꯔ ꯒꯖ ꯲꯵꯰-꯳꯰꯰ꯒꯤ ꯕꯉ꯭ꯒꯂꯥ ꯑꯃꯥ ꯁꯥꯕꯥ ꯌꯥꯕꯥ ꯗꯤꯜꯂꯤꯗꯥ ꯆꯍꯤ ꯈꯨꯗꯤꯡꯒꯤ ꯂꯨꯄꯥ ꯀꯔꯣꯔ ꯳.꯶꯹ꯗꯥ ꯀꯦꯖꯔꯤꯋꯥꯂꯒꯤ ꯕꯉ꯭ꯒꯂꯥꯒꯤ ꯃꯦꯟꯇꯤꯅꯦꯟꯁꯀꯤ ꯃꯃꯜ ꯑꯁꯤ ꯉꯀꯅꯤꯡꯉꯥꯏ ꯑꯣꯏ, ꯃꯤꯌꯥꯝꯅꯥ ꯃꯍꯥꯀꯄꯨ ꯂꯥꯛꯀꯅꯤ ꯍꯥꯌꯅꯥ ꯊꯥꯖꯩ꯫",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "ꯕꯤ.ꯖꯦ.ꯄꯤ.: ꯂꯨꯄꯥ ꯲꯹.꯵꯶ ꯀ꯭ꯔꯣꯔ. ꯀꯦꯖꯔꯤꯋꯥꯂꯒꯤ ꯕꯉ꯭ꯒꯂꯥ ꯑꯁꯤ ꯆꯍꯤ ꯷ ꯉꯥꯛꯇꯨꯅꯥ ꯊꯝꯅꯕꯥ ꯁꯦꯜ ꯊꯥꯗꯈꯤ꯫",
           "tts_file_path": null
         },
         "mr": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f18034002d0041d5ce/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f19160000019ba69a2/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "आयआयएमकेने ईपीजीपीची १८ वी बॅच लाँच केली",
+          "category": "Delhi",
+          "headline": "भाजप: केजरीवालांच्या बंगल्याची देखभाल करण्यासाठी ७ वर्षे खर्च झाला २९.५६ कोटी रुपये",
           "source": "The Hindu",
-          "summary": "इंडियन इन्स्टिट्यूट ऑफ मॅनेजमेंट कोझिकोड (IIMK) ने शनिवारी एक्झिक्युटिव्ह ग्रॅज्युएट प्रोग्राम इन मॅनेजमेंट (EPGP) च्या 18 व्या बॅचची सुरुवात केली. कार्यक्रम ब्रोशर लाँच करताना, IIMK चे संचालक देबाशिष चॅटर्जी म्हणाले की EPGP हा कार्यरत व्यावसायिकांसाठी डिझाइन केलेला दोन वर्षांचा प्रमुख MBA कार्यक्रम आहे. तो कॅम्पसमधील मॉड्यूलसह ऑनलाइन इंटरॅक्टिव्ह लर्निंगची लवचिकता एकत्र करतो. &quot;हे स्वरूप विद्यार्थ्यांना त्यांच्या कारकिर्दीत व्यत्यय न आणता कठोर शैक्षणिक प्रगती करण्यास अनुमती देते,&quot; त्यांनी पत्रकारांना सांगितले. पूर्वी, सहभागी आयटी, कन्सल्टिंग, एरोस्पेस, बँकिंग, सार्वजनिक क्षेत्र, ऊर्जा, ऑटोमोटिव्ह, आरोग्यसेवा, ई-कॉमर्स आणि उत्पादन यासारख्या उद्योगांच्या विस्तृत श्रेणीतून आले होते. ते विविध शैक्षणिक पार्श्वभूमीचे होते आणि त्यांना तीन ते 25 वर्षांचा कामाचा अनुभव होता. नंतर, प्रश्नांची उत्तरे देताना, निवृत्त डीन (कार्यक्रम) राजेश श्रीनिवास उपाध्यायुला म्हणाले की, &#39;लाइव्ह&#39;, आयआयएमकेमधील बिझनेस इनक्यूबेटरने आतापर्यंत लाखो उद्योजक निर्माण केले आहेत. &quot;सुमारे 100 सुरुवाती आहेत...&quot;",
-          "tags": [],
-          "title": "आयआयएमकेने ईपीजीपीची १८ वी बॅच लाँच केली",
+          "summary": "भारतीय जनता पक्षाने (भाजप) शनिवारी असा दावा केला की, तत्कालीन मुख्यमंत्री अरविंद केजरीवाल यांना देण्यात आलेल्या सरकारी बंगल्याची देखभाल करण्यासाठी ३१ मार्च २०१५ ते २७ डिसेंबर २०२२ या सात वर्षांत २९.५६ कोटी रुपये खर्च करण्यात आले. भाजपने महाराष्ट्रातील एका नागरिकाला माहिती अधिकार (आरटीआय) अंतर्गत दिलेल्या उत्तराचा हवाला देत श्री. केजरीवाल यांच्या जुन्या निवासस्थानाच्या देखभालीच्या खर्चाची माहिती मागितली होती. या प्रश्नावर प्रत्युत्तर देताना आम आदमी पक्षाने (आप) भाजपला पंतप्रधान नरेंद्र मोदी यांचे सरकारी निवासस्थान जनतेसाठी खुले करण्याची मागणी केली. पत्रकार परिषदेत बोलताना दिल्ली भाजपचे अध्यक्ष वीरेंद्र सचदेवा यांनी आरोप केला की, सरकारी बंगल्याचा वार्षिक देखभालीचा खर्च ३.६९ कोटी रुपये आहे, त्यावरून असे दिसून येते की केजरीवाल यांनी तो &quot;शाही दर्जा&quot; मध्ये राखला होता किंवा बहुधा ते &quot;भ्रष्टाचारात&quot; सहभागी होते. &quot;दिल्लीत, जिथे २५०-३०० चौरस यार्डचा बंगला ४ कोटी रुपयांत बांधता येतो, तिथे केजरीवाल यांच्या बंगल्याचा वार्षिक ३.६९ कोटी रुपयांचा देखभालीचा खर्च आश्चर्यकारक आहे. लोक अपेक्षा करतात की ते यावेत.",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "भाजप: केजरीवालांच्या बंगल्याची देखभाल करण्यासाठी ७ वर्षे खर्च झाला २९.५६ कोटी रुपये",
           "tts_file_path": null
         },
         "or": {
           "appwrite_audio_url": null,
-          "article_id": "7b477ee77bbc",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK EPGPର 18ତମ ବ୍ୟାଚ୍ ଆରମ୍ଭ କଲା",
+          "category": "Delhi",
+          "headline": "ବିଜେପି: କେଜ୍ରିୱାଲଙ୍କ ବଙ୍ଗଳାକୁ ୭ ବର୍ଷ ଧରି ରକ୍ଷଣାବେକ୍ଷଣ ପାଇଁ ଖର୍ଚ୍ଚ ହୋଇଛି ୨୯.୫୬ କୋଟି ଟଙ୍କା",
           "source": "The Hindu",
-          "summary": "ଇଣ୍ଡିଆନ୍ ଇନଷ୍ଟିଚ୍ୟୁଟ୍ ଅଫ୍ ମ୍ୟାନେଜମେଣ୍ଟ୍ କୋଝିକୋଡ୍ (IIMK) ଶନିବାର ଦିନ ଏହାର 18ତମ ବ୍ୟାଚ୍ ଏକଜିକ୍ୟୁଟିଭ୍ ସ୍ନାତକୋତ୍ତର ପ୍ରୋଗ୍ରାମ୍ ଇନ୍ ମ୍ୟାନେଜମେଣ୍ଟ୍ (EPGP) ଆରମ୍ଭ କରିଛି। ପ୍ରୋଗ୍ରାମ୍ ବ୍ରୋସରକୁ ଉନ୍ମୋଚନ କରି, IIMK ନିର୍ଦ୍ଦେଶକ ଦେବାଶିଷ ଚାଟାର୍ଜୀ କହିଛନ୍ତି ଯେ EPGP ହେଉଛି କାର୍ଯ୍ୟରତ ବୃତ୍ତିଗତଙ୍କ ପାଇଁ ଡିଜାଇନ୍ କରାଯାଇଥିବା ଏକ ପ୍ରମୁଖ ଦୁଇ ବର୍ଷର MBA କାର୍ଯ୍ୟକ୍ରମ। ଏହା କ୍ୟାମ୍ପସ୍ ମଡ୍ୟୁଲ୍ ସହିତ ଅନଲାଇନ୍ ଇଣ୍ଟରାକ୍ଟିଭ୍ ଶିକ୍ଷଣର ନମନୀୟତାକୁ ମିଶ୍ରଣ କରେ। &quot;ଏହି ଫର୍ମାଟ୍ ଶିକ୍ଷାର୍ଥୀମାନଙ୍କୁ ସେମାନଙ୍କର କ୍ୟାରିଅର୍ ବାଧାପ୍ରାପ୍ତ ନକରି କଠୋର ଶୈକ୍ଷିକ ଉନ୍ନତି ହାସଲ କରିବାକୁ ଅନୁମତି ଦିଏ,&quot; ସେ ସାମ୍ବାଦିକମାନଙ୍କୁ କହିଛନ୍ତି। ଅତୀତରେ, ଅଂଶଗ୍ରହଣକାରୀମାନେ IT, ପରାମର୍ଶ, ଏରୋସ୍ପେସ୍, ବ୍ୟାଙ୍କିଂ, ସାର୍ବଜନୀନ କ୍ଷେତ୍ର, ଶକ୍ତି, ଅଟୋମୋଟିଭ୍, ସ୍ୱାସ୍ଥ୍ୟସେବା, ଇ-କମର୍ସ ଏବଂ ଉତ୍ପାଦନ ସମେତ ବିଭିନ୍ନ ଶିଳ୍ପରୁ ଆସିଥିଲେ। ସେମାନେ ବିବିଧ ଶିକ୍ଷାଗତ ପୃଷ୍ଠଭୂମିରୁ ଆସିଥିଲେ ଏବଂ ତିନିରୁ 25 ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ କାର୍ଯ୍ୟ ଅଭିଜ୍ଞତା ରଖିଥିଲେ। ପରେ, ପ୍ରଶ୍ନର ଉତ୍ତର ଦେଇ, ବିଦାୟୀ ଡିନ୍ (ପ୍ରୋଗ୍ରାମ୍) ରାଜେଶ ଶ୍ରୀନିବାସ ଉପାଧ୍ୟାୟୁଲା କହିଥିଲେ ଯେ &#39;ଲାଇଭ୍&#39;, IIMKର ବ୍ୟବସାୟ ଇନକ୍ୟୁବେଟର ବର୍ତ୍ତମାନ ଲକ୍ଷ ଲକ୍ଷ ଉଦ୍ୟୋଗୀ ସୃଷ୍ଟି କରିଛି। &quot;ପ୍ରାୟ 100 ଷ୍ଟାର୍ଟଅପ୍...",
-          "tags": [],
-          "title": "IIMK EPGPର 18ତମ ବ୍ୟାଚ୍ ଆରମ୍ଭ କଲା",
+          "summary": "ଭାରତୀୟ ଜନତା ପାର୍ଟି (ବିଜେପି) ଶନିବାର ଦିନ ଦାବି କରିଛି ଯେ ତତ୍କାଳୀନ ମୁଖ୍ୟମନ୍ତ୍ରୀ ଅରବିନ୍ଦ କେଜ୍ରିୱାଲଙ୍କୁ ଦିଆଯାଇଥିବା ସରକାରୀ ବଙ୍ଗଳାର ରକ୍ଷଣାବେକ୍ଷଣ ପାଇଁ ₹29.56 କୋଟି ଖର୍ଚ୍ଚ ହୋଇଛି। ଶ୍ରୀ କେଜ୍ରିୱାଲଙ୍କ ପୁରୁଣା ବାସଭବନର ରକ୍ଷଣାବେକ୍ଷଣ ଖର୍ଚ୍ଚର ବିବରଣୀ ମାଗିଥିବା ମହାରାଷ୍ଟ୍ରର ଜଣେ ନାଗରିକଙ୍କ ସୂଚନା ଅଧିକାର (RTI) ଉତ୍ତରକୁ ବିଜେପି ଉଦ୍ଧୃତ କରିଛି। ଏହାର ଜବାବରେ, ଆମ ଆଦମୀ ପାର୍ଟି (AAP) ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦିଙ୍କ ସରକାରୀ ବାସଭବନକୁ ସାଧାରଣ ଲୋକଙ୍କ ପାଇଁ ଖୋଲିବାକୁ ବିଜେପିକୁ କହିଛି। ଏକ ସାମ୍ବାଦିକ ସମ୍ମିଳନୀରେ ସମ୍ବୋଧିତ କରି, ଦିଲ୍ଲୀ ବିଜେପି ସଭାପତି ବୀରେନ୍ଦ୍ର ସଚଦେବ ଅଭିଯୋଗ କରିଛନ୍ତି ଯେ ଏକ ସରକାରୀ ବଙ୍ଗଳାର ବାର୍ଷିକ ରକ୍ଷଣାବେକ୍ଷଣ ଖର୍ଚ୍ଚ ସୂଚାଇ ଦିଏ ଯେ ଶ୍ରୀ କେଜ୍ରିୱାଲ ଏହାକୁ &quot;ରାଜକୀୟ ମାନଦଣ୍ଡ&quot; ରେ ରକ୍ଷଣାବେକ୍ଷଣ କରିଥିଲେ କିମ୍ବା ଅଧିକ ସମ୍ଭାବନା, &quot;ଦୁର୍ନୀତିମୂଳକ କାର୍ଯ୍ୟ&quot; ରେ ଜଡିତ ଥିଲେ। &quot;ଦିଲ୍ଲୀରେ, ଯେଉଁଠାରେ ଜଣେ ₹4 କୋଟି ଟଙ୍କାରେ 250-300 ବର୍ଗ ଗଜ ବଙ୍ଗଳା ନିର୍ମାଣ କରିପାରିବେ, ସେଠାରେ କେଜ୍ରିୱାଲଙ୍କ ବଙ୍ଗଳାର ରକ୍ଷଣାବେକ୍ଷଣ ଖର୍ଚ୍ଚ ବାର୍ଷିକ ₹3.69 କୋଟି ଟଙ୍କା ଆଶ୍ଚର୍ଯ୍ୟଜନକ। ଲୋକମାନେ ଆଶା କରୁଛନ୍ତି ଯେ ସେ ଆସିବେ।",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "ବିଜେପି: କେଜ୍ରିୱାଲଙ୍କ ବଙ୍ଗଳାକୁ ୭ ବର୍ଷ ଧରି ରକ୍ଷଣାବେକ୍ଷଣ ପାଇଁ ଖର୍ଚ୍ଚ ହୋଇଛି ୨୯.୫୬ କୋଟି ଟଙ୍କା",
           "tts_file_path": null
         },
         "pa": {
           "appwrite_audio_url": null,
-          "article_id": "7b477ee77bbc",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK ਨੇ EPGP ਦਾ 18ਵਾਂ ਬੈਚ ਲਾਂਚ ਕੀਤਾ",
+          "category": "Delhi",
+          "headline": "ਭਾਜਪਾ: ਕੇਜਰੀਵਾਲ ਦੇ ਬੰਗਲੇ ਦੀ ਦੇਖਭਾਲ ਲਈ 7 ਸਾਲਾਂ ਤੱਕ 29.56 ਕਰੋੜ ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ",
           "source": "The Hindu",
-          "summary": "ਇੰਡੀਅਨ ਇੰਸਟੀਚਿਊਟ ਆਫ਼ ਮੈਨੇਜਮੈਂਟ ਕੋਝੀਕੋਡ (IIMK) ਨੇ ਸ਼ਨੀਵਾਰ ਨੂੰ ਐਗਜ਼ੀਕਿਊਟਿਵ ਗ੍ਰੈਜੂਏਟ ਪ੍ਰੋਗਰਾਮ ਇਨ ਮੈਨੇਜਮੈਂਟ (EPGP) ਦੇ ਆਪਣੇ 18ਵੇਂ ਬੈਚ ਦੀ ਸ਼ੁਰੂਆਤ ਕੀਤੀ। ਪ੍ਰੋਗਰਾਮ ਬਰੋਸ਼ਰ ਲਾਂਚ ਕਰਦੇ ਹੋਏ, IIMK ਦੇ ਡਾਇਰੈਕਟਰ ਦੇਬਾਸ਼ੀਸ਼ ਚੈਟਰਜੀ ਨੇ ਕਿਹਾ ਕਿ EPGP ਇੱਕ ਪ੍ਰਮੁੱਖ ਦੋ-ਸਾਲਾ MBA ਪ੍ਰੋਗਰਾਮ ਸੀ ਜੋ ਕੰਮ ਕਰਨ ਵਾਲੇ ਪੇਸ਼ੇਵਰਾਂ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਹ ਕੈਂਪਸ ਵਿੱਚ ਮੌਡਿਊਲਾਂ ਦੇ ਨਾਲ ਔਨਲਾਈਨ ਇੰਟਰਐਕਟਿਵ ਸਿਖਲਾਈ ਦੀ ਲਚਕਤਾ ਨੂੰ ਜੋੜਦਾ ਹੈ। &quot;ਇਹ ਫਾਰਮੈਟ ਸਿਖਿਆਰਥੀਆਂ ਨੂੰ ਆਪਣੇ ਕਰੀਅਰ ਵਿੱਚ ਵਿਘਨ ਪਾਏ ਬਿਨਾਂ ਸਖ਼ਤ ਅਕਾਦਮਿਕ ਤਰੱਕੀ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ,&quot; ਉਸਨੇ ਪੱਤਰਕਾਰਾਂ ਨੂੰ ਦੱਸਿਆ। ਪਹਿਲਾਂ, ਭਾਗੀਦਾਰ IT, ਸਲਾਹਕਾਰ, ਏਰੋਸਪੇਸ, ਬੈਂਕਿੰਗ, ਜਨਤਕ ਖੇਤਰ, ਊਰਜਾ, ਆਟੋਮੋਟਿਵ, ਸਿਹਤ ਸੰਭਾਲ, ਈ-ਕਾਮਰਸ ਅਤੇ ਨਿਰਮਾਣ ਸਮੇਤ ਉਦਯੋਗਾਂ ਦੇ ਇੱਕ ਵਿਸ਼ਾਲ ਸਪੈਕਟ੍ਰਮ ਤੋਂ ਆਏ ਸਨ। ਉਹ ਵਿਭਿੰਨ ਵਿਦਿਅਕ ਪਿਛੋਕੜਾਂ ਤੋਂ ਸਨ ਅਤੇ ਤਿੰਨ ਤੋਂ 25 ਸਾਲਾਂ ਤੱਕ ਦੇ ਕੰਮ ਦੇ ਤਜਰਬੇ ਵਾਲੇ ਸਨ। ਬਾਅਦ ਵਿੱਚ, ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਦਿੰਦੇ ਹੋਏ, ਬਾਹਰ ਜਾਣ ਵਾਲੇ ਡੀਨ (ਪ੍ਰੋਗਰਾਮ) ਰਾਜੇਸ਼ ਸ਼੍ਰੀਨਿਵਾਸ ਉਪਾਧਿਆਯੁਲਾ ਨੇ ਕਿਹਾ ਕਿ &#39;ਲਾਈਵ&#39;, IIMK ਦੇ ਕਾਰੋਬਾਰੀ ਇਨਕਿਊਬੇਟਰ ਨੇ ਹੁਣ ਤੱਕ ਲੱਖਾਂ ਉੱਦਮੀ ਪੈਦਾ ਕੀਤੇ ਹਨ। &quot;ਲਗਭਗ 100 ਸ਼ੁਰੂਆਤ ਹਨ",
-          "tags": [],
-          "title": "IIMK ਨੇ EPGP ਦਾ 18ਵਾਂ ਬੈਚ ਲਾਂਚ ਕੀਤਾ",
+          "summary": "ਭਾਰਤੀ ਜਨਤਾ ਪਾਰਟੀ (ਭਾਜਪਾ) ਨੇ ਸ਼ਨੀਵਾਰ ਨੂੰ ਦਾਅਵਾ ਕੀਤਾ ਕਿ 31 ਮਾਰਚ, 2015 ਤੋਂ 27 ਦਸੰਬਰ, 2022 ਦੇ ਵਿਚਕਾਰ ਸੱਤ ਸਾਲਾਂ ਤੋਂ ਵੱਧ ਸਮੇਂ ਵਿੱਚ ਉਸ ਸਮੇਂ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਅਰਵਿੰਦ ਕੇਜਰੀਵਾਲ ਨੂੰ ਅਲਾਟ ਕੀਤੇ ਗਏ ਸਰਕਾਰੀ ਬੰਗਲੇ ਦੀ ਦੇਖਭਾਲ ਲਈ 29.56 ਕਰੋੜ ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ ਸਨ। ਭਾਜਪਾ ਨੇ ਮਹਾਰਾਸ਼ਟਰ ਦੇ ਇੱਕ ਨਾਗਰਿਕ ਨੂੰ ਸੂਚਨਾ ਅਧਿਕਾਰ (ਆਰਟੀਆਈ) ਦੇ ਜਵਾਬ ਦਾ ਹਵਾਲਾ ਦਿੱਤਾ ਜਿਸਨੇ ਸ਼੍ਰੀ ਕੇਜਰੀਵਾਲ ਦੇ ਪੁਰਾਣੇ ਨਿਵਾਸ ਦੀ ਦੇਖਭਾਲ ਦੀ ਲਾਗਤ ਦਾ ਵੇਰਵਾ ਮੰਗਿਆ ਸੀ। ਜਵਾਬੀ ਹਮਲਾ ਕਰਦੇ ਹੋਏ, ਆਮ ਆਦਮੀ ਪਾਰਟੀ (ਆਪ) ਨੇ ਭਾਜਪਾ ਨੂੰ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਨਰਿੰਦਰ ਮੋਦੀ ਦੇ ਸਰਕਾਰੀ ਨਿਵਾਸ ਨੂੰ ਜਨਤਾ ਲਈ ਖੋਲ੍ਹਣ ਲਈ ਕਿਹਾ। ਇੱਕ ਪ੍ਰੈਸ ਕਾਨਫਰੰਸ ਨੂੰ ਸੰਬੋਧਨ ਕਰਦੇ ਹੋਏ, ਦਿੱਲੀ ਭਾਜਪਾ ਪ੍ਰਧਾਨ ਵੀਰੇਂਦਰ ਸਚਦੇਵਾ ਨੇ ਦੋਸ਼ ਲਗਾਇਆ ਕਿ ਇੱਕ ਸਰਕਾਰੀ ਬੰਗਲੇ ਲਈ ₹3.69 ਕਰੋੜ ਦੀ ਸਾਲਾਨਾ ਰੱਖ-ਰਖਾਅ ਦੀ ਲਾਗਤ ਦਰਸਾਉਂਦੀ ਹੈ ਕਿ ਸ਼੍ਰੀ ਕੇਜਰੀਵਾਲ ਨੇ ਜਾਂ ਤਾਂ ਇਸਨੂੰ &quot;ਸ਼ਾਹੀ ਮਿਆਰ&quot; ਵਿੱਚ ਰੱਖਿਆ ਸੀ ਜਾਂ, ਵਧੇਰੇ ਸੰਭਾਵਨਾ ਹੈ, &quot;ਭ੍ਰਿਸ਼ਟ ਅਭਿਆਸਾਂ&quot; ਵਿੱਚ ਸ਼ਾਮਲ ਸਨ। &quot;ਦਿੱਲੀ ਵਿੱਚ, ਜਿੱਥੇ ਕੋਈ ₹4 ਕਰੋੜ ਨਾਲ 250-300 ਵਰਗ ਗਜ਼ ਦਾ ਇੱਕ ਵਧੀਆ ਬੰਗਲਾ ਬਣਾ ਸਕਦਾ ਹੈ, ਕੇਜਰੀਵਾਲ ਦੇ ਬੰਗਲੇ ਦੀ ਦੇਖਭਾਲ ਦੀ ਲਾਗਤ ₹3.69 ਕਰੋੜ ਸਾਲਾਨਾ ਹੈਰਾਨੀਜਨਕ ਹੈ। ਲੋਕ ਉਮੀਦ ਕਰਦੇ ਹਨ ਕਿ ਉਹ ਆਉਣਗੇ",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "ਭਾਜਪਾ: ਕੇਜਰੀਵਾਲ ਦੇ ਬੰਗਲੇ ਦੀ ਦੇਖਭਾਲ ਲਈ 7 ਸਾਲਾਂ ਤੱਕ 29.56 ਕਰੋੜ ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ",
           "tts_file_path": null
         },
         "sa": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f180510013f590cd26/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f191820026351c868b/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK इत्यनेन EPGP इत्यस्य १८तमः बैचः प्रारम्भः कृतः",
+          "category": "Delhi",
+          "headline": "भाजपा : ₹29.56 क्र. केजरीवालस्य बंगलस्य ७ वर्षाणि यावत् परिपालनाय व्ययितवान्",
           "source": "The Hindu",
-          "summary": "भारतीयप्रबन्धनसंस्थानकोझिकोडेन (IIMK ) शनिवासरे प्रबन्धने कार्यकारीस्नातककार्यक्रमस्य (EPGP) १८तमः बैचः प्रारब्धः। कार्यक्रमस्य ब्रोशरस्य प्रारम्भं कुर्वन् IIMK निदेशकः Debashis Chatterjee उक्तवान् यत् EPGP एकः प्रमुखः द्विवर्षीयः MBA कार्यक्रमः अस्ति यः कार्यरतव्यावसायिकानां कृते विनिर्मितः अस्ति। एतत् परिसरे स्थितैः मॉड्यूलैः सह ऑनलाइन-अन्तरक्रियाशील-शिक्षणस्य लचीलतां संयोजयति । “एतत् प्रारूपं शिक्षिकाः स्वस्य करियरं न बाधित्वा कठोरशैक्षणिक उन्नतिं कर्तुं शक्नुवन्ति” इति सः पत्रकारैः सह अवदत् । पूर्वं प्रतिभागिनः सूचनाप्रौद्योगिकी, परामर्शः, एयरोस्पेस्, बैंकिंग्, सार्वजनिकक्षेत्रं, ऊर्जा, वाहनचालनम्, स्वास्थ्यसेवा, ई-वाणिज्यम्, विनिर्माणं च इत्यादीनां उद्योगानां विस्तृतवर्णक्रमात् आगच्छन्ति स्म ते विविधशैक्षिकपृष्ठभूमितः आगताः, त्रयः वर्षाणि यावत् कार्यानुभवः च आसीत् । पश्चात् प्रश्नानाम् उत्तरं दत्त्वा निवर्तमानः डीनः (कार्यक्रमाः) राजेशश्रीनिवास उपाध्यायुला अवदत् यत् &#39;लाइव&#39; इति आईआईएमके इत्यत्र व्यापार-इन्क्यूबेटरः अधुना यावत् लक्षशः उद्यमिनः निर्मितवान् अस्ति। “प्रायः १०० आरम्भाः सन्ति",
-          "tags": [],
-          "title": "IIMK इत्यनेन EPGP इत्यस्य १८तमः बैचः प्रारम्भः कृतः",
+          "summary": "भारतीयजनतापक्षेण शनिवासरे दावितं यत् तत्कालीनमुख्यमन्त्री अरविन्दकेजरीवालाय आवंटितस्य सरकारीबंगलस्य निर्वाहार्थं २०१५ तमस्य वर्षस्य मार्चमासस्य ३१ दिनाङ्कतः २०२२ तमस्य वर्षस्य डिसेम्बर् मासस्य २७ दिनाङ्कपर्यन्तं सप्तवर्षेभ्यः अधिकेषु ₹२९.५६ कोटिरूप्यकाणि व्ययितानि। भाजपा महाराष्ट्रस्य एकस्य नागरिकस्य सूचनाधिकारस्य प्रतिक्रियायाः उल्लेखं कृतवती यः केजरीवालमहोदयस्य पुरातननिवासस्य परिपालनस्य व्ययस्य विवरणं याचितवान् आसीत्। प्रतिप्रहारं कृत्वा आम आदमीपक्षः भाजपायाः कृते प्रधानमन्त्री नरेन्द्रमोदी इत्यस्य आधिकारिकनिवासं जनसामान्यं प्रति उद्घाटयितुं आह। पत्रकारसम्मेलनं सम्बोधयन् दिल्लीभाजपा अध्यक्षः वीरेन्द्रसचदेवः आरोपितवान् यत् एकस्य सर्वकारीयबंगलस्य वार्षिकं ₹3.69 कोटिरूप्यकाणां अनुरक्षणव्ययः सूचयति यत् केजरीवालमहोदयेन यावान् तस्य परिपालनं “शाहीमानके” अथवा, अधिकसंभावना यत्, “भ्रष्टाचारप्रथेषु” संलग्नः आसीत्। “दिल्लीनगरे यत्र ₹४ कोटिरूप्यकेन २५०-३०० वर्गगजस्य शिष्टं बंगलं निर्मातुं शक्यते, तत्र केजरीवालस्य बंगलस्य परिपालनस्य व्ययः प्रतिवर्षं ₹३.६९ कोटिरूप्यकाणां मूल्येन आश्चर्यजनकः अस्ति।जनाः अपेक्षन्ते यत् सः आगमिष्यति",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "भाजपा : ₹29.56 क्र. केजरीवालस्य बंगलस्य ७ वर्षाणि यावत् परिपालनाय व्ययितवान्",
           "tts_file_path": null
         },
         "sd": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f18064003c2e50fa8c/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f19197002c36b2f594/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK EPGP جي 18 هين بيچ جي شروعات ڪئي",
+          "category": "Delhi",
+          "headline": "بي جي پي: ڪيجريوال جي بنگلي کي 7 سالن تائين برقرار رکڻ لاءِ 29.56 ڪروڙ رپيا خرچ ڪيا ويا.",
           "source": "The Hindu",
-          "summary": "انڊين انسٽيٽيوٽ آف مئنيجمينٽ ڪوزي ڪوڊ (IIMK) ڇنڇر تي ايگزيڪيوٽو گريجوئيٽ پروگرام ان مئنيجمينٽ (EPGP) جي 18 هين بيچ جو آغاز ڪيو. پروگرام بروشر لانچ ڪندي، IIMK ڊائريڪٽر ديباشيس چٽرجي چيو ته EPGP هڪ فليگ شپ ٻن سالن جو MBA پروگرام هو جيڪو ڪم ڪندڙ پيشه ور ماڻهن لاءِ ٺاهيو ويو آهي. اهو آن لائن انٽرايڪٽو سکيا جي لچڪ کي ڪيمپس ماڊلز سان گڏ ڪري ٿو. &quot;هي فارميٽ سکيا ڏيندڙن کي انهن جي ڪيريئر ۾ خلل وجهڻ کان سواءِ سخت تعليمي ترقي جي پيروي ڪرڻ جي اجازت ڏئي ٿو،&quot; هن صحافين کي ٻڌايو. ماضي ۾، شرڪت ڪندڙ آئي ٽي، صلاحڪار، ايرو اسپيس، بينڪنگ، پبلڪ سيڪٽر، توانائي، آٽوميٽو، هيلٿ ڪيئر، اي ڪامرس، ۽ پيداوار سميت صنعتن جي وسيع دائري مان آيا هئا. اهي مختلف تعليمي پس منظر مان هئا ۽ ٽن کان 25 سالن تائين ڪم جو تجربو رکندڙ هئا. بعد ۾، سوالن جا جواب ڏيندي، سبڪدوش ڊين (پروگرام) راجيش سرينواس اپاڌيائيولا چيو ته &#39;لائيو&#39;، IIMK ۾ ڪاروباري انڪيوبيٽر هاڻي تائين لکين ڪاروباري پيدا ڪري چڪو آهي. &quot;تقريبن 100 شروعاتي آهن&quot;",
-          "tags": [],
-          "title": "IIMK EPGP جي 18 هين بيچ جي شروعات ڪئي",
+          "summary": "ڀارتيه جنتا پارٽي (بي جي پي) ڇنڇر ڏينهن دعويٰ ڪئي ته 31 مارچ 2015 ۽ 27 ڊسمبر 2022 جي وچ ۾ ست سالن کان وڌيڪ عرصي ۾ ان وقت جي وڏي وزير اروند ڪيجريوال کي الاٽ ڪيل سرڪاري بنگلي جي سار سنڀال لاءِ 29.56 ڪروڙ رپيا خرچ ڪيا ويا. بي جي پي مهاراشٽر جي هڪ شهري جي معلومات جي حق (آر ٽي آءِ) جي جواب جو حوالو ڏنو، جنهن مسٽر ڪيجريوال جي پراڻي رهائش جي سار سنڀال جي خرچ جي تفصيل گهري هئي. جوابي حملي ۾، عام ماڻهو پارٽي (اي اي پي) بي جي پي کان وزيراعظم نريندر مودي جي سرڪاري رهائش کي عوام لاءِ کولڻ لاءِ چيو. هڪ پريس ڪانفرنس کي خطاب ڪندي، دهلي بي جي پي جي صدر ويريندر سچديوا الزام لڳايو ته سرڪاري بنگلي جي سالياني سار سنڀال جي قيمت 3.69 ڪروڙ رپيا ظاهر ڪري ٿي ته مسٽر ڪيجريوال يا ته ان کي &quot;شاهي معيار&quot; ۾ برقرار رکيو يا، وڌيڪ امڪان، &quot;بدعنواني عملن&quot; ۾ ملوث هو. &quot;دهلي ۾، جتي ڪو به 4 ڪروڙ رپين سان 250-300 چورس گز جو هڪ سٺو بنگلو ٺاهي سگهي ٿو، ڪيجريوال جي بنگلي جي سار سنڀال جي قيمت 3.69 ڪروڙ رپيا ساليانو حيران ڪندڙ آهي. ماڻهو توقع ڪن ٿا ته هو ان لاءِ ايندو.",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "بي جي پي: ڪيجريوال جي بنگلي کي 7 سالن تائين برقرار رکڻ لاءِ 29.56 ڪروڙ رپيا خرچ ڪيا ويا.",
           "tts_file_path": null
         },
         "ta": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1807600367dbb74d5/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f191ab0012b82de2ba/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK 18வது EPGP தொகுப்பை அறிமுகப்படுத்துகிறது",
+          "category": "Delhi",
+          "headline": "பாஜக: கெஜ்ரிவாலின் பங்களாவை 7 ஆண்டுகளாகப் பராமரிக்க ₹29.56 கோடி செலவிடப்பட்டது.",
           "source": "The Hindu",
-          "summary": "இந்திய மேலாண்மை நிறுவனம் கோழிக்கோடு (IIMK), சனிக்கிழமை தனது 18வது தொகுதி நிர்வாக பட்டதாரி திட்ட மேலாண்மை (EPGP) ஐ அறிமுகப்படுத்தியது. திட்ட சிற்றேட்டை வெளியிட்ட IIMK இயக்குனர் தேபாஷிஸ் சாட்டர்ஜி, EPGP என்பது பணிபுரியும் நிபுணர்களுக்காக வடிவமைக்கப்பட்ட ஒரு முதன்மையான இரண்டு ஆண்டு MBA திட்டம் என்று கூறினார். இது ஆன்லைன் ஊடாடும் கற்றலின் நெகிழ்வுத்தன்மையை வளாகத்தில் உள்ள தொகுதிகளுடன் ஒருங்கிணைக்கிறது. &quot;இந்த வடிவம் கற்பவர்கள் தங்கள் வாழ்க்கையைத் தடுக்காமல் கடுமையான கல்வி முன்னேற்றத்தைத் தொடர அனுமதிக்கிறது,&quot; என்று அவர் செய்தியாளர்களிடம் கூறினார். கடந்த காலத்தில், பங்கேற்பாளர்கள் IT, ஆலோசனை, விண்வெளி, வங்கி, பொதுத்துறை, எரிசக்தி, வாகனம், சுகாதாரம், மின் வணிகம் மற்றும் உற்பத்தி உள்ளிட்ட பல்வேறு தொழில்களில் இருந்து வந்தவர்கள். அவர்கள் பல்வேறு கல்விப் பின்னணியைச் சேர்ந்தவர்கள் மற்றும் மூன்று முதல் 25 ஆண்டுகள் வரையிலான பணி அனுபவத்தைக் கொண்டவர்கள். பின்னர், கேள்விகளுக்கு பதிலளித்து, வெளியேறும் டீன் (திட்டங்கள்) ராஜேஷ் ஸ்ரீனிவாஸ் உபாத்யாயுலா, IIMK இல் வணிக காப்பகமான &#39;லைவ்&#39; இப்போது லட்சக்கணக்கான தொழில்முனைவோரை உருவாக்கியுள்ளது என்று கூறினார். &quot;சுமார் 100 தொடக்கநிலையாளர்கள் உள்ளனர்",
-          "tags": [],
-          "title": "IIMK 18வது EPGP தொகுப்பை அறிமுகப்படுத்துகிறது",
+          "summary": "மார்ச் 31, 2015 முதல் டிசம்பர் 27, 2022 வரையிலான ஏழு ஆண்டுகளில் அப்போதைய முதல்வர் அரவிந்த் கெஜ்ரிவாலுக்கு ஒதுக்கப்பட்ட அரசு பங்களாவைப் பராமரிக்க ₹29.56 கோடி செலவிடப்பட்டதாக பாரதிய ஜனதா கட்சி (BJP) சனிக்கிழமை கூறியது. திரு. கெஜ்ரிவாலின் பழைய இல்லத்தின் பராமரிப்பு செலவு குறித்த விவரங்களைக் கோரிய மகாராஷ்டிராவைச் சேர்ந்த ஒரு குடிமகனுக்கு தகவல் அறியும் உரிமைச் சட்டத்தின் (RTI) பதிலை பாஜக மேற்கோள் காட்டியது. இதற்கு பதிலடி கொடுக்கும் விதமாக, பிரதமர் நரேந்திர மோடியின் அதிகாரப்பூர்வ இல்லத்தை பொதுமக்களுக்குத் திறக்குமாறு ஆம் ஆத்மி கட்சி (AAP) பாஜகவிடம் கேட்டுக் கொண்டது. ஒரு செய்தியாளர் கூட்டத்தில் உரையாற்றிய டெல்லி பாஜக தலைவர் வீரேந்திர சச்தேவா, ஒரு அரசு பங்களாவிற்கான ஆண்டு பராமரிப்பு செலவு ₹3.69 கோடி என்பது திரு. கெஜ்ரிவால் அதை &quot;அரச தரத்தில்&quot; பராமரித்திருக்கலாம் அல்லது &quot;ஊழல் நடைமுறைகளில்&quot; ஈடுபட்டிருக்கலாம் என்பதைக் குறிக்கிறது என்று குற்றம் சாட்டினார். &quot;டெல்லியில், ₹4 கோடியில் 250-300 சதுர அடி பரப்பளவு கொண்ட ஒரு நல்ல பங்களாவை கட்ட முடியும், கெஜ்ரிவாலின் பங்களாவின் பராமரிப்பு செலவு ஆண்டுதோறும் ₹3.69 கோடி என்பது ஆச்சரியமளிக்கிறது. அவர் வருவார் என்று மக்கள் எதிர்பார்க்கிறார்கள்&quot;",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "பாஜக: கெஜ்ரிவாலின் பங்களாவை 7 ஆண்டுகளாகப் பராமரிக்க ₹29.56 கோடி செலவிடப்பட்டது.",
           "tts_file_path": null
         },
         "te": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1808b003bc15f99fd/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f191c0003160354342/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "ఐఐఎంకె 18వ బ్యాచ్ ఇపిజిపిని ప్రారంభించింది",
+          "category": "Delhi",
+          "headline": "కేజ్రీవాల్ బంగ్లాను 7 సంవత్సరాలు నిర్వహించడానికి బిజెపి ₹29.56 కోట్లు ఖర్చు చేసింది.",
           "source": "The Hindu",
-          "summary": "ఇండియన్ ఇన్‌స్టిట్యూట్ ఆఫ్ మేనేజ్‌మెంట్ కోజికోడ్ (IIMK) తన 18వ బ్యాచ్ ఎగ్జిక్యూటివ్ గ్రాడ్యుయేట్ ప్రోగ్రామ్ ఇన్ మేనేజ్‌మెంట్ (EPGP)ను శనివారం ప్రారంభించింది. ఈ ప్రోగ్రామ్ బ్రోచర్‌ను ఆవిష్కరించిన IIMK డైరెక్టర్ దేబాషిస్ ఛటర్జీ మాట్లాడుతూ, EPGP అనేది పని చేసే నిపుణుల కోసం రూపొందించబడిన ఫ్లాగ్‌షిప్ రెండేళ్ల MBA ప్రోగ్రామ్ అని అన్నారు. ఇది ఆన్‌లైన్ ఇంటరాక్టివ్ లెర్నింగ్ యొక్క సౌలభ్యాన్ని ఆన్-క్యాంపస్ మాడ్యూళ్లతో మిళితం చేస్తుంది. &quot;ఈ ఫార్మాట్ అభ్యాసకులు తమ కెరీర్‌లకు అంతరాయం కలిగించకుండా కఠినమైన విద్యా పురోగతిని కొనసాగించడానికి వీలు కల్పిస్తుంది&quot; అని ఆయన విలేకరులతో అన్నారు. గతంలో, పాల్గొనేవారు IT, కన్సల్టింగ్, ఏరోస్పేస్, బ్యాంకింగ్, ప్రభుత్వ రంగం, ఇంధనం, ఆటోమోటివ్, హెల్త్‌కేర్, ఇ-కామర్స్ మరియు తయారీ వంటి విస్తృత శ్రేణి పరిశ్రమల నుండి వచ్చారు. వారు విభిన్న విద్యా నేపథ్యాల నుండి వచ్చారు మరియు మూడు నుండి 25 సంవత్సరాల వరకు పని అనుభవం కలిగి ఉన్నారు. తరువాత, ప్రశ్నలకు సమాధానమిస్తూ, అవుట్‌గోయింగ్ డీన్ (ప్రోగ్రామ్స్) రాజేష్ శ్రీనివాస్ ఉపాధ్యాయుల మాట్లాడుతూ, IIMKలోని బిజినెస్ ఇంక్యుబేటర్ &#39;లైవ్&#39; ఇప్పటికే లక్షలాది మంది వ్యవస్థాపకులను సృష్టించిందని అన్నారు. &quot;సుమారు 100 మంది ప్రారంభకులు ఉన్నారు",
-          "tags": [],
-          "title": "ఐఐఎంకె 18వ బ్యాచ్ ఇపిజిపిని ప్రారంభించింది",
+          "summary": "మార్చి 31, 2015 నుండి డిసెంబర్ 27, 2022 మధ్య ఏడు సంవత్సరాలలో అప్పటి ముఖ్యమంత్రి అరవింద్ కేజ్రీవాల్ కు కేటాయించిన ప్రభుత్వ బంగ్లా నిర్వహణకు ₹29.56 కోట్లు ఖర్చు చేశారని భారతీయ జనతా పార్టీ (బిజెపి) శనివారం పేర్కొంది. మిస్టర్ కేజ్రీవాల్ పాత నివాసం నిర్వహణ ఖర్చు వివరాలను కోరిన మహారాష్ట్రకు చెందిన ఒక పౌరుడికి సమాచార హక్కు (ఆర్టీఐ) ప్రతిస్పందనను బిజెపి ఉదహరించింది. దీనికి ప్రతిగా, ఆమ్ ఆద్మీ పార్టీ (ఆప్) ప్రధానమంత్రి నరేంద్ర మోడీ అధికారిక నివాసాన్ని ప్రజలకు తెరవాలని బిజెపిని కోరింది. ఢిల్లీ బిజెపి అధ్యక్షుడు వీరేంద్ర సచ్ దేవా విలేకరుల సమావేశంలో మాట్లాడుతూ, ప్రభుత్వ బంగ్లాకు వార్షిక నిర్వహణ ఖర్చు ₹3.69 కోట్లు అని, మిస్టర్ కేజ్రీవాల్ దానిని &quot;రాజ ప్రమాణం&quot;లో నిర్వహించారని లేదా &quot;అవినీతి పద్ధతుల్లో&quot; పాల్గొన్నారని సూచిస్తున్నారని ఆరోపించారు. &quot;ఢిల్లీలో, ₹4 కోట్లతో 250-300 చదరపు గజాల బంగ్లాను నిర్మించవచ్చు, కేజ్రీవాల్ బంగ్లా నిర్వహణకు ఏటా ₹3.69 కోట్లు ఖర్చవుతుండటం ఆశ్చర్యకరం. ప్రజలు ఆయన వస్తారని ఆశిస్తున్నారు&quot;",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "కేజ్రీవాల్ బంగ్లాను 7 సంవత్సరాలు నిర్వహించడానికి బిజెపి ₹29.56 కోట్లు ఖర్చు చేసింది.",
           "tts_file_path": null
         },
         "ur": {
-          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67f025a400162fc76880/files/67f1809e0004c12e59e4/view?project=67efb54900393d4937bf",
-          "article_id": "7b477ee77bbc",
+          "appwrite_audio_url": "https://cloud.appwrite.io/v1/storage/buckets/67ebda55003d13baad95/files/67f191d300170caa44f1/view?project=67ebd7f90031f7db3632",
+          "article_id": "364680b71592",
           "author": "Unknown Author",
-          "category": "Kerala",
-          "headline": "IIMK نے EPGP کے 18ویں بیچ کا آغاز کیا۔",
+          "category": "Delhi",
+          "headline": "بی جے پی: 29.56 کروڑ 7 سال تک کیجریوال کے بنگلے کی دیکھ بھال کے لیے خرچ کیا۔",
           "source": "The Hindu",
-          "summary": "انڈین انسٹی ٹیوٹ آف مینجمنٹ کوزی کوڈ (IIMK) نے ہفتہ کو ایگزیکٹو گریجویٹ پروگرام ان مینجمنٹ (EPGP) کے اپنے 18ویں بیچ کا آغاز کیا۔ پروگرام کے بروشر کا آغاز کرتے ہوئے، آئی آئی ایم کے کے ڈائریکٹر دیباشیس چٹرجی نے کہا کہ ای پی جی پی ایک فلیگ شپ دو سالہ ایم بی اے پروگرام ہے جو کام کرنے والے پیشہ ور افراد کے لیے ڈیزائن کیا گیا ہے۔ یہ آن کیمپس ماڈیولز کے ساتھ آن لائن انٹرایکٹو سیکھنے کی لچک کو یکجا کرتا ہے۔ انہوں نے نامہ نگاروں کو بتایا کہ &quot;یہ فارمیٹ سیکھنے والوں کو اپنے کیریئر میں رکاوٹ ڈالے بغیر سخت تعلیمی ترقی کو آگے بڑھانے کی اجازت دیتا ہے۔&quot; ماضی میں، شرکاء آئی ٹی، مشاورت، ایرو اسپیس، بینکنگ، پبلک سیکٹر، توانائی، آٹوموٹیو، صحت کی دیکھ بھال، ای کامرس، اور مینوفیکچرنگ سمیت صنعتوں کے وسیع میدان سے آئے تھے۔ وہ متنوع تعلیمی پس منظر سے تعلق رکھتے تھے اور تین سے 25 سال تک کے کام کا تجربہ رکھتے تھے۔ بعد میں، سوالات کا جواب دیتے ہوئے، سبکدوش ہونے والے ڈین (پروگرام) راجیش سرینواس اپادھیائیولا نے کہا کہ &#39;لائیو&#39;، آئی آئی ایم کے کے بزنس انکیوبیٹر نے اب تک لاکھوں کاروباری پیدا کیے ہیں۔ &quot;تقریبا 100 آغاز ہیں۔",
-          "tags": [],
-          "title": "IIMK نے EPGP کے 18ویں بیچ کا آغاز کیا۔",
+          "summary": "بھارتیہ جنتا پارٹی (بی جے پی) نے ہفتہ کے روز دعویٰ کیا کہ 31 مارچ 2015 سے 27 دسمبر 2022 کے درمیان سات سالوں میں اس وقت کے وزیر اعلیٰ اروند کیجریوال کو الاٹ کیے گئے سرکاری بنگلے کو برقرار رکھنے کے لیے 29.56 کروڑ روپے خرچ کیے گئے۔ بی جے پی نے مہاراشٹر کے ایک شہری کے جواب میں معلومات کے حق (آر ٹی آئی) کا حوالہ دیا جس نے مسٹر کیجریوال کی پرانی رہائش گاہ کی دیکھ بھال کے اخراجات کی تفصیلات مانگی تھیں۔ جوابی حملہ کرتے ہوئے، عام آدمی پارٹی (اے اے پی) نے بی جے پی سے کہا کہ وہ وزیر اعظم نریندر مودی کی سرکاری رہائش گاہ کو عوام کے لیے کھولے۔ ایک پریس کانفرنس سے خطاب کرتے ہوئے، دہلی بی جے پی کے صدر وریندر سچدیوا نے الزام لگایا کہ ایک سرکاری بنگلے کی سالانہ دیکھ بھال کی لاگت ₹3.69 کروڑ بتاتی ہے کہ مسٹر کیجریوال نے یا تو اسے &quot;شاہی معیار&quot; کے مطابق برقرار رکھا یا زیادہ امکان ہے کہ وہ &quot;بدعنوانی&quot; میں ملوث تھے۔ دہلی میں، جہاں کوئی 250-300 مربع گز کا ایک معقول بنگلہ 4 کروڑ روپے سے بنا سکتا ہے، وہاں کیجریوال کے بنگلے کی دیکھ بھال پر سالانہ 3.69 کروڑ روپے کا خرچ حیران کن ہے۔",
+          "tags": [
+            "Kejriwal’s bungalow",
+            "Bharatiya Janata Party",
+            "Virendra Sachdeva"
+          ],
+          "title": "بی جے پی: 29.56 کروڑ 7 سال تک کیجریوال کے بنگلے کی دیکھ بھال کے لیے خرچ کیا۔",
           "tts_file_path": null
         }
       },
       "tts_file_path": "",
-      "url": "https://www.thehindu.com/news/national/kerala/iimk-launches-18th-batch-of-epgp/article69417173.ece"
+      "url": "https://www.thehindu.com/news/cities/Delhi/bjp-2956-cr-spent-to-maintain-kejriwals-bungalow-for-7-years/article69417480.ece"
     }
   ],
   "available_languages": {
     "as": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Assamese",
       "tts_supported": true
@@ -275,7 +339,7 @@
     "bho": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Bhojpuri",
       "tts_supported": true
@@ -283,7 +347,7 @@
     "bn": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Bengali",
       "tts_supported": true
@@ -291,7 +355,7 @@
     "en": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "English_Indian",
       "tts_supported": true
@@ -299,7 +363,7 @@
     "gu": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Gujarati",
       "tts_supported": true
@@ -307,7 +371,7 @@
     "hi": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Hindi",
       "tts_supported": true
@@ -315,7 +379,7 @@
     "kn": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Kannada",
       "tts_supported": true
@@ -323,7 +387,7 @@
     "kok": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Konkani",
       "tts_supported": true
@@ -331,7 +395,7 @@
     "mai": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Maithili",
       "tts_supported": true
@@ -339,7 +403,7 @@
     "ml": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Malayalam",
       "tts_supported": true
@@ -347,7 +411,7 @@
     "mni-Mtei": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Manipuri",
       "tts_supported": true
@@ -355,7 +419,7 @@
     "mr": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Marathi",
       "tts_supported": true
@@ -363,7 +427,7 @@
     "or": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Odia",
       "tts_supported": true
@@ -371,7 +435,7 @@
     "pa": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Punjabi",
       "tts_supported": true
@@ -379,7 +443,7 @@
     "sa": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Sanskrit",
       "tts_supported": true
@@ -387,7 +451,7 @@
     "sd": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Sindhi",
       "tts_supported": true
@@ -395,7 +459,7 @@
     "ta": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Tamil",
       "tts_supported": true
@@ -403,7 +467,7 @@
     "te": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Telugu",
       "tts_supported": true
@@ -411,14 +475,14 @@
     "ur": {
       "article_count": 1,
       "article_ids": [
-        "7b477ee77bbc"
+        "364680b71592"
       ],
       "name": "Urdu",
       "tts_supported": true
     }
   },
   "count": 1,
-  "last_updated": "2025-04-06T00:42:48.252424",
+  "last_updated": "2025-04-06T01:50:58.668024",
   "processing": false,
   "status": "success"
 }

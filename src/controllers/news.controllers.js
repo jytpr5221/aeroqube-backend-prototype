@@ -235,6 +235,17 @@ export const updateNews = asyncHandler(async (req, res) => {
       .json(new ApiResponse(200, updatedNews, "News item updated successfully"));
 });
 
+export const updateExtractedNews = asyncHandler(async (req, res) => {
+  // if(req.user.role !== 'admin')
+  //   throw new ApiError(403,'you are not authorized to perform this !')
+
+  const {news} = req.body
+
+  fs.writeFileSync('./extracted-news/news.json', JSON.stringify(news, null, 2), 'utf-8');
+
+  return res.status(200).json(new ApiResponse(200, news, "News updated successfully in the extracted file"));
+} );
+
 export const deleteNews = asyncHandler(async (req, res) => {
   if(req.user.role !== "admin") {
     throw new ApiError(403, "You are not authorized to perform this action");

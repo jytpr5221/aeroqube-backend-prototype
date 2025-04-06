@@ -324,9 +324,9 @@ export const updateNews = asyncHandler(async (req, res) => {
 });
 
 export const deleteNews = asyncHandler(async (req, res) => {
-  if(req.user.role !== "admin") {
-    throw new ApiError(403, "You are not authorized to perform this action");
-  }
+  // if(req.user.role !== "admin") {
+  //   throw new ApiError(403, "You are not authorized to perform this action");
+  // }
 
   const { id } = req.params;
 

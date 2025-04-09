@@ -1,6 +1,6 @@
 import { News } from "../models/news.models.js";
 import { ApiError } from "../utils/apiError.js";
-import { ApiResponse } from "../utils/ApiResponse.js";
+import { ApiResponse } from "../utils/apiResponse.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
 import axios from "axios";
 import fs from "fs";

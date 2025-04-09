@@ -6,7 +6,7 @@ import axios from "axios";
 import fs from "fs";
 
 // News API base URL
-const NEWS_API_URL = 'http://localhost:5000';
+const NEWS_API_URL = 'https://aeroqube-news-app-services.onrender.com';
 
 // Helper function to check if the API is available
 export const checkApiAvailability = async () => {

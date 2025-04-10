@@ -14,15 +14,47 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+function formatDate(date) {
+  const pad = (n) => n.toString().padStart(2, '0');
+
+  const hours = pad(date.getHours());
+  const minutes = pad(date.getMinutes());
+  const seconds = pad(date.getSeconds());
+  const day = pad(date.getDate());
+  const month = pad(date.getMonth() + 1); // Months are 0-based
+  const year = date.getFullYear();
+
+  return `${hours}:${minutes}:${seconds} ${day}-${month}-${year}`;
+}
+
+// Middleware to log with formatted timestamp
 app.use((req, res, next) => {
   const start = new Date();
+
   res.on('finish', () => {
-    const end = new Date();
-    const timestamp = start.toISOString();
+    const timestamp = formatDate(start);
     console.log(`[${timestamp}] ${req.method} ${req.originalUrl} -> ${res.statusCode}`);
   });
 
   next();
+});
+
+// Example routes
+app.get('/', (req, res) => {
+  res.send('Hello, world!');
+});
+
+app.get('/error', (req, res) => {
+  res.status(500).send('Internal Server Error');
+});
+
+app.get('/notfound', (req, res) => {
+  res.status(404).send('Not Found');
+});
+
+// Start server
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
 });
 
 app.get('/', (req, res) => {

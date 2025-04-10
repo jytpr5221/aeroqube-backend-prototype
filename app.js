@@ -14,25 +14,28 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-function formatDate(date) {
+function formatToIST(date) {
+  const istOffset = 5.5 * 60 * 60 * 1000; // IST offset in milliseconds
+  const istDate = new Date(date.getTime() + istOffset);
+
   const pad = (n) => n.toString().padStart(2, '0');
 
-  const hours = pad(date.getHours());
-  const minutes = pad(date.getMinutes());
-  const seconds = pad(date.getSeconds());
-  const day = pad(date.getDate());
-  const month = pad(date.getMonth() + 1); // Months are 0-based
-  const year = date.getFullYear();
+  const hours = pad(istDate.getHours());
+  const minutes = pad(istDate.getMinutes());
+  const seconds = pad(istDate.getSeconds());
+  const day = pad(istDate.getDate());
+  const month = pad(istDate.getMonth() + 1);
+  const year = istDate.getFullYear();
 
   return `${hours}:${minutes}:${seconds} ${day}-${month}-${year}`;
 }
 
-// Middleware to log with formatted timestamp
+// Middleware to log requests with IST timestamp
 app.use((req, res, next) => {
   const start = new Date();
 
   res.on('finish', () => {
-    const timestamp = formatDate(start);
+    const timestamp = formatToIST(start);
     console.log(`[${timestamp}] ${req.method} ${req.originalUrl} -> ${res.statusCode}`);
   });
 

@@ -39,24 +39,6 @@ app.use((req, res, next) => {
   next();
 });
 
-// Example routes
-app.get('/', (req, res) => {
-  res.send('Hello, world!');
-});
-
-app.get('/error', (req, res) => {
-  res.status(500).send('Internal Server Error');
-});
-
-app.get('/notfound', (req, res) => {
-  res.status(404).send('Not Found');
-});
-
-// Start server
-app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
-});
-
 app.get('/', (req, res) => {
    return res.send('Hello from server !');
 }

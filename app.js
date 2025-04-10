@@ -14,6 +14,16 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.use((req, res, next) => {
+  const start = new Date();
+  res.on('finish', () => {
+    const end = new Date();
+    const timestamp = start.toISOString();
+    console.log(`[${timestamp}] ${req.method} ${req.originalUrl} -> ${res.statusCode}`);
+  });
+
+  next();
+});
 
 app.get('/', (req, res) => {
    return res.send('Hello from server !');
